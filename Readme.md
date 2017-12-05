@@ -22,14 +22,16 @@ Call:
 
 Example:
     - The example below will generate the excel file from iOS .string files in the folder ./Example/Laungues to the google spread: https://docs.google.com/spreadsheets/d/1xtuFQW3ZPLAtj4QUDbN_I789xSIfFAy1Rkjzfp065p0
-./String2Excel.sh "ios" ./Example/Laungues "1xtuFQW3ZPLAtj4QUDbN_I789xSIfFAy1Rkjzfp065p0" "their" True True
+
+    ./String2Excel.sh "ios" ./Example/Laungues "1xtuFQW3ZPLAtj4QUDbN_I789xSIfFAy1Rkjzfp065p0" "their" True True
 
 Export .xlsx files to .string /.xml files
 ==================
 Call:
 ./Excel2String.sh [Platform] [Excel_file] [Output_folder]
 
-The example below will generate .string files from Ex_LocalizationIOS.merge.xlsx to folder ./Examble/Export
-./Excel2String.sh "ios" ./Ex_LocalizationIOS.merge.xlsx ./Examble/Export
+The example below will generate .string files from Ex_LocalizationIOS.merge.xlsx to folder ./Example/Export
+
+    ./Excel2String.sh "ios" ./Ex_LocalizationIOS.merge.xlsx ./Example/Export
 
 
