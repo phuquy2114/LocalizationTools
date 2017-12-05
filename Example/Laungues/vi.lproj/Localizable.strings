@@ -1,0 +1,1054 @@
+"SNS.IMPORTANT" = "Quan trọng";
+
+"SNS.CANCEL" = "Huỷ";
+
+"SNS.ALLOWCAMERA" = "Cho phép sử dụng camera";
+
+"SNS.ALLOWPHOTO" = "Mở Photo";
+
+"SNS.ALLOWPHOTO.MESSAGE" = "Vui lòng cho phép truy cập vào Photo";
+
+"SNS.OK" = "OK";
+
+"SNS.SMS" = "SMS";
+
+"SNS.EMAIL" = "Email";
+
+"SNS.FACEBOOK" = "Facebook";
+
+"SNS.ID" = "ID";
+
+"SNS.ADD" = "Thêm";
+
+"SNS.DELETE" = "Xoá";
+
+"SNS.BLOCK" = "Chặn";
+
+"SNS.DONE" = "Xong";
+
+"SNS.SEARCH" = "Tìm kiếm";
+
+"SNS.SEND" = "Gửi";
+
+"SNS.TIMELINE.LIKE" = "Thích";
+
+"SNS.TIMELINE.COMMENT" = "Bình luận";
+
+"SNS.SAVE" = "Lưu";
+
+"SNS.ERROR" = "Lỗi";
+
+"SNS.SUCCESS" = "Thành công";
+
+"SNS.NO" = "Không";
+
+"SNS.ON" = "Bật";
+
+"SNS.OFF" = "Tắt";
+
+"SNS.CAMERA" = "Máy ảnh";
+
+"SNS.LIBRARY" = "Thư viện";
+
+"AlertCheckNetwork" = "Không có kết nối";
+
+"SNS.NODATA" = "Không có dữ liệu";
+
+"SNS.ADDFRIENDSTVCELL1.TEXTLABEL1" = "Tự động thêm bạn";
+
+"SNS.ADDFRIENDSTVCELL1.TEXTLABEL2_1" = "Tự động thêm liên hệ làm bạn.";
+
+"SNS.ADDFRIENDSTVCELL1.TEXTLABEL2_2" = "Thay đổi cài đặt của bạn >";
+
+"SNS.ADDFRIENDSTVCELL1.TEXTLABEL2_3" = "Đang đồng bộ hóa...";
+
+"SNS.SETTINGFRIENDVC.LASTADDFRIENDCELL" = "Thêm lần cuối: %@";
+
+"SNS.ADDFRIENDVC.ALLOWBUTTON" = "Cho phép";
+
+"SNS.ADDFRIENDTVCELL1.ONBUTTON" = "Bật";
+
+"SNS.ADDFRIEND.QRCODE.LABEL" = "Mã QR";
+
+"SNS.ADDFRIEND.PHONEID.LABEL" = "ID/Số điện thoại";
+
+"SNS.ADDFRIEND.ADDMORE.LABEL" = "Mời";
+
+"SNS.FRIENDSUBVC.ENUM.PROFILE" = "Hồ sơ";
+
+"SNS.FRIENDSUBVC.ENUM.FRIENDRECOMMEND" = "Lời mời kết bạn";
+
+"SNS.FRIENDSUBVC.ENUM.FAVORITES" = "Yêu thích";
+
+"SNS.FRIENDSUBVC.ENUM.FRIENDS" = "Bạn bè";
+
+"SNS.FRIENDSUBVC.HIDE" = "Ẩn";
+
+"SNS.FRIENDSUBVC.BLOCK" = "Chặn";
+
+"SNS.FRIENDSUBVC.POPUP.IDNOTSET" = "Chưa cài đặt";
+
+"SNS.FRIENDSUBVC.POPUP.SETTINGPROFILE" = "Thiết lập hồ sơ";
+
+"SNS.FRIENDSUBVC.POPUP.HOME" = "Trang chủ";
+
+"SNS.FRIENDSUBVC.POPUP.REJECT" = "Từ chối";
+
+"SNS.FRIENDSUBVC.POPUP.ACCEPT" = "Chấp nhận";
+
+"SNS.FRIENDSUBVC.POPUP.CHAT" = "Trò chuyện";
+
+"SNS.FRIENDSUBVC.POPUP.AUDIOCALL" = "Gọi điện";
+
+"SNS.FRIENDSUBVC.POPUP.VIDEOCALL" = "Video";
+
+"SNS.GROUPSUBVC.ENUM.GROUPPENINGS" = "Lời mời tham gia nhóm";
+
+"SNS.GROUPSUBVC.ENUM.FAVORITES" = "Yêu thích";
+
+"SNS.GROUPSUBVC.ENUM.GROUPS" = "Nhóm";
+
+"SNS.GROUPSUBVC.ENUM.CREATEGROUP" = "Tạo nhóm";
+
+"SNS.GROUPSUBVC.ENUM.LEAVEGROUP" = "Rời nhóm";
+
+"SNS.GROUPSUBVC.POPUP.REJECT" = "Từ chối";
+
+"SNS.GROUPSUBVC.POPUP.APPROVE" = "Tham gia";
+
+"SNS.GROUPSUBVC.POPUP.NOTE" = "Ghi chú";
+
+"SNS.GROUPSUBVC.POPUP.ALBUM" = "Album";
+
+"SNS.FRIENDVC.FRIEND" = "Bạn bè";
+
+"SNS.FRIENDVC.GROUP" = "Nhóm";
+
+"SNS.FRIENDVC.ADDFRIEND" = "Thêm bạn";
+
+"SNS.FRIENDVC.FINDFRIEND" = "Tìm bạn bè...";
+
+"SNS.FRIENDVC.SEARCHHISTORY" = "Tìm gần đây";
+
+"SNS.FRIENDVC.NOID.CELll" = "ID Chưa cài đặt";
+
+"SNS.FRIEND.ACTIONSHEET.MAIL.FAIL" = "Không thể gửi email từ thiết bị này.";
+
+"SNS.FRIEND.ACTIONSHEET.SMS.FAIL" = "Không thể gửi SMS từ thiết bị này.";
+
+"SNS.FRIEND.ACTIONSHEET.FACEBOOK.FAIL" = "Không thể mở FaceBook Messenger.";
+
+"SNS.QRCODEVC.ALERT1" = "Vui lòng cho phép truy cập vào camera để quét mã QRCode";
+
+"SNS.QRCODEVC.LIBRARY.BUTTON" = "Thư viện";
+
+"SNS.QRCODEVC.MYQRCODE.BUTTON" = "Mã QR của tôi";
+
+"SNS.QRCODEVC.TITLE" = "Đọc mã QR";
+
+"SNS.QRCODEVC.LIBRARY.ALERT.TITLE" = "Quét thất bại";
+
+"SNS.QRCODEVC.LIBRARY.ALERT.MESSEAGE" = "Mã QR sai. Vui lòng kiểm tra lại mã QR và thử lại.";
+
+"SNS.QRCODEVC.ANALYSISQRCODE.ALERT.MESSEAGE" = "Mã QR sai. Vui lòng kiểm tra lại mã QR và thử lại.";
+
+"SNS.MYQRCODEVC.TITLE" = "Mã QR của tôi";
+
+"SNS.MYQRCODEVC.READQRCODE.BUTTON" = "Đọc mã QR";
+
+"SNS.MYQRCODEVC.SHARE.ACTIONSHEET" = "Chia sẻ";
+
+"SNS.MYQRCODEVC.SENDMAIL.ACTIONSHEET" = "Gửi bằng Email";
+
+"SNS.MYQRCODEVC.SAVETOALBUM.ACTIONSHEET" = "Lưu vào Album";
+
+"SNS.SEARCHVC.TITLE" = "Tìm kiếm bạn bè";
+
+"SNS.SEARCHVC.USERNOTFOUND.LABEL" = "Không tìm thấy người này.";
+
+"SNS.SEARCHVC.ID.PLACEHOLEDER" = "Tìm kiếm bạn bằng ID";
+
+"SNS.SEARCHVC.PHONE.PLACEHOLDER" = "Tìm kiếm bạn bằng số điện thoại";
+
+"SNS.SEARCHVC.ID.LABEL" = "ID";
+
+"SNS.SEARCHVC.PHONE.LABEL" = "Số Điện Thoại";
+
+"SNS.SELECTCOUNTRYCODEVC.TITLE" = "Chọn quốc gia";
+
+"SNS.SELECTCOUNTRYCODEVC.SEARCH.PLACEHOLDER" = "Tìm kiếm theo tên quốc gia";
+
+"SNS.CREATEGROUPVC.GROUPAVATAR.TITLE" = "Ảnh nhóm";
+
+"SNS.CREATEGROUPVC.GROUPAVATAR.CAMERA.BUTTON" = "Chụp ảnh";
+
+"SNS.CREATEGROUPVC.GROUPAVATAR.PHOTO.BUTTON" = "Thư viện";
+
+"SNS.EDITINFOVC.ID.TITLE" = "ID";
+
+"SNS.EDITINFOVC.ID.SAVE.BUTTON" = "Kiểm tra";
+
+"SNS.EDITINFOVC.ID.INFO.LABEL" = "Người dùng có thể tìm kiếm cho bạn bằng ID. Sau khi đặt, ID không thể thay đổi.";
+
+"SNS.EDITINFOVC.ID.PLACEHOLDER.TEXTFIELD" = "Nhập ID";
+
+"SNS.EDITINFOVC.CHECKID.LABEL" = "ID đã được sử dụng.";
+
+"SNS.EDITINFOVC.NAME.TITLE" = "Tên";
+
+"SNS.EDITINFOVC.NAME.SAVE.BUTTON" = "Lưu";
+
+"SNS.EDITINFOVC.STATUS.TITLE" = "Thông báo trạng thái";
+
+"SNS.EDITINFOVC.STATUS.PLACEHOLDER.TEXTFIELD" = "Vui lòng nhập một thông báo trạng thái";
+
+"SNS.EDITINFOVC.ALBUM.TITLE" = "Đổi tên Album";
+
+"SNS.CREATEGROUPVC.TITLE" = "Tạo nhóm";
+
+"SNS.CREATEGROUPVC.NAV.SAVE" = "Lưu";
+
+"SNS.CREATEGROUPVC.GROUPNAME" = "Tên nhóm";
+
+"SNS.CREATEGROUPVC.CREATEGROUPCVCELL.ADD" = "Thêm";
+
+"SNS.CREATEGROUPVC.CREATEGROUPHEADERVIEW.MEMBER" = "Thành viên";
+
+"SNS.CREATEGROUPVC.CREATEGROUPFOOTERVIEW.DESCIPTION" = "Bạn chỉ có thể mời tối đa 499 người trong một phòng chat.\nBạn có thể mời bạn bè tham gia nhóm và trò chuyện với tất cả thành viên trong nhóm.\n- Chia sẻ ảnh của bạn trong album\n- Lưu tất cả các loại thông tin quan trọng vào các nhóm dưới dạng ghi chú.\n- Album và ghi chú không bị xóa khi xóa phòng trò chuyện.";
+
+"SNS.SETTINGFRIENDVC.TITLE" = "Quản lý bạn bè";
+
+"SNS.SETTINGFRIENDVC.CELL.REQUEST.LABEL" = "Yêu cầu kết bạn";
+
+"SNS.SETTINGFRIENDVC.CELL.ADD.LABEL" = "Tự động thêm bạn bè";
+
+"SNS.SETTINGFRIENDVC.CELL.ALLOW.LABEL" = "Cho phép thêm bạn bè";
+
+"SNS.SETTINGFRIENDVC.CELL.HIDDEN.LABEL" = "Danh sách bị ẩn";
+
+"SNS.SETTINGFRIENDVC.CELL.BLOCK.LABEL" = "Danh sách bị chặn";
+
+"SNS.SETTINGFRIENDVC.CELL.TOPALLOW.LABEL" = "Hệ thống sẽ tự động thêm những người có trong danh bạ và đang sử dụng Cosy vào danh sách bạn bè của bạn.\nNếu muốn chủ động thêm bạn, hãy nhấn nút Làm mới.";
+
+"SNS.SETTINGFRIENDVC.CELL.TOPREQUEST.LABEL" = "Cho phép người dùng khác tìm kiếm và kết bạn tự động với tôi bằng số điện thoại của tôi.";
+
+"SNS.SELECTFRIENDADDGROUPVC.TITLE" = "Chọn bạn";
+
+"SNS.SELECTFRIENDADDGROUPVC.INVITE" = "Mời";
+
+"SNS.SELECTFRIENDADDGROUPVC.SEARCH" = "Tìm kiếm";
+
+"SNS.HIDDENFRIENDLISTVC.TITLE" = "Danh sách bị ẩn";
+
+"SNS.HIDDENFRIENDLISTVC.NILDATA.LABEL" = "Không có bạn bè bị ẩn";
+
+"SNS.HIDDENFRIENDLISTVC.CELL.UNHIDED.BUTTON" = "Hiển thị";
+
+"SNS.BLOCKFRIENDLISTVC.TITLE" = "Danh sách bị chặn";
+
+"SNS.BLOCKFRIENDLISTVC.NILDATA.LABEL" = "Không có bạn bè bị chặn";
+
+"SNS.BLOCKFRIENDLISTVC.CELL.UNBLOCK.BUTTON" = "Huỷ chặn";
+
+"SNS.LISTREQUESTFRIENDVC.TITLE" = "Yêu cầu kết bạn";
+
+"SNS.LISTREQUESTFRIENDVC.NILDATA.LABEL" = "Không có yêu cầu kết bạn nào.";
+
+"SNS.NEWSELECTFRIENDVC.TITLE" = "Chỉnh sửa";
+
+"SNS.NEWSELECTFRIENDVC.HIDE.NAVI" = "Ẩn";
+
+"SNS.NEWSELECTFRIENDVC.BLOCK.NAVI" = "Chặn";
+
+"SNS.ROOM.TITLE" = "Trò chuyện";
+
+"SNS.ROOM.NAVIGATIONBARLEFT" = "Sửa";
+
+"SNS.LISTUSERINGROUPVC.JOINED" = "Đã tham gia";
+
+"SNS.LISTUSERINGROUPVC.WAITING" = "Đang chờ";
+
+"SNS.LISTUSERINGROUPVC.MEMBER" = "Bạn bè";
+
+"SNS.LISTUSERINGROUPVC.INVITEFRIEND" = "Mời bạn bè";
+
+"SNS.LISTUSERINGROUPVC.DONE" = "Xong";
+
+"SNS.LISTUSERINGROUPVC.EDIT" = "Sửa";
+
+"SNS.REQUESTFRIENDVC.TITLE" = "Đọc mã QR Code";
+
+"SNS.SEARCHRESULTVIEW.ADDFRIEND.BUTTON" = "Yêu cầu kết bạn";
+
+"SNS.SEARCHRESULTVIEW.CHAT.BUTTON" = "Trò chuyện";
+
+"SNS.PROFILESETTING.TITLE" = "Cài đặt hồ sơ";
+
+"SNS.PROFILESETTING.CELL.PHONENUMBER.LEFTLABEL" = "Số điện thoại";
+
+"SNS.PROFILESETTING.CELL.NAME.LEFTLABEL" = "Tên";
+
+"SNS.PROFILESETTING.CELL.STATUS.LEFTLABEL" = "Chưa thiết lập";
+
+"SNS.PROFILESETTING.CELL.IDUSER.LEFTLABEL" = "ID";
+
+"SNS.PROFILESETTING.CELL.MYQRCODE.LEFTLABEL" = "Mã QR của tôi";
+
+"SNS.PROFILESETTING.CELL.HEADER.LEFTLABEL" = "Thông báo trạng thái";
+
+"SNS.CHATROOMVC.SUGGESTTITLELABEL" = "   Gợi ý";
+
+"SNS.CHATROOMVC.TITLE.TURNONSTATUS" = "Bật để hiện bạn bè!";
+
+"SNS.TIMELINE.TITLEVC" = "Timeline";
+
+"SNS.MYTIMELINE.TITLEVC" = "My Time Line";
+
+"SNS.TIMELINE.TEXTREADMORE" = "... Xem thêm";
+
+"SNS.SETTINGGROUPVC.TITLE" = "Cài đặt";
+
+"SNS.SETTINGGROUPVC.RIGHT.NAVI" = "Lưu";
+
+"SNS.SETTINGGROUPVC.GROUPNAME.PLACEHOLDER.TEXTFIELD" = "Tên nhóm";
+
+"SNS.COMMONIMAGEVC.TITLE" = "Hình ảnh chung";
+
+"SNS.TIMELINEREPORTVC.TITLE" = "Báo cáo";
+
+"SNS.NOTEDEFAULTCELL.LABEL" = "Theo dõi những thông tin quan trọng và chia sẻ bằng ghi chú.";
+
+"SNS.SAVEALBUMVC.RIGHT.NAVI" = "Chọn tất cả";
+
+"SNS.DETAILALBUMVC.POPPVER.CHANGENAME" = "Đổi tên Album";
+
+"SNS.DETAILALBUMVC.POPPVER.DELETE" = "Xoá Album";
+
+"SNS.DETAILALBUMVC.ALERT.DELETEALBUM" = "Bạn có muốn xoá Album?";
+
+"SNS.DETAILALBUMVC.TITLE.INTRO" = "Theo dõi những thông tin quan trọng và chia sẻ với %@ bằng Album.";
+
+"SNS.CHATROOMVC.HIDE" = "Ẩn";
+
+"SNS.CHATROOMVC.DELETE" = "Xoá";
+
+"ListUsersInPublicRoomVC.title" = "Bạn bè (%d)";
+
+"Chat.messageAction.addMember" = "Tin nhắn hệ thống thêm thành viên";
+
+"Chat.messageAction.leaveRoom" = "%@ đã rời khỏi nhóm";
+
+"Chat.messageAction.joinRoom" = "%@ đã tham gia nhóm";
+
+"Chat.messageAction.changeAvatar" = "%@ đã thay đổi ảnh đại diện nhóm";
+
+"Chat.messageAction.changeName" = "%@ đã thay đổi tên nhóm";
+
+"Chat.messageAction.call" = "System message call";
+
+"Chat.messageAction.date" = "System message date";
+
+"Chat.messageAction.invite" = "%@ đã mời %@ vào nhóm";
+
+"Chat.messageAction.createRoom" = "System message create room";
+
+"Chat.messageAction.removeMember" = "%@ đã xoá %@ khỏi nhóm";
+
+"Chat.messageAction.requestSyncVideo" = "%@ đã gửi đề nghị cùng xem video";
+
+"Chat.messageAction.requestSyncVideo.accept" = "%@ đã đồng ý đề nghị cùng xem video";
+
+"Chat.messageAction.requestSyncVideo.cancel" = "%@ không đồng ý đề nghị cùng xem video";
+
+"Chat.messageAction.requestSyncVideo.closeSync" = "%@ đã tắt video cùng xem với bạn";
+
+"Chat.messageAction.SyncVideo.Action.play" = "%@ phát video";
+
+"Chat.messageAction.SyncVideo.Action.pause" = "%@ tạm dừng phát video";
+
+"Chat.messageAction.SyncVideo.Action.seek" = "%@ phát video";
+
+"SNS.GROUPTIMELINEVC.FIND.PLACEHOLDER" = "Tìm kiếm...";
+
+"SNS.GROUPTIMELINEVC.TAB.MYCONNECT" = "Đang tham gia";
+
+"SNS.GROUPTIMELINEVC.TAB.LISTCONNECT" = "Danh mục";
+
+"CallDetailVC.phonenumberLabel.text" = "Số điện thoại";
+
+"CallDetailVC.missCallLabel.text" = "Cuộc gọi nhỡ";
+
+"CallDetailVC.cancelCallLabel.text" = "Đã huỷ";
+
+"CallDetailVC.noAnswerCallLabel.text" = "Không trả lời";
+
+"CallDetailVC.successCallLabel.text" = "%@";
+
+"CallDetailVC.freeCallLabel.text" = "Gọi miễn phí";
+
+"CallDetailVC.videoCallLabel.text" = "Gọi video";
+
+"Call.connectionStatusLabel.text" = "Chất lượng: %@";
+
+"Call.connectionStatusLabel.WaitConnecting" = "Đang kết nối";
+
+"Call.connectionStatusLabel.Connecting" = "Rất kém";
+
+"Call.connectionStatusLabel.Good" = "Tốt";
+
+"Call.connectionStatusLabel.Excellent" = "Rất tốt";
+
+"Call.connectionStatusLabel.Disconnecting" = "Rất kém";
+
+"Call.connectionStatusLabel.Disconnected" = "Mất kết nối";
+
+"CreateGroupVC.validate.GroupNameIsNil" = "Bạn chưa nhập tên nhóm";
+
+"CreateGroupVC.validate.GroupAvatarIsNil" = "Bạn chưa chọn hình đại diện nhóm";
+
+"ChatVC.chatBox.lastMessage.outgoing.image" = "Bạn đã gửi một hình ảnh";
+
+"ChatVC.chatBox.lastMessage.outgoing.video" = "Bạn đã gửi một video";
+
+"ChatVC.chatBox.lastMessage.outgoing.audio" = "Bạn đã gửi một tin nhắn thoại";
+
+"ChatVC.chatBox.lastMessage.outgoing.file" = "Bạn đã gửi một tệp tin";
+
+"ChatVC.chatBox.lastMessage.outgoing.location" = "Bạn đã gửi một địa điểm";
+
+"ChatVC.chatBox.lastMessage.outgoing.contact" = "Bạn đã gửi một thông tin liên lạc";
+
+"ChatVC.chatBox.lastMessage.outgoing.sticker" = "Bạn đã gửi một sticker";
+
+"ChatVC.chatBox.lastMessage.outgoing.album" = "Bạn đã tạo một album";
+
+"ChatVC.chatBox.lastMessage.outgoing.media" = "Bạn đã tạo một đa phương tiện";
+
+"ChatVC.chatBox.lastMessage.outgoing.inviteWatchVideo" = "Bạn đã gửi lời mời xem video.";
+
+"ChatVC.chatBox.lastMessage.incomming.image" = "%@ đã gửi một hình ảnh";
+
+"ChatVC.chatBox.lastMessage.incomming.video" = "%@ đã gửi một video";
+
+"ChatVC.chatBox.lastMessage.incomming.audio" = "%@ đã gửi một tin nhắn thoại";
+
+"ChatVC.chatBox.lastMessage.incomming.file" = "%@ đã gửi một tệp tin";
+
+"ChatVC.chatBox.lastMessage.incomming.location" = "%@ đã gửi một địa điểm";
+
+"ChatVC.chatBox.lastMessage.incomming.contact" = "%@ đã gửi một thông tin liên lạc";
+
+"ChatVC.chatBox.lastMessage.incomming.sticker" = "%@ đã gửi một sticker";
+
+"ChatVC.chatBox.lastMessage.incomming.album" = "%@ đã tạo một album";
+
+"ChatVC.chatBox.lastMessage.incomming.media" = "%@ đã tạo một đa phương tiện";
+
+"ChatVC.chatBox.lastMessage.incomming.inviteWatchVideo" = "%@ đã mời bạn xem một video";
+
+"SNS.SETTINGVC.TITLE" = "Cài đặt";
+
+"SNS.SETTINGVC.CELL.PROFILE" = " Hồ sơ ";
+
+"SNS.SETTINGVC.CELL.ACCOUNT" = "Tài khoản";
+
+"SNS.SETTINGVC.CELL.SETTINGFRIEND" = "Quản lý bạn bè";
+
+"SNS.SETTINGVC.CELL.MESSAGEANDCALL" = "Cuộc gọi và tin nhắn";
+
+"SNS.SETTINGVC.CELL.TIMELINE" = "Timeline";
+
+"SNS.SETTINGVC.CELL.IMAGEANDVIDEO" = "Ảnh và video";
+
+"SNS.SETTINGVC.CELL.LOGOUT" = "Đăng xuất";
+
+"SNS.MORESETTINGVC.CELL.STICKER" = "Sticker";
+
+"SNS.MORESETTINGVC.CELL.REPORT" = "Phản hồi";
+
+"SNS.MORESETTINGVC.CELL.RANK" = "Đánh giá Cosy";
+
+"SNS.MORESETTINGVC.CELL.TERMS" = "Điều khoản sử dụng";
+
+"SNS.MORESETTINGVC.CELL.ABOUT" = "Giới thiệu";
+
+"SNS.MESSAGEANDCALLVC.TITLE" = "Cuộc gọi và tin nhắn";
+
+"SNS.MESSAGEANDCALLVC.CELL.RING" = "Đổ chuông";
+
+"SNS.MESSAGEANDCALLVC.CELL.VIBRATE" = "Rung";
+
+"SNS.MESSAGEANDCALLVC.CELL.AUTOPLAYAUDIOMESSAGE" = "Tự động phát tin nhắn thoại";
+
+"SNS.MESSAGEANDCALLVC.FOOTER.RING" = "Khi có cuộc gọi đến hoặc tin nhắn mới.";
+
+"SNS.MESSAGEANDCALLVC.FOOTER.VIBRATE" = "Khi có cuộc gọi đến hoặc tin nhắn mới.";
+
+"SNS.MESSAGEANDCALLVC.FOOTER.AUTOPLAYAUDIOMESSAGE" = "Bật để tự động phát tin nhắn thoại mới.";
+
+"SNS.TIMELINESETTINGVC.TITLE" = "Timeline";
+
+"SNS.TIMELINESETTINGVC.CELL.NOTIFICATIONS" = "Tất cả thông báo";
+
+"SNS.TIMELINESETTINGVC.CELL.LIKEPOSTS" = "Thích bài viết";
+
+"SNS.TIMELINESETTINGVC.CELL.COMMENTPOSTS" = "Bình luận bài viết";
+
+"SNS.TIMELINESETTINGVC.CELL.LIKECOMMENTS" = "Thích bình luận";
+
+"SNS.IMAGEANDVIDEOVC.TITLE" = "Ảnh và video";
+
+"SNS.IMAGEANDVIDEOVC.CELL.QUALITYIMAGE" = "Ảnh chất lượng cao";
+
+"SNS.IMAGEANDVIDEOVC.CELL.AUTOPLAYVIDEO" = "Tự động phát video";
+
+"SNS.IMAGEANDVIDEOVC.FOOTER.QUALITYIMAGE" = "Bật để upload ảnh chất lượng cao.";
+
+"SNS.IMAGEANDVIDEOVC.FOOTER.AUTOPLAYVIDEO" = "Video sẽ tự động phát khi có kết nối Internet.";
+
+"SNS.REPORTSETTINGVC.TITLE" = "Ý kiến phản hồi";
+
+"SNS.REPORTSETTINGVC.TOPLABEL" = "Bạn muốn cho chúng tôi biết những gì?";
+
+"SNS.REPORTSETTINGVC.BOTTOMLABEL" = "Phản hồi mà bạn gửi cho chúng tôi không bao gồm thông tin cá nhân của bạn.";
+
+"YouTubeSearchView.searchBar.placeholder" = "Tìm theo tên";
+
+"SNS.CREATEGROUPVC.ALERTINFO.ADDNEWMEMBER" = "Vui lòng thêm thành viên";
+
+"SNS.CHATVC.POPOVER.INVITE" = "Mời";
+
+"SNS.CHATVC.POPOVER.MEMBERS" = "Thành viên";
+
+"SNS.CHATVC.POPOVER.NOTE" = "Ghi chú";
+
+"SNS.CHATVC.POPOVER.ALBUM" = "Album";
+
+"SNS.CHATVC.POPOVER.IMAGES" = "Hình ảnh chung";
+
+"SNS.CHATVC.POPOVER.LEAVEGROUP" = "Rời nhóm";
+
+"SNS.CHATVC.POPOVER.GROUPSETTING" = "Cài đặt nhóm";
+
+"SNS.CHATVC.POPOVER.ONNOTIFICATIONS" = "Bật thông báo";
+
+"SNS.CHATVC.POPOVER.OFFNOTIFICATIONS" = "Tắt thông báo";
+
+"SNS.CHATVC.POPOVER.CALL" = "Gọi điện";
+
+"SNS.CHATVC.POPOVER.VIDEOCALL" = "Gọi video";
+
+"SNS.CHATVC.POPOVER.BLOCK" = "Chặn";
+
+"SNS.CHATVC.POPOVER.UNBLOCK" = "Bỏ chặn";
+
+"SNS.CHATVC.POPOVER.OFFNOTIFICATIONS.MESSAGE" = "Bạn có muốn tắt thông báo?";
+
+"SNS.CHATVC.POPOVER.BLOCK.MESSAGE" = "Một số tính năng sẽ không sử dụng được. Bạn muốn chặn?";
+
+"YoutubeVC.youtubeMode.title" = "Youtube";
+
+"YoutubeVC.musicMode.title" = "SoundCloud";
+
+"SNS_CLUBDETAIL.INFORMATION" = "Thông tin";
+
+"SNS_CLUBDETAIL.MANAGER" = "Quản lý";
+
+"UpdateUserInfoVC.title" = "Cập nhật hồ sơ";
+
+"UpdateUserInfoVC.descriptionLabel.text" = "Sử dụng tên và ảnh đại diện giúp bạn bè dễ nhận ra bạn";
+
+"BeginVC.loginButton.title" = "Đăng nhập";
+
+"BeginVC.registerButton.title" = "Đăng ký";
+
+"LoginRegisterVC.title" = "Đăng nhập và đăng ký";
+
+"SNS.JOINREQUESTVC_TITLE" = "Yêu cầu tham gia";
+
+"SNS.JOINREQUESTVC_EMPTYLIST" = "Không có thành viên";
+
+"Chat.notification.incomming.audio" = "%1$@ đã gửi một tin nhắn thoại";
+
+"Chat.notification.incomming.file" = "%1$@ đã gửi một tệp tin";
+
+"Chat.notification.incomming.location" = "%1$@ đã gửi một địa điểm";
+
+"Chat.notification.incomming.contact" = "%1$@ đã gửi một thông tin liên lạc";
+
+"Chat.notification.incomming.sticker" = "%1$@ đã gửi một sticker";
+
+"Chat.notification.incomming.album" = "%1$@ đã tạo một album";
+
+"Chat.notification.incomming.note" = "%1$@ đã tạo một ghi chú";
+
+"Chat.notification.incomming.media" = "%1$@ đã tạo một đa phương tiện";
+
+"Chat.notification.incomming.call" = "%1$@ đã gọi bạn";
+
+"Chat.notification.incomming.inviteWatchVideo" = "%1$@ đã mời bạn xem một video.";
+
+"Chat.notification.incomming.title" = "%1$@";
+
+"YoutubePlayVideoView.alertConfirm.turnOffSync" = "Bạn đang cùng xem video với bạn bè. Bạn có muốn huỷ không?";
+
+"YoutubePlayVideoView.alertConfirm.sendRequest" = "Bạn có muốn gửi lời mời cùng xem video với %@ không?";
+
+"SNS.CONNECTCATALOGMODEL.ALL" = "Tất cả";
+
+"SNS.CONNECTCATALOGMODEL.FAVORITES" = "Yêu thích trong tuần";
+
+"SNS.CONNECTCATALOGMODEL.FAVORITE" = "Yêu thích nhất";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.TITLE" = "Vui lòng bật quyền sử dụng thư viện";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.denied.BUTTON" = "Chuyển đến cài đặt";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.denied.MESSENGER" = "Quyền truy cập vào thư viện đã bị tắt vui lòng bật để sử dụng hình ảnh và video phục vụ cho bài viết.";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.notDetermined.BUTTON" = "Đồng ý";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.notDetermined.MESSENGER" = "Ứng dụng cần truy cập vào thư viện để sử dụng hình ảnh và video phục vụ cho bài viết.";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.restricted.BUTTON" = "Tắt giới hạn";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.restricted.MESSENGER" = "Quyền sử dụng thue viện đã bị giới hạn vui lòng tắt giới hạn để tiếp tục sử dụng.";
+
+"SNS.ChoosePlaceVC.TITLE" = "Địa điểm";
+
+"SNS.ChoosePlaceVC.INFO" = "Đang xác định vị trí của bạn";
+
+"SNS.CLLocationManager.TITLE" = "Vui lòng bật dịch vụ định vị";
+
+"SNS.CLLocationManager.denied.BUTTON" = "Chuyển đến cài đặt";
+
+"SNS.CLLocationManager.denied.MESSENGER" = "Dịch vụ định vị đang bị tắt vui lòng bật dịch vụ để tiếp tục sử dụng.";
+
+"SNS.CLLocationManager.notDetermined.BUTTON" = "Đồng ý";
+
+"SNS.CLLocationManager.notDetermined.MESSENGER" = "Dịch vụ định vị được sử dụng để tìm kiếm những địa điểm xung quanh bạn.";
+
+"SNS.CLLocationManager.restricted.BUTTON" = "Tắt giới hạn";
+
+"SNS.CLLocationManager.restricted.MESSENGER" = "Dịch vụ định vị đã bị giới hạn vui lòng tắt giới hạn để tiếp tục sử dụng.";
+
+"SNS.UpdateUserInfoVC.rightBarButtonItem.TITLE" = "Tiếp tục";
+
+"SNS.UpdateUserInfoVC.usernameTextField.PLACEHOLDEr" = "Tên hiển thị";
+
+"SNS.LoginRegisterVC.ERROR" = "Lỗi không xác định, vui lòng thử lại sau.";
+
+"SNS.BaseTimeLineHandler.EDIT" = "Chỉnh sửa";
+
+"SNS.BaseTimeLineHandler.DELETE" = "Xoá";
+
+"SNS.BaseTimeLineHandler.HIDDEN" = "Ẩn bài viết này";
+
+"SNS.BaseTimeLineHandler.REPORT" = "Báo cáo";
+
+"SNS.BaseTimeLineHandler.DELETEPOST.MESSAGE" = "Nếu xoá bài viết này tất cả những thông tin liên quan đến bài viết sẽ bị mất. Bạn có muốn tiếp tục?";
+
+"SNS.BaseTimeLineHandler.HIDEPOST.MESSAGE" = "Ẩn bài viết này khỏi Timeline của bạn?";
+
+"SNS.TLCreatePostVC.description.placeholder" = "Hãy cho chúng tôi biết gần đây bạn như thế nào?";
+
+"SNS.TLCreatePostVC.choosePlace.REMOVELOCATION" = "Xoá vị trí";
+
+"SNS.TLCreatePostVC.choosePlace.SELECTLOCATION" = "Chọn vị trí mới";
+
+"SNS.TLCreatePostVC.PostPermission.ONLYME" = "Chỉ mình tôi";
+
+"SNS.TLCreatePostVC.PostPermission.FRIENDS" = "Bạn bè";
+
+"SNS.TLCreatePostVC.PostPermission.SELECTIVEFRIENDS" = "Bạn bè đã chọn";
+
+"SNS.TLCreatePostVC.PostPermission.PUBLIC" = "Công khai";
+
+"SNS.TLBottomPostView.toolbarType.sticker" = "Chọn sticker";
+
+"SNS.TLBottomPostView.toolbarType.link" = "Thêm liên kết";
+
+"SNS.TLBottomPostView.toolbarType.media.left" = "Máy ảnh";
+
+"SNS.TLBottomPostView.toolbarType.media.right" = "Thư viện";
+
+"SNS.TLBottomPostView.linkPreviewer.other" = "Chọn liên kết khác";
+
+"SNS.TLBottomPostView.linkPreviewer.delete" = "Xoá liên kết";
+
+"SNS.TLBottomPostView.alertLinkInput.title" = "Nhập liên kết";
+
+"SNS.TLBottomPostView.alertLinkInput.placeholder" = "Hãy nhập liên kết...";
+
+"SNS.MyConnectVC.moreAction.report" = "Báo cáo";
+
+"SNS.MyConnectVC.moreAction.leave" = "Rời khỏi câu lạc bộ";
+
+"SNS.MyConnectVC.moreAction.delete" = "Xóa câu lạc bộ";
+
+"SNS.MyConnectVC.leaveClub.message" = "Bạn có muốn rời câu lạc bộ %@?";
+
+"SNS.MyConnectVC.deleteClub.message" = "Bạn có muốn xoá câu lạc bộ %@?";
+
+"SNS.MyConnectVC.findCatalogLabel.text" = "Tìm kiếm từ danh mục";
+
+"SNS.TimeLineNotificationVC.TITLE" = "Timeline";
+
+"SNS.leaveClub.leaveClub.message" = "Bạn có muốn rời câu lạc bộ?";
+
+"SNS.DeleteClub.deleteClub.message" = "Bạn có muốn xoá câu lạc bộ?";
+
+"SNS.PrivateClub.sendRequest" = "Yêu cầu tham gia câu lạc bộ thành công";
+
+"SNS.PrivateClub.showAlert.message" = "Bạn cần được sự cho phép của người quản lý câu lạc bộ.";
+
+"SNS.PrivateClub.showAlert.titleButton" = "Yêu cầu tham gia";
+
+"SNS.PrivateClub.cancelRequest" = "Hủy yêu cầu tham gia";
+
+"SNS.CommentInClubVC.detailButton" = "Chi tiết";
+
+"SNS.CommentInClubVC.joinButton" = "Tham gia ngay!";
+
+"SNS.ChatVC.chatInputView.placeholder" = "Nhập tin nhắn";
+
+"SNS.ActionComment.alert.message" = "Bạn có chắc chắn xoá nội dung này?";
+
+"SNS.LeaveClub.alert.message" = "Bạn có muốn rời câu lạc bộ?";
+
+"SNS.DeleteClub.alert.message" = "Xoá câu lạc bộ";
+
+"SNS.ClubPermission.info" = "Thông tin";
+
+"SNS.ClubPermission.edit" = "Chỉnh sửa";
+
+"SNS.ClubPermission.listMember" = "Thành viên";
+
+"SNS.ClubPermission.requestJoin" = "Yêu cầu tham gia";
+
+"SNS.ClubPermission.leaveClub" = "Rời câu lạc bộ";
+
+"SNS.ClubPermission.report" = "Báo cáo";
+
+"SNS.ClubPermission.remove" = "Xoá câu lạc bộ";
+
+"SNS.ClubDescriptionTVCell.member" = "Thành viên";
+
+"SNS.ClubDescriptionTVCell.post" = "Bài viết";
+
+"SNS.PrivateNote" = "Ghi chú riêng tư";
+
+"SNS.GroupNote" = "Ghi chú nhóm";
+
+"SNS.updateMentionLocation.text" = " và %d người khác";
+
+"SNS.updateMentionLocation.withText" = "- với ";
+
+"SNS.updateMentionLocation.atText" = "- tại ";
+
+"SNS.SettingVC.logOut.text" = "Đăng xuất";
+
+"SNS.SettingVC.logOut.title" = "Bạn muốn đăng xuất khỏi tài khoản này?";
+
+"SNS.MoreSettingVC.statusUser.text" = "Hãy nói cho bạn bè biết bạn đang làm gì";
+
+"SNS.MoreInputModel.photoVideo" = "Ảnh / Video";
+
+"SNS.MoreInputModel.record" = "Ghi âm";
+
+"SNS.MoreInputModel.contact" = "Danh bạ";
+
+"SNS.MoreInputModel.location" = "Địa điểm";
+
+"SNS.CHATVC.POPOVER.LISTENMUSIC" = "Nghe nhạc";
+
+"SNS.chatInput.placehoder" = "Nhập bình luận";
+
+"SNS.TimeLineItemFullView.inText" = " - tại ";
+
+"SNS.TimeLineItemFullView.withText" = " - với ";
+
+"SNS.TimeLineItemFullView.nameText" = "%@ Người khác";
+
+"SNS.lockUser.TEXT" = "Khoá tài khoản này.";
+
+"SNS.TimeLineNotificationNoDataCell.titleText" = "Không có thông báo mới";
+
+"SNS.CreateClubVC.textField.TEXT" = "Nhập tên câu lạc bộ";
+
+"SNS.CreateClubDescriptionCell.header.TEXT" = "Mô tả";
+
+"SNS.CreateClubDescriptionCell.textView.placeholder" = "Nội dung... ";
+
+"SNS.CreateClubSettingCell.titleCell.type" = "Thể loại";
+
+"SNS.CreateClubSettingCell.titleCell.privateGroup" = "Nhóm kín";
+
+"SNS.POST" = "Đăng";
+
+"SNS.ALERT" = "Thông báo";
+
+"SNS.YES" = "Có";
+
+"SNS.FIND" = "Tìm kiếm";
+
+"SNS.NONAME" = "Không tên";
+
+"SNS.PRIVATENOTE" = "Ghi chú";
+
+"SNS.GROUPNOTE" = "Ghi chú";
+
+"SNS.AND" = " và ";
+
+"SNS.CREATE" = "Tạo";
+
+"SNS.SELECT" = "Chọn";
+
+"SNS.HIDDEN" = "Ẩn";
+
+"SNS.ReportSettingVC.textView.isEmpty" = "Bạn cần nhập nội dung phản hồi.";
+
+"SNS.ReportSettingVC.feedbackAPI.completion" = "Chúng tôi đã tiếp nhận và sẽ xem xét phản hồi của bạn.";
+
+"ChatVC.PopOverAction.leaveGroup" = "Bạn có muốn rời khỏi nhóm?";
+
+"SMS.ChatVC.group.pending" = "Tham gia nhóm để sử dụng tính năng này.";
+
+"SNS.SELECTALL" = "Chọn tất cả";
+
+"SNS.UNSELECTALL" = "Bỏ chọn";
+
+"SNS.MYQRCODEVC.CHANGEQRCODE.ACTIONSHEET" = "Tạo mã QR Code mới";
+
+"SNS.MYQRCODEVC.CHANGEQRCODE.ALERTSUCCES" = "Thay đổi QR Code thành công";
+
+"FriendVCIntroHintText.tabGroupHintText" = "Bấm để tạo nhóm";
+
+"FriendVCIntroHintText.tabAddFriendHintText" = "Bấm để thêm bạn";
+
+"ChatRoomControllerHintText.turnOnSuggestFriendHintText" = "Bật tính năng cho phép chat với những bạn bè khắp nơi";
+
+"ChatRoomControllerHintText.createChatRoomHintText" = "Bấm để tạo cuộc trò chuyện mới";
+
+"NoteViewControllerHintText.createNoteHintText" = "Bấm để tạo ghi chú mới";
+
+"AlbumVCHintText.createAlbumHintText" = "Bấm để tạo album mới";
+
+"ChatVCDefine.callBarButtonHintText" = "Chọn để gọi miễn phí";
+
+"ChatVCDefine.popOverButtonHintText" = "Chọn để xem thêm tính năng";
+
+"ChatVCDefine.sendRequestFriendButtonHintText" = "Chọn để gửi yêu cầu kết bạn";
+
+"ChatVCDefine.inputViewMoreButtonHintText" = "Chạm để gửi nhiều hơn";
+
+"ChatVCDefine.inputViewTextViewHintText" = "Chọn để nhập tin nhắn";
+
+"ChatVCDefine.inputViewRecordButtonHintText" = "Chọn để ghi âm";
+
+"TimeLineVCHintText.createPostHintText" = "Bấm để viết bài";
+
+"TimeLineVCHintText.notificationButtonHintText" = "Bấm để xem thông báo mới";
+
+"GroupTimeLineVCHintText.createClubHintText" = "Bấm để tạo club";
+
+"IntroViewController.startUsingButton.title" = "Trải nghiệm ngay";
+
+"SNS.ListFriendHashtagVC.TITLE" = "Với %d bạn";
+
+"SNS.ALLOWCAMERA.MESSAGE" = "Vui lòng cho phép truy cập vào Camera";
+
+"SNS.IntroViewController.title1" = "Gọi video miễn phí cho bạn \n bè và người thân.";
+
+"SNS.IntroViewController.title2" = "Xem video cùng nhau \n Cùng trải nghiệm tính năng mới.";
+
+"SNS.IntroViewController.title3" = "Chia sẻ khoảnh khắc và cập nhập \n tin tức từ bạn bè.";
+
+"SNS.IntroViewController.title4" = "Kết nối bạn bè, \n chia sẻ niềm vui.";
+
+"SNS.TimeLineReportVC.Report.final" = "Chúng tôi đã tiếp nhận và sẽ xem xét phản hồi của bạn.";
+
+"SNS.NOFEATURE" = "Tính năng này hiện đang được phát triển và sẽ sớm có mặt.";
+
+"SNS.CREATECLUBVC.FINDIMAGE.TITLE" = "Tìm kiếm hình ảnh";
+
+"SNS.CREATECLUBVC.UPIMAGE.TITLE" = "Tải hình ảnh lên";
+
+"SNS.CREATECLUBVC.CREATECLUB.NONAME" = "Nhập tên Club";
+
+"SNS.CREATECLUBVC.CREATECLUB.DESCRIPTION" = "Nhập mô tả về club";
+
+"SNS.CREATECLUBVC.CREATECLUB.NOCATALOG" = "Chọn một thể loại";
+
+"SNS.MyTimeLineController.PROFILESETTING" = "Cài đặt hồ sơ";
+
+"SNS.MyTimeLineController.COVERIMAGE" = "Chỉnh sửa ảnh bìa";
+
+"SNS.TLCreatePostVC.title" = "Ghi chú";
+
+"SNS.OPTION" = "Tuỳ chọn";
+
+"SNS.REPORT" = "Báo cáo";
+
+"SNS.NOFRIEND" = "Không có bạn bè";
+
+"SNS.TYPECOMMENT" = "Nhập bình luận";
+
+"ChatVC.InputView.placeholder.text.nomal" = "Nhập tin nhắn";
+
+"ChatVC.InputView.placeholder.text.block" = "Đã chặn";
+
+"ChatVC.chatBox.lastMessage.outgoing.Note" = "Bạn đã tạo một ghi chú";
+
+"ChatVC.chatBox.lastMessage.incomming.Note" = "%@ đã tạo một ghi chú";
+
+"SNS.TimeLineVC.newPost.BUTTON.TITLE" = "   Bài viết mới   ";
+
+"ChatVC.Bubble.Contact.Action.RequestFriend" = "Bạn có muốn gửi yêu cầu kết bạn với %@?";
+
+"ChatVC.Bubble.Contact.Action.RequestFriendSuccess" = "Gửi yêu cầu kết bạn thành công";
+
+"ChatVC.chatBox.lastMessage.outgoing.call.Success" = "Thời gian gọi %@";
+
+"ChatVC.chatBox.lastMessage.incoming.call.Success" = "Thời gian gọi %@";
+
+"Call.callbusy.anothercall" = "%@ đang trong cuộc gọi và không thể phản hồi. Vui lòng thử lại sau.";
+
+"EditChatRoomVC.title" = "Chỉnh sửa";
+
+"EditChatRoomVC.Popup.HideChatbox.title" = "Tin nhắn sẽ không bị xoá khi ẩn cuộc trò chuyện";
+
+"EditChatRoomVC.Popup.DeleteChatbox.title" = "Không thể xem lại nội dung trò chuyện đã xoá. Bạn có muốn xoá không?";
+
+"DetailAlbumVC.album.deleted" = "Album đã bị xoá";
+
+"SNS.NOCHANGE" = "Không có thay đổi";
+
+"SearchResultView.errorLabel.addFriendMySelf" = "Bạn không thể thêm chính mình làm bạn";
+
+"SNS.LOADING" = "Loading...";
+
+"YoutubePlayVideoView.alertError.CannotRequestWithBlockFriend" = "Bỏ chặn %@ để sử dụng tính năng này";
+"SNS.deleteUploadingPost.Message" = "Bạn có muốn huỷ đăng bài?";
+
+"SNS.TimeLineVC.CantPost" = "Bạn đang đăng bài viết. Vui lòng chờ đến khi hoàn tất.";
+
+"SNS.CHAT.MESSAGE.NOTE" = "Ghi chú";
+
+"SNS.MoreWebViewVC.alert.redownload" = "Bộ sticker này đã tồn tại, bạn có muốn tải lại?";
+
+"SNS.MoreWebViewVC.download.success" = "Tải thành công";
+
+"SNS.MoreWebViewVC.download.fail" = "Tải thất bại";
+
+"SNS.Logout.TokenInvalid" = "Lỗi, phiên làm việc đã hết hạn";
+
+"SNS.Typing.Messenge" = "  Đang gõ tin nhắn...";
+
+"SNS.TLCreatePostVC.CompressetingVideo" = "Đang nén video";
+
+"SNS.TLCreatePostVC.CreatingPost" = "Đang tạo bài viết";
+
+"SNS.ALLOWCONTACT.MESSAGE" = "Vui lòng cho phép truy cập vào danh bạ";
+
+"SNS.ALLOWCONTACTS" = "Mở danh bạ";
+
+"SNS.SEEN" = "Đã xem";
+
+"SNS.RecordAudioView.RADefines.Permission" = "Quyền sử dụng microphone đã bị tắt. Vui lòng bật quyền bật quyền sử dụng microphone để ghi âm";
+
+"SNS.RecordAudioView.RADefines.AskPermission" = "Vui lòng bật quyền bật quyền sử dụng microphone để ghi âm";
+
+"SNS.RecordAudioView.RADefines.GotoSetting" = "Chuyển đến cài đặt";
+
+"SNS.RecordAudioView.RADefines.Tips" = "Thả để gửi, di chuyển sang trái để huỷ";
+
+"SNS.RecordAudioView.RADefines.TipDefault" = "Nhấn và giữ để ghi âm";
+
+"SNS.RecordAudioView.RADefines.RecordTooShort" = "Tin nhắn quá ngắn";
+
+"SNS.RecordAudioView.RADefines.RecordTooLong" = "Đã đạt đến thời gian tối đa";
+
+"SNS.RecordAudioView.RADefines.ReleaseToCancel" = "Thả để huỷ";
+
+"SNS.RecordAudioView.RADefines.EnterLockedMode" = "Chế độ ghi âm rảnh tay";
+
+"SNS.UPLOADING" = "Đang tải lên..."; 
+
+"SNS.COMPLETION" = "Hoàn thành";
+
+"SNS.MediaPickerVC.maxSelectableCount" = "Không thể chọn quá %d hình hoặc video";
+
+"SNS.MediaPickerVC.maxSelectableDuration" = "Thời lượng video phải nhỏ hơn %d phút";
+"EditInfoVC.updateUserIDIdNot" = "Vui lòng nhập ID";
+
+"SNS.SecurityQuestionVC.title" = "Hãy sử dụng câu hỏi bảo mật để lấy lại mật khẩu";
+"SNS.SecurityQuestionVC.titleQuestion" = "Chọn câu hỏi:";
+"SNS.SecurityQuestionVC.titleAnswer" = "Câu trả lời:";
+"SNS.SecurityQuestionVC.title2" = "Chọn câu hỏi và nhập câu trả lời của bạn để lấy lại mật khẩu.";
+"SNS.PasscodeVC.title.new" = "Nhập mật khẩu mới";
+"SNS.PasscodeVC.title.new2" = "Xác nhận mật khẩu";
+"SNS.PasscodeVC.title.change" = "Nhập mật khẩu hiện tại";
+"SNS.PasscodeVC.title.turnOff" = "Nhập mật khẩu";
+"SNS.PasscodeVC.title.check" = "Xác nhận mật khẩu";
+"SNS.PasscodeVC.content.check" = "Ghi nhớ mật khẩu để xem lại trò chuyện. \nTrò chuyện sẽ mất nếu bạn quên mật khẩu.";
+"SNS.PasscodeVC.wrong" = "Mật khẩu không đúng.\n Vui lòng thử lại.";
+"SNS.PasscodeVC.change.wrong" = "Mật khẩu xác nhận không đúng.\n Vui lòng thử lại.";
+"SNS.PasscodeVC.alert.security" = "Hãy sử dụng câu hỏi bảo mật để lấy lại mật khẩu. Bạn có muốn sử dụng câu hỏi bảo mật?";
+
+"SNS.SPRequestPermission.Camera.Title"                    = "Cấp quyền camera";
+"SNS.SPRequestPermission.PhotoLibrary.Title"              = "Cấp quyền thư viện";
+"SNS.SPRequestPermission.Notification.Title"              = "Cấp quyền thông báo";
+"SNS.SPRequestPermission.Microphone.Title"                = "Cấp quyền microphone";
+"SNS.SPRequestPermission.Calendar.Title"                  = "Cấp quyền lịch";
+"SNS.SPRequestPermission.Location.Title"                  = "Cấp quyền vị trí";
+"SNS.SPRequestPermission.Contacts.Title"                  = "Cấp quyền danh bạ";
+"SNS.SPRequestPermission.Reminders.Title"                 = "Cấp quyền nhắc nhở";
+"SNS.SPRequestPermission.HeaderTitle"                     = "Xin chào!";
+"SNS.SPRequestPermission.HeaderSubtitle"                  = "Ứng dụng cần một số quyền để hoạt động tốt hơn";
+"SNS.SPRequestPermission.TopAdviceTitle"                  = "Vui lòng cấp quyền cho ứng dụng";
+"SNS.SPRequestPermission.BottomAdviceTitle"               = "Bạn có thể quản lý quyền trong cài đặt";
+"SNS.SPRequestPermission.UnderDialogAdviceTitle"          = "Kéo để huỷ";
+"SNS.SPRequestPermission.TitleForAlertDenidPermission"    = "Thông báo!";
+"SNS.SPRequestPermission.SubtitleForAlertDenidPermission" = "Quyền truy cập đã bị từ chối. Vui lòng đi đến cài đặt để mở lại quyền";
+"SNS.SPRequestPermission.SettingForAlertDenidPermission"  = "Đến cài đặt";
+
+"SNS.ChatListRoomViewModel.HideConversation"       = "Ẩn trò chuyện";
+"SNS.ChatListRoomViewModel.HideConversationDetail" = "Trò chuyện sẽ được ẩn khỏi danh sách tin nhắn. Chỉ có bạn mới có thể tìm thấy và mở lại chúng bằng cách sử dụng mã PIN cá nhân";
+"SNS.ChatListRoomViewModel.SetPINCode"             = "Đặt mã PIN";
+
+"SNS.MessageAndCallVC.Title"    = "Cài đặt mật khẩu";
+"SNS.MessageAndCallVC.Subtitle" = "Sử dụng câu hỏi bải mật để đặt lại mật khẩu";
+
+"SNS.PasscodeVC.Message" = "Vui lòng xác thực để tiếp tục";
+
+"SNS.SettingPasscodeVC.ChangePasscode" = "Thay đổi mật khẩu";
+"SNS.SettingPasscodeVC.TurnOffPasscode" = "Tắt mật khẩu";
+"SNS.SettingPasscodeVC.ForgotPasscode" = "Quên mật khẩu";
+"SNS.SettingPasscodeVC.ChangePasscodeSub" = "Thay đổi mật khẩu cho cuộc trò chuyện ẩn.";
+"SNS.SettingPasscodeVC.TurnOffPassSub" = "Những cuộc trò chuyện ẩn sẽ được hiển thị sau khi tắt mật khẩu.";
+"SNS.SettingPasscodeVC.ForgotPasscodeSub" = "Sử dụng câu hỏi bảo mật để đặt lại mật khẩu.";
+"SNS.SettingPasscodeVC.TurnOffPassDetail" = "Những cuộc trò chuyện ẩn sẽ được hiển thị sau khi tắt mật khẩu.";
+
+"SNS.ChatRoomController.SearchPlaceholder" = "Tìm cuộc trò chuyện...";
+
+"SNS.TLCreatePostVC.POST.NODATA" = "Bạn cần nhập nội dung bài viết";
+"SNS.Error.ClubWasDeleted" = "Câu lạc bộ đã bị xóa";
+"SNS.Error.ClubNotExist" = "Bạn không có quyền truy cập";
+
+"SNS.COMMONIMAGECELL.LABEL" = "Chia sẻ hình ảnh với bạn bè.";
+"SNS.ChatVC.ContactHandle.Friend.Requested" = "Đã gửi yêu cầu kết bạn cho người này. Vui lòng đợi xác nhận";
+"SNS.ChatVC.ContactHandle.Friend.Wait" = "Vui lòng xác nhận yêu cầu kết bạn để tiếp tục";
+"SNS.ChatVC.ContactHandle.Friend.Blocked" = "Vui lòng mở chặn để tiếp tục";
+"SNS.ChatVC.ContactHandle.Friend.Hidden" = "Vui lòng bỏ ẩn để tiếp tục";
+"SNS.COMMONIMAGECELL.LABEL" = "Chia sẻ hình ảnh với những người bạn muốn.";
+
+"SNS.TIMELINEDEFAULTCELL.LABEL" = "Hãy cho bạn bè biết bạn đang như thế nào?";
+
+"SNS.NODATA.SEARCH" = "Không tìm thấy";
+"SNS.FRIENDSUBVC.ENUM.OFFICAL.ACCOUNT" = "Tài khoản chính thức";
+"ErrorNetwork.CreatRoom" = "Không thể tạo cuộc trò chuyện. Hãy kiểm tra lại kết nối mạng";
+
+"SNS.VERSION" = "Phiên bản: ";
+"CommentInClubVC.MoreOption.PinComment" = "Ghim";
+

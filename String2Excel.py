@@ -21,10 +21,16 @@ try:
     MERGE_OPTION = sys.argv[4]
 except:
     MERGE_OPTION = "their"
+
 try:
-    SYN_SPREAD = sys.argv[4]
+    SYN_SPREAD_VALUE = sys.argv[5]
 except:
-    SYN_SPREAD = "their"
+    SYN_SPREAD_VALUE = False
+
+try:
+    SYN_SPREAD_COLOR = sys.argv[6]
+except:
+    SYN_SPREAD_COLOR = False
 
 # Download WorkBook
 # Parameter:
@@ -383,7 +389,7 @@ def string2exel(platform, res_folder, exel_name):
 #Paragrams:
 #   wb: the workbook yo want to upload
 #   googleSheetID: The ID of Google Spread
-def synWorkBook2Spread(wb, googleSpreadID):
+def synWorkBook2Spread(wb, googleSpreadID, synSpreadColor):
     gc = pygsheets.authorize()
     # Open spreadsheet and then workseet
     sh = gc.open_by_key(googleSpreadID)
@@ -419,26 +425,28 @@ def synWorkBook2Spread(wb, googleSpreadID):
         wks.adjust_column_width(0,end=5,pixel_size=300)
 
         # format header
-        print "Syn color..."
-        for i in range(1, num_col+1):
-            for j in range(1, num_row+1):
-                wb_cell = sheet.cell(row=j, column=i)
-                fill_color = wb_cell.fill.bgColor.rgb
-                if len(fill_color) < 8:
-                    fill_color = "00" + fill_color
-                cell_color = tuple(round(float(int(fill_color[i:i+2], 16))/255,1) for i in (2,4,6))
-                #print fill_color + ":" + str(cell_color)
-                if cell_color != (1.0, 1.0, 1.0) and cell_color != (0.0, 0.0, 0.0):
-                    s_cell = wks.cell((j, i))
-                    s_cell.color = cell_color
-                    wb_comment = wb_cell.comment
-                    if not (wb_comment is None):
-                        s_cell.note = wb_comment.text
-        wb_sheet_color = merge.sheet_properties.tabColor
+        #print 'synSpreadColor = ' + synSpreadColor
+        if True:
+            print "Syn color..."
+            for i in range(1, num_col+1):
+                for j in range(1, num_row+1):
+                    wb_cell = sheet.cell(row=j, column=i)
+                    fill_color = wb_cell.fill.bgColor.rgb
+                    if len(fill_color) < 8:
+                        fill_color = "00" + fill_color
+                    cell_color = tuple(round(float(int(fill_color[i:i+2], 16))/255,1) for i in (2,4,6))
+                    #print fill_color + ":" + str(cell_color)
+                    if cell_color != (1.0, 1.0, 1.0) and cell_color != (0.0, 0.0, 0.0):
+                        s_cell = wks.cell((j, i))
+                        s_cell.color = cell_color
+                        wb_comment = wb_cell.comment
+                        if not (wb_comment is None):
+                            s_cell.note = wb_comment.text
+            wb_sheet_color = merge.sheet_properties.tabColor
     if not (dumy_sheet is None):
         sh.del_worksheet(dumy_sheet)
                    
-def mergeStringSpread(platform, res_folder, googleSpreadID, merge_option, syn2Spread):
+def mergeStringSpread(platform, res_folder, googleSpreadID, merge_option, synSpreadValue, synSpreadColor):
     exel_name = DownloadWorkBook(googleSpreadID)
     if exel_name != None:
         name_split = exel_name.split(".")
@@ -469,11 +477,12 @@ def mergeStringSpread(platform, res_folder, googleSpreadID, merge_option, syn2Sp
 
         compare_workbook(mine_wb, their_wb, merge_wb, merge_option)            
         merge_wb.save(merge_exel_name)
-        if syn2Spread == True:
-            synWorkBook2Spread(merge_wb,googleSpreadID)
+        if synSpreadValue == "True":
+            synWorkBook2Spread(merge_wb,googleSpreadID,synSpreadColor)
         #merge_wb = None
 
 if __name__ == '__main__':
     # main()
-    mergeStringSpread(PLATFORM,RES_PATH,SPREAD_ID,MERGE_OPTION,SYN_SPREAD)
+    print 'create' + SYN_SPREAD_VALUE
+    mergeStringSpread(PLATFORM,RES_PATH,SPREAD_ID,MERGE_OPTION,SYN_SPREAD_VALUE,SYN_SPREAD_COLOR)
     sys.exit(0)

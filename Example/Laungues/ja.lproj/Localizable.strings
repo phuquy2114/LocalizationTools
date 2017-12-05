@@ -1,0 +1,1053 @@
+"SNS.IMPORTANT" = "必須";
+
+"SNS.CANCEL" = "キャンセル";
+
+"SNS.ALLOWCAMERA" = "カメラを許可する";
+
+"SNS.ALLOWPHOTO" = "写真を許可する";
+
+"SNS.ALLOWPHOTO.MESSAGE" = "写真へのアクセスを許可してください";
+
+"SNS.OK" = "OK";
+
+"SNS.SMS" = "SMS";
+
+"SNS.EMAIL" = "Email";
+
+"SNS.FACEBOOK" = "Facebook";
+
+"SNS.ID" = "ID";
+
+"SNS.ADD" = "追加";
+
+"SNS.DELETE" = "削除";
+
+"SNS.BLOCK" = "ブロック";
+
+"SNS.DONE" = "完了";
+
+"SNS.SEARCH" = "検索";
+
+"SNS.SEND" = "送信";
+
+"SNS.TIMELINE.LIKE" = "いいね";
+
+"SNS.TIMELINE.COMMENT" = "コメント";
+
+"SNS.SAVE" = "保存";
+
+"SNS.ERROR" = "エラー";
+
+"SNS.SUCCESS" = "送信しました";
+
+"SNS.NO" = "いいえ";
+
+"SNS.ON" = "オン";
+
+"SNS.OFF" = "オフ";
+
+"SNS.CAMERA" = "カメラ";
+
+"SNS.LIBRARY" = "ギャラリー";
+
+"AlertCheckNetwork" = "インターネットに接続できません";
+
+"SNS.NODATA" = "データがありません";
+
+"SNS.ADDFRIENDSTVCELL1.TEXTLABEL1" = "友達自動追加";
+
+"SNS.ADDFRIENDSTVCELL1.TEXTLABEL2_1" = "連絡先を自動で友達に追加します。>";
+
+"SNS.ADDFRIENDSTVCELL1.TEXTLABEL2_2" = "設定を変更>";
+
+"SNS.ADDFRIENDSTVCELL1.TEXTLABEL2_3" = "同期中。。。";
+
+"SNS.SETTINGFRIENDVC.LASTADDFRIENDCELL" = "最終追加: %@";
+
+"SNS.ADDFRIENDVC.ALLOWBUTTON" = "許可する";
+
+"SNS.ADDFRIENDTVCELL1.ONBUTTON" = "オン";
+
+"SNS.ADDFRIEND.QRCODE.LABEL" = "QR コード";
+
+"SNS.ADDFRIEND.PHONEID.LABEL" = "ID/電話番号";
+
+"SNS.ADDFRIEND.ADDMORE.LABEL" = "招待する";
+
+"SNS.FRIENDSUBVC.ENUM.PROFILE" = "プロファイル";
+
+"SNS.FRIENDSUBVC.ENUM.FRIENDRECOMMEND" = "友達リクエスト";
+
+"SNS.FRIENDSUBVC.ENUM.FAVORITES" = "お気に入り";
+
+"SNS.FRIENDSUBVC.ENUM.FRIENDS" = "友人";
+
+"SNS.FRIENDSUBVC.HIDE" = "非表示";
+
+"SNS.FRIENDSUBVC.BLOCK" = "ブロック";
+
+"SNS.FRIENDSUBVC.POPUP.IDNOTSET" = "インストールされていません";
+
+"SNS.FRIENDSUBVC.POPUP.SETTINGPROFILE" = "プロファイル設定";
+
+"SNS.FRIENDSUBVC.POPUP.HOME" = "ホーム";
+
+"SNS.FRIENDSUBVC.POPUP.REJECT" = "拒否";
+
+"SNS.FRIENDSUBVC.POPUP.ACCEPT" = "承認";
+
+"SNS.FRIENDSUBVC.POPUP.CHAT" = "チャット";
+
+"SNS.FRIENDSUBVC.POPUP.AUDIOCALL" = "通話";
+
+"SNS.FRIENDSUBVC.POPUP.VIDEOCALL" = "ビデオ";
+
+"SNS.GROUPSUBVC.ENUM.GROUPPENINGS" = "グループ招待";
+
+"SNS.GROUPSUBVC.ENUM.FAVORITES" = "お気に入り";
+
+"SNS.GROUPSUBVC.ENUM.GROUPS" = "グループ";
+
+"SNS.GROUPSUBVC.ENUM.CREATEGROUP" = "グループの作成";
+
+"SNS.GROUPSUBVC.ENUM.LEAVEGROUP" = "退会";
+
+"SNS.GROUPSUBVC.POPUP.REJECT" = "拒否";
+
+"SNS.GROUPSUBVC.POPUP.APPROVE" = "参加";
+
+"SNS.GROUPSUBVC.POPUP.NOTE" = "ノート";
+
+"SNS.GROUPSUBVC.POPUP.ALBUM" = "アルバム";
+
+"SNS.FRIENDVC.FRIEND" = "友達";
+
+"SNS.FRIENDVC.GROUP" = "グループ";
+
+"SNS.FRIENDVC.ADDFRIEND" = "友達を追加";
+
+"SNS.FRIENDVC.FINDFRIEND" = "友達を探す...";
+
+"SNS.FRIENDVC.SEARCHHISTORY" = "最近の検索";
+
+"SNS.FRIENDVC.NOID.CELll" = "IDが設定されていません";
+
+"SNS.FRIEND.ACTIONSHEET.MAIL.FAIL" = "あなたのデバイスはメールを送信できません";
+
+"SNS.FRIEND.ACTIONSHEET.SMS.FAIL" = "あなたのデバイスはSMSを送信できません";
+
+"SNS.FRIEND.ACTIONSHEET.FACEBOOK.FAIL" = "あなたのデバイスはメッセンジャーを開くことができません";
+
+"SNS.QRCODEVC.ALERT1" = "QRコードリーダーを利用するために、カメラアクセスを許可してください";
+
+"SNS.QRCODEVC.LIBRARY.BUTTON" = "ライブラリ";
+
+"SNS.QRCODEVC.MYQRCODE.BUTTON" = "自分のQRコード表示";
+
+"SNS.QRCODEVC.TITLE" = "QRコードリーダー";
+
+"SNS.QRCODEVC.LIBRARY.ALERT.TITLE" = "スキャンに失敗しました";
+
+"SNS.QRCODEVC.LIBRARY.ALERT.MESSEAGE" = "QRコードが間違っています。 QRコードを確認して、もう一度お試しください。";
+
+"SNS.QRCODEVC.ANALYSISQRCODE.ALERT.MESSEAGE" = "QRコードが間違っています。 QRコードを確認して、もう一度お試しください。";
+
+"SNS.MYQRCODEVC.TITLE" = "自分のQRコード表示";
+
+"SNS.MYQRCODEVC.READQRCODE.BUTTON" = "QRコードリーダー";
+
+"SNS.MYQRCODEVC.SHARE.ACTIONSHEET" = "共有";
+
+"SNS.MYQRCODEVC.SENDMAIL.ACTIONSHEET" = "メールで送信";
+
+"SNS.MYQRCODEVC.SAVETOALBUM.ACTIONSHEET" = "アルバムに保存";
+
+"SNS.SEARCHVC.TITLE" = "IDまたは電話番号で検索";
+
+"SNS.SEARCHVC.USERNOTFOUND.LABEL" = "ユーザーが見つかりませんでした";
+
+"SNS.SEARCHVC.ID.PLACEHOLEDER" = "友達のIDで検索";
+
+"SNS.SEARCHVC.PHONE.PLACEHOLDER" = "友達の電話番号で検索";
+
+"SNS.SEARCHVC.ID.LABEL" = "ID";
+
+"SNS.SEARCHVC.PHONE.LABEL" = "電話番号";
+
+"SNS.SELECTCOUNTRYCODEVC.TITLE" = "国選択";
+
+"SNS.SELECTCOUNTRYCODEVC.SEARCH.PLACEHOLDER" = "国別で探す";
+
+"SNS.CREATEGROUPVC.GROUPAVATAR.TITLE" = "グループ画像";
+
+"SNS.CREATEGROUPVC.GROUPAVATAR.CAMERA.BUTTON" = "写真を撮る";
+
+"SNS.CREATEGROUPVC.GROUPAVATAR.PHOTO.BUTTON" = "写真を選択";
+
+"SNS.EDITINFOVC.ID.TITLE" = "ID";
+
+"SNS.EDITINFOVC.ID.SAVE.BUTTON" = "確認";
+
+"SNS.EDITINFOVC.ID.INFO.LABEL" = "ユーザーはあなたをIDで検索できます。 一度設定したIDは変更できません。";
+
+"SNS.EDITINFOVC.ID.PLACEHOLDER.TEXTFIELD" = "IDを入力";
+
+"SNS.EDITINFOVC.CHECKID.LABEL" = "既に使用されているIDです。";
+
+"SNS.EDITINFOVC.NAME.TITLE" = "名前";
+
+"SNS.EDITINFOVC.NAME.SAVE.BUTTON" = "保存";
+
+"SNS.EDITINFOVC.STATUS.TITLE" = "ステータスメッセージ";
+
+"SNS.EDITINFOVC.STATUS.PLACEHOLDER.TEXTFIELD" = "ステータスメッセージを入力してください";
+
+"SNS.EDITINFOVC.ALBUM.TITLE" = "アルバム名を変更";
+
+"SNS.CREATEGROUPVC.TITLE" = "グループの作成";
+
+"SNS.CREATEGROUPVC.NAV.SAVE" = "保存";
+
+"SNS.CREATEGROUPVC.GROUPNAME" = "グループ名";
+
+"SNS.CREATEGROUPVC.CREATEGROUPCVCELL.ADD" = "追加";
+
+"SNS.CREATEGROUPVC.CREATEGROUPHEADERVIEW.MEMBER" = "メンバー";
+
+"SNS.CREATEGROUPVC.CREATEGROUPFOOTERVIEW.DESCIPTION" = "チャットルームで最大499人まで招待できます。\nグループに参加する友達を招待し、すべてのチームメンバーとチャットできます。\n- 写真を共有できます。\n-すべての種類の重要な情報をメモとしてグループに保存します。\n-チャットルームを削除しても、アルバムとメモが削除されません。";
+
+"SNS.SETTINGFRIENDVC.TITLE" = "友達を管理する";
+
+"SNS.SETTINGFRIENDVC.CELL.REQUEST.LABEL" = "友だちリクエスト";
+
+"SNS.SETTINGFRIENDVC.CELL.ADD.LABEL" = "友だち追加";
+
+"SNS.SETTINGFRIENDVC.CELL.ALLOW.LABEL" = "友だちへの追加を許可";
+
+"SNS.SETTINGFRIENDVC.CELL.HIDDEN.LABEL" = "非表示リスト";
+
+"SNS.SETTINGFRIENDVC.CELL.BLOCK.LABEL" = "ブロックリスト";
+
+"SNS.SETTINGFRIENDVC.CELL.TOPALLOW.LABEL" = "アドレス帳の連絡先を自動で友だちに追加します。手帳で実行したい場合は更新ボタンを押してください。";
+
+"SNS.SETTINGFRIENDVC.CELL.TOPREQUEST.LABEL" = "他のユーザーが自分の電話番号で私と自動的に検索して接続できるようにします。";
+
+"SNS.SELECTFRIENDADDGROUPVC.TITLE" = "友達を招待する";
+
+"SNS.SELECTFRIENDADDGROUPVC.INVITE" = "招待";
+
+"SNS.SELECTFRIENDADDGROUPVC.SEARCH" = "検索";
+
+"SNS.HIDDENFRIENDLISTVC.TITLE" = "非表示リスト";
+
+"SNS.HIDDENFRIENDLISTVC.NILDATA.LABEL" = "非表示にしているユーザーがいません。";
+
+"SNS.HIDDENFRIENDLISTVC.CELL.UNHIDED.BUTTON" = "表示";
+
+"SNS.BLOCKFRIENDLISTVC.TITLE" = "ブロックリスト";
+
+"SNS.BLOCKFRIENDLISTVC.NILDATA.LABEL" = "ブロックしているユーザーがいません";
+
+"SNS.BLOCKFRIENDLISTVC.CELL.UNBLOCK.BUTTON" = "ブロック解除";
+
+"SNS.LISTREQUESTFRIENDVC.TITLE" = "友達リクエス";
+
+"SNS.LISTREQUESTFRIENDVC.NILDATA.LABEL" = "友達リクエスがありません";
+
+"SNS.NEWSELECTFRIENDVC.TITLE" = "編集";
+
+"SNS.NEWSELECTFRIENDVC.HIDE.NAVI" = "隠す";
+
+"SNS.NEWSELECTFRIENDVC.BLOCK.NAVI" = "ブロック";
+
+"SNS.ROOM.TITLE" = "チャット";
+
+"SNS.ROOM.NAVIGATIONBARLEFT" = "編集";
+
+"SNS.LISTUSERINGROUPVC.JOINED" = "参加しました";
+
+"SNS.LISTUSERINGROUPVC.WAITING" = "待機中";
+
+"SNS.LISTUSERINGROUPVC.MEMBER" = "友達";
+
+"SNS.LISTUSERINGROUPVC.INVITEFRIEND" = "友達を招待する";
+
+"SNS.LISTUSERINGROUPVC.DONE" = "完了";
+
+"SNS.LISTUSERINGROUPVC.EDIT" = "編集";
+
+"SNS.REQUESTFRIENDVC.TITLE" = "QRコードリーダー";
+
+"SNS.SEARCHRESULTVIEW.ADDFRIEND.BUTTON" = "友達リクエスト";
+
+"SNS.SEARCHRESULTVIEW.CHAT.BUTTON" = "チャット";
+
+"SNS.PROFILESETTING.TITLE" = "プロファイル設定";
+
+"SNS.PROFILESETTING.CELL.PHONENUMBER.LEFTLABEL" = "電話番号";
+
+"SNS.PROFILESETTING.CELL.NAME.LEFTLABEL" = "名前";
+
+"SNS.PROFILESETTING.CELL.STATUS.LEFTLABEL" = "設定されていません";
+
+"SNS.PROFILESETTING.CELL.IDUSER.LEFTLABEL" = "ID";
+
+"SNS.PROFILESETTING.CELL.MYQRCODE.LEFTLABEL" = "自分のQRコード";
+
+"SNS.PROFILESETTING.CELL.HEADER.LEFTLABEL" = "ステータスメッセージ";
+
+"SNS.CHATROOMVC.SUGGESTTITLELABEL" = "   知り合いかも";
+
+"SNS.CHATROOMVC.TITLE.TURNONSTATUS" = "友達を表示するよに、オンにする!";
+
+"SNS.TIMELINE.TITLEVC" = "タイムライン";
+
+"SNS.MYTIMELINE.TITLEVC" = "タイムライン";
+
+"SNS.TIMELINE.TEXTREADMORE" = "もっと見る";
+
+"SNS.SETTINGGROUPVC.TITLE" = "設定";
+
+"SNS.SETTINGGROUPVC.RIGHT.NAVI" = "保存";
+
+"SNS.SETTINGGROUPVC.GROUPNAME.PLACEHOLDER.TEXTFIELD" = "グループ名";
+
+"SNS.COMMONIMAGEVC.TITLE" = "写真";
+
+"SNS.TIMELINEREPORTVC.TITLE" = "報告";
+
+"SNS.NOTEDEFAULTCELL.LABEL" = "重要な情報を保持してノートと共有する";
+
+"SNS.SAVEALBUMVC.RIGHT.NAVI" = "すべてを選択";
+
+"SNS.DETAILALBUMVC.POPPVER.CHANGENAME" = "アルバムの名前を変更";
+
+"SNS.DETAILALBUMVC.POPPVER.DELETE" = "アルバムを削除する";
+
+"SNS.DETAILALBUMVC.ALERT.DELETEALBUM" = "アルバムを削除しますか？";
+
+"SNS.DETAILALBUMVC.TITLE.INTRO" = "アルバムで%@ と必要な情報をフォローして共有します。";
+
+"SNS.CHATROOMVC.HIDE" = "非表示";
+
+"SNS.CHATROOMVC.DELETE" = "削除";
+
+"ListUsersInPublicRoomVC.title" = "友達 (%d)";
+
+"Chat.messageAction.addMember" = "System message add member";
+
+"Chat.messageAction.leaveRoom" = "%@ が退会しました。";
+
+"Chat.messageAction.joinRoom" = "%@ が参加しました。";
+
+"Chat.messageAction.changeAvatar" = "%@ đã thay đổi ảnh đại diện nhóm";
+
+"Chat.messageAction.changeName" = "%@ đã thay đổi tên nhóm";
+
+"Chat.messageAction.call" = "System message call";
+
+"Chat.messageAction.date" = "System message date";
+
+"Chat.messageAction.invite" = "%@ が %@ を招待しました。";
+
+"Chat.messageAction.createRoom" = "System message create room";
+
+"Chat.messageAction.removeMember" = "%@が %@を退会させました。";
+
+"Chat.messageAction.requestSyncVideo" = "%@ は一生に動画を見たいリクエストを送信しました。";
+
+"Chat.messageAction.requestSyncVideo.accept" = "%@ は一生に動画を見たいリクエストを承認しました。";
+
+"Chat.messageAction.requestSyncVideo.cancel" = "%@ は一生に動画を見たいリクエストを拒否しました。";
+
+"Chat.messageAction.requestSyncVideo.closeSync" = "%@ はあなたと見ている動画を終了しました。";
+
+"Chat.messageAction.SyncVideo.Action.play" = "%@ は動画をプレーします。";
+
+"Chat.messageAction.SyncVideo.Action.pause" = "%@ は動画をと止まりました。";
+
+"Chat.messageAction.SyncVideo.Action.seek" = "%@ は動画をプレーします。";
+
+"SNS.GROUPTIMELINEVC.FIND.PLACEHOLDER" = "検索";
+
+"SNS.GROUPTIMELINEVC.TAB.MYCONNECT" = "参加中";
+
+"SNS.GROUPTIMELINEVC.TAB.LISTCONNECT" = "カテゴリー";
+
+"CallDetailVC.phonenumberLabel.text" = "電話番号";
+
+"CallDetailVC.missCallLabel.text" = "不在着信";
+
+"CallDetailVC.cancelCallLabel.text" = "キャンセル";
+
+"CallDetailVC.noAnswerCallLabel.text" = "応答なし";
+
+"CallDetailVC.successCallLabel.text" = "%@";
+
+"CallDetailVC.freeCallLabel.text" = "無料通話";
+
+"CallDetailVC.videoCallLabel.text" = "ビデオ通話";
+
+"Call.connectionStatusLabel.text" = "回線品質: %@";
+
+"Call.connectionStatusLabel.WaitConnecting" = "接続中";
+
+"Call.connectionStatusLabel.Connecting" = "非常に弱い";
+
+"Call.connectionStatusLabel.Good" = "良い";
+
+"Call.connectionStatusLabel.Excellent" = "とても良い";
+
+"Call.connectionStatusLabel.Disconnecting" = "非常に弱い";
+
+"Call.connectionStatusLabel.Disconnected" = "接続を切った";
+
+"CreateGroupVC.validate.GroupNameIsNil" = "グループ名を入力してください。";
+
+"CreateGroupVC.validate.GroupAvatarIsNil" = "グルップのアバターを選択してください。";
+
+"ChatVC.chatBox.lastMessage.outgoing.image" = "写真を送信しました";
+
+"ChatVC.chatBox.lastMessage.outgoing.video" = "動画を送信しました";
+
+"ChatVC.chatBox.lastMessage.outgoing.audio" = "ボイスメッセージを送信しました";
+
+"ChatVC.chatBox.lastMessage.outgoing.file" = "ファイルを送信しました";
+
+"ChatVC.chatBox.lastMessage.outgoing.location" = "位置情報を送信しました";
+
+"ChatVC.chatBox.lastMessage.outgoing.contact" = "連絡先を送信しました";
+
+"ChatVC.chatBox.lastMessage.outgoing.sticker" = "スタンプを送信しました";
+
+"ChatVC.chatBox.lastMessage.outgoing.album" = "アルバムを作成しました";
+
+"ChatVC.chatBox.lastMessage.outgoing.media" = "メディアを送信しました";
+
+"ChatVC.chatBox.lastMessage.outgoing.inviteWatchVideo" = "ビデオを見る招待を送信しました";
+
+"ChatVC.chatBox.lastMessage.incomming.image" = "%@が写真を送信しました";
+
+"ChatVC.chatBox.lastMessage.incomming.video" = "%@が動画を送信しました";
+
+"ChatVC.chatBox.lastMessage.incomming.audio" = "%@がボイスメッセージを送信しました";
+
+"ChatVC.chatBox.lastMessage.incomming.file" = "%@がファイルを送信しました";
+
+"ChatVC.chatBox.lastMessage.incomming.location" = "%@が位置情報を送信しました";
+
+"ChatVC.chatBox.lastMessage.incomming.contact" = "%@が連絡先を送信しました";
+
+"ChatVC.chatBox.lastMessage.incomming.sticker" = "%@がスタンプを送信しました";
+
+"ChatVC.chatBox.lastMessage.incomming.album" = "%@がアルバムを作成しました";
+
+"ChatVC.chatBox.lastMessage.incomming.media" = "%@ がメディアを送信しました";
+
+"ChatVC.chatBox.lastMessage.incomming.inviteWatchVideo" = "%@ がビデオを見る招待を送信しました";
+
+"SNS.SETTINGVC.TITLE" = "設定";
+
+"SNS.SETTINGVC.CELL.PROFILE" = "プロフィール";
+
+"SNS.SETTINGVC.CELL.ACCOUNT" = "アカウント";
+
+"SNS.SETTINGVC.CELL.SETTINGFRIEND" = "友達を管理";
+
+"SNS.SETTINGVC.CELL.MESSAGEANDCALL" = "通話とメッセージ";
+
+"SNS.SETTINGVC.CELL.TIMELINE" = "タイムライン";
+
+"SNS.SETTINGVC.CELL.IMAGEANDVIDEO" = "写真とビデオ";
+
+"SNS.SETTINGVC.CELL.LOGOUT" = "ログアウト";
+
+"SNS.MORESETTINGVC.CELL.STICKER" = "スタンプ";
+
+"SNS.MORESETTINGVC.CELL.REPORT" = "フィードバック";
+
+"SNS.MORESETTINGVC.CELL.RANK" = "ランキングCosy";
+
+"SNS.MORESETTINGVC.CELL.TERMS" = "利用規約";
+
+"SNS.MORESETTINGVC.CELL.ABOUT" = "紹介";
+
+"SNS.MESSAGEANDCALLVC.TITLE" = "通話とメッセージ";
+
+"SNS.MESSAGEANDCALLVC.CELL.RING" = "リング";
+
+"SNS.MESSAGEANDCALLVC.CELL.VIBRATE" = "振動";
+
+"SNS.MESSAGEANDCALLVC.CELL.AUTOPLAYAUDIOMESSAGE" = "ボイスメッセージを自動的に再生";
+
+"SNS.MESSAGEANDCALLVC.FOOTER.RING" = "着信や新規メッセージがある時";
+
+"SNS.MESSAGEANDCALLVC.FOOTER.VIBRATE" = "着信や新規メッセージがある時";
+
+"SNS.MESSAGEANDCALLVC.FOOTER.AUTOPLAYAUDIOMESSAGE" = "新しいボイスメッセージを自動的にブロードキャストするようにします。";
+
+"SNS.TIMELINESETTINGVC.TITLE" = "タイムライン";
+
+"SNS.TIMELINESETTINGVC.CELL.NOTIFICATIONS" = "すべての通知";
+
+"SNS.TIMELINESETTINGVC.CELL.LIKEPOSTS" = "あなたの投稿に「いいね」";
+
+"SNS.TIMELINESETTINGVC.CELL.COMMENTPOSTS" = "あなたの投稿にコメント";
+
+"SNS.TIMELINESETTINGVC.CELL.LIKECOMMENTS" = "あなたのコメントに「いいね」";
+
+"SNS.IMAGEANDVIDEOVC.TITLE" = "写真とビデオ";
+
+"SNS.IMAGEANDVIDEOVC.CELL.QUALITYIMAGE" = "写真の面質";
+
+"SNS.IMAGEANDVIDEOVC.CELL.AUTOPLAYVIDEO" = "動画自動再生";
+
+"SNS.IMAGEANDVIDEOVC.FOOTER.QUALITYIMAGE" = "送信する写真の面質";
+
+"SNS.IMAGEANDVIDEOVC.FOOTER.AUTOPLAYVIDEO" = "選択したインターネットを利用している場合は、動画を自動で再生します。";
+
+"SNS.REPORTSETTINGVC.TITLE" = "フィードバック";
+
+"SNS.REPORTSETTINGVC.TOPLABEL" = "私たちに何を伝えたいですか？";
+
+"SNS.REPORTSETTINGVC.BOTTOMLABEL" = "送ったフィードバックには、あなたの個人情報は含まれません。";
+
+"YouTubeSearchView.searchBar.placeholder" = "名前で検索";
+
+"SNS.CREATEGROUPVC.ALERTINFO.ADDNEWMEMBER" = "メンバーを追加してください。";
+
+"SNS.CHATVC.POPOVER.INVITE" = "招待";
+
+"SNS.CHATVC.POPOVER.MEMBERS" = "メンバー";
+
+"SNS.CHATVC.POPOVER.NOTE" = "ノート";
+
+"SNS.CHATVC.POPOVER.ALBUM" = "アルバム";
+
+"SNS.CHATVC.POPOVER.IMAGES" = "シェアした画像";
+
+"SNS.CHATVC.POPOVER.LEAVEGROUP" = "グループを退会";
+
+"SNS.CHATVC.POPOVER.GROUPSETTING" = "グループ設定";
+
+"SNS.CHATVC.POPOVER.ONNOTIFICATIONS" = "通知をオン";
+
+"SNS.CHATVC.POPOVER.OFFNOTIFICATIONS" = "通知をオフ";
+
+"SNS.CHATVC.POPOVER.CALL" = "無料通話";
+
+"SNS.CHATVC.POPOVER.VIDEOCALL" = "ビデオ通話";
+
+"SNS.CHATVC.POPOVER.BLOCK" = "ブロック";
+
+"SNS.CHATVC.POPOVER.UNBLOCK" = "ブロック解除";
+
+"SNS.CHATVC.POPOVER.OFFNOTIFICATIONS.MESSAGE" = "通知をオフにしますか？";
+
+"SNS.CHATVC.POPOVER.BLOCK.MESSAGE" = "機能が使用されませんでした。ブロックしますか？";
+
+"YoutubeVC.youtubeMode.title" = "Youtube";
+
+"YoutubeVC.musicMode.title" = "SoundCloud";
+
+"SNS_CLUBDETAIL.INFORMATION" = "情報";
+
+"SNS_CLUBDETAIL.MANAGER" = "管理";
+
+"UpdateUserInfoVC.title" = "プロフィールを更新";
+
+"UpdateUserInfoVC.descriptionLabel.text" = "友達があなただと分かるように名前と写真を登録してください。";
+
+"BeginVC.loginButton.title" = "ログイン";
+
+"BeginVC.registerButton.title" = "登録";
+
+"LoginRegisterVC.title" = "ログインと登録";
+
+"SNS.JOINREQUESTVC_TITLE" = "参加リクエスト";
+
+"SNS.JOINREQUESTVC_EMPTYLIST" = "メンバーがありません";
+
+"Chat.notification.incomming.audio" = "%1$@がボイスメッセージを送信しました";
+
+"Chat.notification.incomming.file" = "%1$@がファイルを送信しました";
+
+"Chat.notification.incomming.location" = "%1$@が位置情報を送信しました";
+
+"Chat.notification.incomming.contact" = "%1$@が連絡先を送信しました";
+
+"Chat.notification.incomming.sticker" = "%1$@がスタンプを送信しました";
+
+"Chat.notification.incomming.album" = "%1$@がアルバムを作成しました";
+
+"Chat.notification.incomming.note" = "%1$@がノートを作成しました。";
+
+"Chat.notification.incomming.media" = "%1$@ がメディアを送信しました";
+
+"Chat.notification.incomming.call" = "%1$@があなたに通話しました";
+
+"Chat.notification.incomming.inviteWatchVideo" = "%1$@ がビデオを見るの招待をあなたに送信しました。";
+
+"Chat.notification.incomming.title" = "%1$@";
+
+"YoutubePlayVideoView.alertConfirm.turnOffSync" = "友達とビデオを見ています。キャンセルしますか？";
+
+"YoutubePlayVideoView.alertConfirm.sendRequest" = "ビデオを見る招待を %@ に送信しますか ？";
+
+"SNS.CONNECTCATALOGMODEL.ALL" = "すべて";
+
+"SNS.CONNECTCATALOGMODEL.FAVORITES" = "今週のお気に入り";
+
+"SNS.CONNECTCATALOGMODEL.FAVORITE" = "お気に入り";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.TITLE" = "ライブラリへのアクセスを有効にしてください";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.denied.BUTTON" = "設定に移動";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.denied.MESSENGER" = "ライブラリアクセスが無効になっています。続行のため、有効にしてください。";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.notDetermined.BUTTON" = "OK";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.notDetermined.MESSENGER" = "投稿の写真とビデオを使用するには、アプリケーションがライブラリにアクセスする必要があります。";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.restricted.BUTTON" = "制限を無効にする";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.restricted.MESSENGER" = "ライブラリアクセスが無効になっています。続行のため、有効にしてください。";
+
+"SNS.ChoosePlaceVC.TITLE" = "場所";
+
+"SNS.ChoosePlaceVC.INFO" = "あなたの位置を確定中";
+
+"SNS.CLLocationManager.TITLE" = "位置情報サービスを有効にしてください。";
+
+"SNS.CLLocationManager.denied.BUTTON" = "設定に移動";
+
+"SNS.CLLocationManager.denied.MESSENGER" = "位置情報サービスが無効になっています。サービスを有効にしてください。";
+
+"SNS.CLLocationManager.notDetermined.BUTTON" = "OK";
+
+"SNS.CLLocationManager.notDetermined.MESSENGER" = "位置情報サービスは、あなたの周りの場所を検索するために使用されます。";
+
+"SNS.CLLocationManager.restricted.BUTTON" = "制限を無効にする";
+
+"SNS.CLLocationManager.restricted.MESSENGER" = "位置情報サービスが無効になっています。続行のため、サービスを有効にしてください。";
+
+"SNS.UpdateUserInfoVC.rightBarButtonItem.TITLE" = "続け";
+
+"SNS.UpdateUserInfoVC.usernameTextField.PLACEHOLDEr" = "表示名";
+
+"SNS.LoginRegisterVC.ERROR" = "不明なエラーです。後でお試しください";
+
+"SNS.BaseTimeLineHandler.EDIT" = "編集";
+
+"SNS.BaseTimeLineHandler.DELETE" = "削除";
+
+"SNS.BaseTimeLineHandler.HIDDEN" = "この投稿を非表示";
+
+"SNS.BaseTimeLineHandler.REPORT" = "レポート";
+
+"SNS.BaseTimeLineHandler.DELETEPOST.MESSAGE" = "この投稿を削除すると、投稿に関するすべての情報が削除されます。削除しますか？";
+
+"SNS.BaseTimeLineHandler.HIDEPOST.MESSAGE" = "タイムラインからこの投稿を非表示にしますか？";
+
+"SNS.TLCreatePostVC.description.placeholder" = "あなたの最近の状況を教えてください。";
+
+"SNS.TLCreatePostVC.choosePlace.REMOVELOCATION" = "場所を削除";
+
+"SNS.TLCreatePostVC.choosePlace.SELECTLOCATION" = "勉強してみよう";
+
+"SNS.TLCreatePostVC.PostPermission.ONLYME" = "自分のみ";
+
+"SNS.TLCreatePostVC.PostPermission.FRIENDS" = "友達";
+
+"SNS.TLCreatePostVC.PostPermission.SELECTIVEFRIENDS" = "選択した友達";
+
+"SNS.TLCreatePostVC.PostPermission.PUBLIC" = "公開";
+
+"SNS.TLBottomPostView.toolbarType.sticker" = "スタンプを選択";
+
+"SNS.TLBottomPostView.toolbarType.link" = "リンクを追加";
+
+"SNS.TLBottomPostView.toolbarType.media.left" = "カメラ";
+
+"SNS.TLBottomPostView.toolbarType.media.right" = "ライブラリ";
+
+"SNS.TLBottomPostView.linkPreviewer.other" = "別のリンクを選択";
+
+"SNS.TLBottomPostView.linkPreviewer.delete" = "リンクを削除";
+
+"SNS.TLBottomPostView.alertLinkInput.title" = "リンクを入力してください";
+
+"SNS.TLBottomPostView.alertLinkInput.placeholder" = "URLを入力してください。";
+
+"SNS.MyConnectVC.moreAction.report" = "レポート";
+
+"SNS.MyConnectVC.moreAction.leave" = "クラブを退会";
+
+"SNS.MyConnectVC.moreAction.delete" = "クラブを削除";
+
+"SNS.MyConnectVC.leaveClub.message" = "%@クラブから退会しますか？";
+
+"SNS.MyConnectVC.deleteClub.message" = "％@クラブを削除しますか？";
+
+"SNS.MyConnectVC.findCatalogLabel.text" = "カテゴリーから検索";
+
+"SNS.TimeLineNotificationVC.TITLE" = "タイムライン";
+
+"SNS.leaveClub.leaveClub.message" = "クラブから退会しますか？";
+
+"SNS.DeleteClub.deleteClub.message" = "クラブを削除しますか？";
+
+"SNS.PrivateClub.sendRequest" = "参加をリクエストしました。";
+
+"SNS.PrivateClub.showAlert.message" = "クラブ管理者の許可が必要です。";
+
+"SNS.PrivateClub.showAlert.titleButton" = "参加リクエスト";
+
+"SNS.PrivateClub.cancelRequest" = "クラブを参加のリクエストをキャンセルしました。";
+
+"SNS.CommentInClubVC.detailButton" = "詳細";
+
+"SNS.CommentInClubVC.joinButton" = "今すぐ参加！";
+
+"SNS.ChatVC.chatInputView.placeholder" = "メッセージを入力してください";
+
+"SNS.ActionComment.alert.message" = "この内容を削除してもよろしいですか？";
+
+"SNS.LeaveClub.alert.message" = "クラブから退会しますか？";
+
+"SNS.DeleteClub.alert.message" = "クラブを削除";
+
+"SNS.ClubPermission.info" = "情報";
+
+"SNS.ClubPermission.edit" = "編集";
+
+"SNS.ClubPermission.listMember" = "メンバー";
+
+"SNS.ClubPermission.requestJoin" = "参加リクエスト";
+
+"SNS.ClubPermission.leaveClub" = "クラブを退会";
+
+"SNS.ClubPermission.report" = "レポート";
+
+"SNS.ClubPermission.remove" = "クラブを削除";
+
+"SNS.ClubDescriptionTVCell.member" = "メンバー";
+
+"SNS.ClubDescriptionTVCell.post" = "コメント";
+
+"SNS.PrivateNote" = "グループノート";
+
+"SNS.GroupNote" = "グループノート";
+
+"SNS.updateMentionLocation.text" = "および ％d 他人";
+
+"SNS.updateMentionLocation.withText" = " - 〜と";
+
+"SNS.updateMentionLocation.atText" = " - 〜で";
+
+"SNS.SettingVC.logOut.text" = "ログアウト";
+
+"SNS.SettingVC.logOut.title" = "このアカウントからログアウトしてもよろしいですか？";
+
+"SNS.MoreSettingVC.statusUser.text" = "今なにしてる？";
+
+"SNS.MoreInputModel.photoVideo" = "写真/ビデオ";
+
+"SNS.MoreInputModel.record" = "レコーダー";
+
+"SNS.MoreInputModel.contact" = "連絡先";
+
+"SNS.MoreInputModel.location" = "住所";
+
+"SNS.CHATVC.POPOVER.LISTENMUSIC" = "音楽を聞く";
+
+"SNS.chatInput.placehoder" = "コメントを入力";
+
+"SNS.TimeLineItemFullView.inText" = " - 〜で ";
+
+"SNS.TimeLineItemFullView.withText" = " - と";
+
+"SNS.TimeLineItemFullView.nameText" = "1 人の他人";
+
+"SNS.lockUser.TEXT" = "このアカウントをロックします。";
+
+"SNS.TimeLineNotificationNoDataCell.titleText" = "新しいお知らせはありません";
+
+"SNS.CreateClubVC.textField.TEXT" = "クラブ名を入力";
+
+"SNS.CreateClubDescriptionCell.header.TEXT" = "説明";
+
+"SNS.CreateClubDescriptionCell.textView.placeholder" = "内容";
+
+"SNS.CreateClubSettingCell.titleCell.type" = "カテゴリー";
+
+"SNS.CreateClubSettingCell.titleCell.privateGroup" = "秘密グループ";
+
+"SNS.POST" = "投稿";
+
+"SNS.ALERT" = "通知";
+
+"SNS.YES" = "はい";
+
+"SNS.FIND" = "検索";
+
+"SNS.NONAME" = "無名";
+
+"SNS.PRIVATENOTE" = "ノート";
+
+"SNS.GROUPNOTE" = "ノート";
+
+"SNS.AND" = "と";
+
+"SNS.CREATE" = "作成";
+
+"SNS.SELECT" = "選択";
+
+"SNS.HIDDEN" = "非表示";
+
+"SNS.ReportSettingVC.textView.isEmpty" = "フィードバック内容を入力する必要があります。";
+
+"SNS.ReportSettingVC.feedbackAPI.completion" = "フィードバックを受け取りました。";
+
+"ChatVC.PopOverAction.leaveGroup" = "グループを退会しますか？";
+
+"SMS.ChatVC.group.pending" = "グループに参加してこの機能を使用してください。";
+
+"SNS.SELECTALL" = "すべて選択";
+
+"SNS.UNSELECTALL" = "選択を解除する";
+
+"SNS.MYQRCODEVC.CHANGEQRCODE.ACTIONSHEET" = "新しいQRコードを作成する";
+
+"SNS.MYQRCODEVC.CHANGEQRCODE.ALERTSUCCES" = "QRコードを正常に変更する";
+
+"FriendVCIntroHintText.tabGroupHintText" = "グループ作成";
+
+"FriendVCIntroHintText.tabAddFriendHintText" = "友達追加";
+
+"ChatRoomControllerHintText.turnOnSuggestFriendHintText" = "どこでも友達とチャット機能をONにする";
+
+"ChatRoomControllerHintText.createChatRoomHintText" = "新規チャットを作成";
+
+"NoteViewControllerHintText.createNoteHintText" = "新規チャットを作成";
+
+"AlbumVCHintText.createAlbumHintText" = "新規チャットを作成";
+
+"ChatVCDefine.callBarButtonHintText" = "無料通話";
+
+"ChatVCDefine.popOverButtonHintText" = "新規機能を見る";
+
+"ChatVCDefine.sendRequestFriendButtonHintText" = "友達申請を送信";
+
+"ChatVCDefine.inputViewMoreButtonHintText" = "もっと送信して";
+
+"ChatVCDefine.inputViewTextViewHintText" = "メッセージを入力";
+
+"ChatVCDefine.inputViewRecordButtonHintText" = "記録";
+
+"TimeLineVCHintText.createPostHintText" = "投稿を入力";
+
+"TimeLineVCHintText.notificationButtonHintText" = "新着通知を見る";
+
+"GroupTimeLineVCHintText.createClubHintText" = "サクルを作成";
+
+"IntroViewController.startUsingButton.title" = "今すぐ参加!";
+
+"SNS.ListFriendHashtagVC.TITLE" = "%d人の友達と";
+
+"SNS.ALLOWCAMERA.MESSAGE" = "カメラへのアクセスを許可してください";
+
+"SNS.IntroViewController.title1" = "友達や家族と無料通話";
+
+"SNS.IntroViewController.title2" = " 動画を見よう\n新規機能を体験しよう";
+
+"SNS.IntroViewController.title3" = "個人的な瞬間を共有して、友達からの情報を更新する\n";
+
+"SNS.IntroViewController.title4" = "友人とつながる、  \n 喜びを分かち合う";
+
+"SNS.TimeLineReportVC.Report.final" = "フィードバックを受け取りました。";
+
+"SNS.NOFEATURE" = "この機能は現在開発中であり、まもなく利用可能になります。";
+
+"SNS.CREATECLUBVC.FINDIMAGE.TITLE" = "画像検索";
+
+"SNS.CREATECLUBVC.UPIMAGE.TITLE" = "画像をアップロードする";
+
+"SNS.CREATECLUBVC.CREATECLUB.NONAME" = "サクル名を入力してください";
+
+"SNS.CREATECLUBVC.CREATECLUB.DESCRIPTION" = "サクルの説明を入力してください";
+
+"SNS.CREATECLUBVC.CREATECLUB.NOCATALOG" = "カテゴリを選択してください";
+
+"SNS.MyTimeLineController.PROFILESETTING" = "プロファイル設定";
+
+"SNS.MyTimeLineController.COVERIMAGE" = "カバー写真を編集する";
+
+"SNS.TLCreatePostVC.title" = "ノート";
+
+"SNS.OPTION" = "任意";
+
+"SNS.REPORT" = "バオカオ";
+
+"SNS.NOFRIEND" = "友人なし";
+
+"SNS.TYPECOMMENT" = "コメントを入力";
+
+"ChatVC.InputView.placeholder.text.nomal" = "Nhập tin nhắn";
+
+"ChatVC.InputView.placeholder.text.block" = "Blocked";
+
+"ChatVC.chatBox.lastMessage.outgoing.Note" = "You send a note";
+
+"ChatVC.chatBox.lastMessage.incomming.Note" = "%@ send a note";
+
+"SNS.TimeLineVC.newPost.BUTTON.TITLE" = "   新しい投稿   ";
+
+"ChatVC.Bubble.Contact.Action.RequestFriend" = "Bạn có muốn gửi yêu cầu kết bạn với %@?";
+
+"ChatVC.Bubble.Contact.Action.RequestFriendSuccess" = "Gửi yêu cầu kết bạn thành công";
+
+"ChatVC.chatBox.lastMessage.outgoing.call.Success" = "Thời gian gọi %@";
+
+"ChatVC.chatBox.lastMessage.incoming.call.Success" = "Thời gian gọi %@";
+
+"Call.callbusy.anothercall" = "%@は通話中のため応答することができません。しばらくしてからもう一度かけ直してください。";
+
+"EditChatRoomVC.title" = "Chỉnh sửa";
+
+"EditChatRoomVC.Popup.HideChatbox.title" = "Tin nhắn sẽ không bị xoá khi ẩn cuộc trò chuyện";
+
+"EditChatRoomVC.Popup.DeleteChatbox.title" = "Không thể xem lại nội dung trò chuyện đã xoá. Bạn có muốn xoá không?";
+
+"DetailAlbumVC.album.deleted" = "アルバムが削除されました";
+
+"SNS.NOCHANGE" = "変更なし";
+
+"SearchResultView.errorLabel.addFriendMySelf" = "You can't add yourself as a friend";
+
+"SNS.LOADING" = "Loading...";
+
+"YoutubePlayVideoView.alertError.CannotRequestWithBlockFriend" = "Bỏ chặn %@ để sử dụng tính năng này";
+"SNS.deleteUploadingPost.Message" = "投稿をキャンセルしますか？";
+
+"SNS.TimeLineVC.CantPost" = "あなたは投稿しています。 完了するまでお待ちください。";
+
+"SNS.CHAT.MESSAGE.NOTE" = "ノート";
+
+"SNS.MoreWebViewVC.alert.redownload" = "このステッカーは既に存在します。再読み込みしますか？";
+
+"SNS.MoreWebViewVC.download.success" = "ダウンロード成功";
+
+"SNS.MoreWebViewVC.download.fail" = "失敗した";
+
+"SNS.Logout.TokenInvalid" = "申し訳ありません、あなたのセッションは期限切れです";
+
+"SNS.Typing.Messenge" = "  タイピングメッセージ...";
+
+"SNS.TLCreatePostVC.CompressetingVideo" = "ビデオの圧縮";
+
+"SNS.TLCreatePostVC.CreatingPost" = "投稿を作成する";
+
+"SNS.ALLOWCONTACT.MESSAGE" = "連絡先へのアクセスを許可してください";
+
+"SNS.ALLOWCONTACTS" = "連絡先を許可する";
+
+"SNS.SEEN" = "見た";
+
+"SNS.RecordAudioView.RADefines.Permission" = "マイクの使用は無効になっています。録音のためにマイクアクセス許可を有効にしてください。";
+
+"SNS.RecordAudioView.RADefines.AskPermission" = "録音のためのマイクアクセス許可を有効にしてください";
+
+"SNS.RecordAudioView.RADefines.GotoSetting" = "インストールに移動";
+
+"SNS.RecordAudioView.RADefines.Tips" = "送信するためのドロップ、キャンセルのための左スクロール";
+
+"SNS.RecordAudioView.RADefines.TipDefault" = "録音するには押し続けます";
+
+"SNS.RecordAudioView.RADefines.RecordTooShort" = "メッセージが短すぎます";
+
+"SNS.RecordAudioView.RADefines.RecordTooLong" = "最大到達時間";
+
+"SNS.RecordAudioView.RADefines.ReleaseToCancel" = "リリースのキャンセル";
+
+"SNS.RecordAudioView.RADefines.EnterLockedMode" = "ハンズフリー録音モード";
+
+"SNS.UPLOADING" = "アップロード中...";
+
+"SNS.COMPLETION" = "完了";
+
+"SNS.MediaPickerVC.maxSelectableCount" = "％d個以上の画像または動画を選択できません";
+
+"SNS.MediaPickerVC.maxSelectableDuration" = "動画の再生時間は％d分未満である必要があります。";
+"EditInfoVC.updateUserIDIdNot" = "IDを入力してください";
+
+"SNS.SecurityQuestionVC.title" = "パスワードを回復するためにセキュリティ上の質問を使用してください。";
+"SNS.SecurityQuestionVC.titleQuestion" = "質問を選択：";
+"SNS.SecurityQuestionVC.titleAnswer" = "回答：";
+"SNS.SecurityQuestionVC.title2" = "質問を選択し、パスワードを取得するための回答を入力してください。";
+"SNS.PasscodeVC.title.new" = "新しいパスワードを入力してください";
+"SNS.PasscodeVC.title.new2" = "パスワードの確認";
+"SNS.PasscodeVC.title.change" = "現在のパスワードを入力してください";
+"SNS.PasscodeVC.title.turnOff" = "パスワードを入力してください";
+"SNS.PasscodeVC.title.check" = "パスワードの確認";
+"SNS.PasscodeVC.content.check" = "チャットを確認するためのパスワードを記憶する。\n パスワードを忘れた場合はチャットが失われます。";
+"SNS.PasscodeVC.wrong" = "パスワードが間違っています。\n もう一度お試しください。";
+"SNS.PasscodeVC.change.wrong" = "パスワードが間違っています。\n もう一度お試しください。";
+"SNS.PasscodeVC.alert.security" = "セキュリティに関する質問を使用してパスワードを取得してください。セキュリティに関する質問を使用しますか？";
+
+"SNS.SPRequestPermission.Camera.Title"                    = "カメラ認証";
+"SNS.SPRequestPermission.PhotoLibrary.Title"              = "ライブラリの承認";
+"SNS.SPRequestPermission.Notification.Title"              = "通知の承認";
+"SNS.SPRequestPermission.Microphone.Title"                = "マイクを認証する";
+"SNS.SPRequestPermission.Calendar.Title"                  = "カレンダーの許可を与える";
+"SNS.SPRequestPermission.Location.Title"                  = "許可の場所を与える";
+"SNS.SPRequestPermission.Contacts.Title"                  = "連絡先の認証";
+"SNS.SPRequestPermission.Reminders.Title"                 = "許可を与える";
+"SNS.SPRequestPermission.HeaderTitle"                     = "こんにちは！";
+"SNS.SPRequestPermission.HeaderSubtitle"                  = "アプリケーションのパフォーマンスを向上させるにはいくつかのアクセス許可が必要です。";
+"SNS.SPRequestPermission.TopAdviceTitle"                  = "アプリケーションに許可を与えてください";
+"SNS.SPRequestPermission.BottomAdviceTitle"               = "設定の権限を管理できます。";
+"SNS.SPRequestPermission.UnderDialogAdviceTitle"          = "ドラッグして解除";
+"SNS.SPRequestPermission.TitleForAlertDenidPermission"    = "メッセージ！";
+"SNS.SPRequestPermission.SubtitleForAlertDenidPermission" = "アクセスが拒否されました。権限を再度開くための設定に移動してください。";
+"SNS.SPRequestPermission.SettingForAlertDenidPermission"  = "設定に移動";
+
+"SNS.ChatListRoomViewModel.HideConversation"       = "チャットを非表示にする";
+"SNS.ChatListRoomViewModel.HideConversationDetail" = "チャットはメッセージリストから非表示になります。あなただけがあなたの個人PINを使用して検索して再度開くことができます。";
+"SNS.ChatListRoomViewModel.SetPINCode"             = "PINを設定";
+
+"SNS.MessageAndCallVC.Title"    = "パスワード設定";
+"SNS.MessageAndCallVC.Subtitle" = "パスワードを使用してパスワードをリセットする";
+
+"SNS.PasscodeVC.Message" = "続行を確認してください";
+
+"SNS.SettingPasscodeVC.ChangePasscode"    = "パスワードを変更する";
+"SNS.SettingPasscodeVC.TurnOffPasscode"   = "パスワードを無効にする";
+"SNS.SettingPasscodeVC.ForgotPasscode"    = "パスワードを忘れました";
+"SNS.SettingPasscodeVC.ChangePasscodeSub" = "非表示チャットのパスワードを変更してください。";
+"SNS.SettingPasscodeVC.TurnOffPassSub"    = "パスワードをオフにした後に隠しチャットが表示されます。";
+"SNS.SettingPasscodeVC.ForgotPasscodeSub" = "セキュリティの質問を使用してパスワードをリセットしてください。";
+"SNS.SettingPasscodeVC.TurnOffPassDetail" = "パスワードをオフにした後に隠しチャットが表示されます。";
+
+"SNS.ChatRoomController.SearchPlaceholder" = "チャットを探す...";
+
+"SNS.TLCreatePostVC.POST.NODATA" = "投稿内容を入力する必要があります";
+"SNS.Error.ClubWasDeleted" = "クラブは削除されました";
+"SNS.Error.ClubNotExist" = "あなたはアクセス権がありません";
+
+"SNS.ChatVC.ContactHandle.Friend.Requested" = "Đã gửi yêu cầu kết bạn cho người này. Vui lòng đợi xác nhận";
+"SNS.ChatVC.ContactHandle.Friend.Wait" = "Vui lòng xác nhận yêu cầu kết bạn để tiếp tục";
+"SNS.ChatVC.ContactHandle.Friend.Blocked" = "Vui lòng mở chặn để tiếp tục";
+"SNS.ChatVC.ContactHandle.Friend.Hidden" = "Vui lòng bỏ ẩn để tiếp tục";
+"SNS.COMMONIMAGECELL.LABEL" = "あなたが望む人と写真を共有する。";
+
+"SNS.TIMELINEDEFAULTCELL.LABEL" = "あなたの友人にあなたの気持ちを知らせますか？";
+
+"SNS.NODATA.SEARCH" = "見つかりません";
+"SNS.FRIENDSUBVC.ENUM.OFFICAL.ACCOUNT" = "公式アカウント";
+"ErrorNetwork.CreatRoom" = "ネットワークが接続されていないので、ルームチャットを作成できません。";
+
+"SNS.VERSION" = "バージョン: ";
+"CommentInClubVC.MoreOption.PinComment" = "ピン";
+

@@ -1,0 +1,1053 @@
+"SNS.IMPORTANT" = "IMPORTANT";
+
+"SNS.CANCEL" = "Cancel";
+
+"SNS.ALLOWCAMERA" = "Allow Camera";
+
+"SNS.ALLOWPHOTO" = "Allow Photo";
+
+"SNS.ALLOWPHOTO.MESSAGE" = "Please allow Photo access";
+
+"SNS.OK" = "OK";
+
+"SNS.SMS" = "SMS";
+
+"SNS.EMAIL" = "Email";
+
+"SNS.FACEBOOK" = "Facebook";
+
+"SNS.ID" = "ID";
+
+"SNS.ADD" = "Add";
+
+"SNS.DELETE" = "Delete";
+
+"SNS.BLOCK" = "Block";
+
+"SNS.DONE" = "Done";
+
+"SNS.SEARCH" = "Search";
+
+"SNS.SEND" = "Send";
+
+"SNS.TIMELINE.LIKE" = "Like";
+
+"SNS.TIMELINE.COMMENT" = "Comment";
+
+"SNS.SAVE" = "Save";
+
+"SNS.ERROR" = "Error";
+
+"SNS.SUCCESS" = "Success";
+
+"SNS.NO" = "No";
+
+"SNS.ON" = "On";
+
+"SNS.OFF" = "Off";
+
+"SNS.CAMERA" = "Camera";
+
+"SNS.LIBRARY" = "Library";
+
+"AlertCheckNetwork" = "The Internet connection appears to be offline.";
+
+"SNS.NODATA" = "No Data";
+
+"SNS.ADDFRIENDSTVCELL1.TEXTLABEL1" = "Auto Add Friends";
+
+"SNS.ADDFRIENDSTVCELL1.TEXTLABEL2_1" = "Auto-add contacts as friends.";
+
+"SNS.ADDFRIENDSTVCELL1.TEXTLABEL2_2" = "Change your settings >";
+
+"SNS.ADDFRIENDSTVCELL1.TEXTLABEL2_3" = "Synchronizing...";
+
+"SNS.SETTINGFRIENDVC.LASTADDFRIENDCELL" = "Last added: %@";
+
+"SNS.ADDFRIENDVC.ALLOWBUTTON" = "Allow";
+
+"SNS.ADDFRIENDTVCELL1.ONBUTTON" = "On";
+
+"SNS.ADDFRIEND.QRCODE.LABEL" = "QR Code";
+
+"SNS.ADDFRIEND.PHONEID.LABEL" = "ID/Phone number";
+
+"SNS.ADDFRIEND.ADDMORE.LABEL" = "Invite";
+
+"SNS.FRIENDSUBVC.ENUM.PROFILE" = "Profile";
+
+"SNS.FRIENDSUBVC.ENUM.FRIENDRECOMMEND" = "Friend Invitations";
+
+"SNS.FRIENDSUBVC.ENUM.FAVORITES" = "Favorite";
+
+"SNS.FRIENDSUBVC.ENUM.FRIENDS" = "Friends";
+
+"SNS.FRIENDSUBVC.HIDE" = "Hidden";
+
+"SNS.FRIENDSUBVC.BLOCK" = "Block";
+
+"SNS.FRIENDSUBVC.POPUP.IDNOTSET" = "Not Installed";
+
+"SNS.FRIENDSUBVC.POPUP.SETTINGPROFILE" = "Profile settings";
+
+"SNS.FRIENDSUBVC.POPUP.HOME" = "Home";
+
+"SNS.FRIENDSUBVC.POPUP.REJECT" = "Rejected";
+
+"SNS.FRIENDSUBVC.POPUP.ACCEPT" = "Accept";
+
+"SNS.FRIENDSUBVC.POPUP.CHAT" = "Chat";
+
+"SNS.FRIENDSUBVC.POPUP.AUDIOCALL" = "Call Phone";
+
+"SNS.FRIENDSUBVC.POPUP.VIDEOCALL" = "Video";
+
+"SNS.GROUPSUBVC.ENUM.GROUPPENINGS" = "Group invitation";
+
+"SNS.GROUPSUBVC.ENUM.FAVORITES" = "Favorite";
+
+"SNS.GROUPSUBVC.ENUM.GROUPS" = "Groups";
+
+"SNS.GROUPSUBVC.ENUM.CREATEGROUP" = "Create group";
+
+"SNS.GROUPSUBVC.ENUM.LEAVEGROUP" = "Leave group";
+
+"SNS.GROUPSUBVC.POPUP.REJECT" = "Rejected";
+
+"SNS.GROUPSUBVC.POPUP.APPROVE" = "Join";
+
+"SNS.GROUPSUBVC.POPUP.NOTE" = "Notes";
+
+"SNS.GROUPSUBVC.POPUP.ALBUM" = "Album";
+
+"SNS.FRIENDVC.FRIEND" = "Friends";
+
+"SNS.FRIENDVC.GROUP" = "Group";
+
+"SNS.FRIENDVC.ADDFRIEND" = "Add you";
+
+"SNS.FRIENDVC.FINDFRIEND" = "Find friends...";
+
+"SNS.FRIENDVC.SEARCHHISTORY" = "Recent Searches";
+
+"SNS.FRIENDVC.NOID.CELll" = "ID Not installed";
+
+"SNS.FRIEND.ACTIONSHEET.MAIL.FAIL" = "Your device can't send email.";
+
+"SNS.FRIEND.ACTIONSHEET.SMS.FAIL" = "Your device can't send SMS.";
+
+"SNS.FRIEND.ACTIONSHEET.FACEBOOK.FAIL" = "Your device can't open Messenger";
+
+"SNS.QRCODEVC.ALERT1" = "Please allow camera access for QR Scanning";
+
+"SNS.QRCODEVC.LIBRARY.BUTTON" = "Album";
+
+"SNS.QRCODEVC.MYQRCODE.BUTTON" = "My QRCode";
+
+"SNS.QRCODEVC.TITLE" = "Read QRCode";
+
+"SNS.QRCODEVC.LIBRARY.ALERT.TITLE" = "Scan failed";
+
+"SNS.QRCODEVC.LIBRARY.ALERT.MESSEAGE" = "QR code is wrong. Please check your QR code and try again.";
+
+"SNS.QRCODEVC.ANALYSISQRCODE.ALERT.MESSEAGE" = "QR code is wrong. Please check your QR code and try again.";
+
+"SNS.MYQRCODEVC.TITLE" = "My QRCode";
+
+"SNS.MYQRCODEVC.READQRCODE.BUTTON" = "Read QRCode";
+
+"SNS.MYQRCODEVC.SHARE.ACTIONSHEET" = "Share";
+
+"SNS.MYQRCODEVC.SENDMAIL.ACTIONSHEET" = "Send by Email";
+
+"SNS.MYQRCODEVC.SAVETOALBUM.ACTIONSHEET" = "Save to Album";
+
+"SNS.SEARCHVC.TITLE" = "Search by ID/Phone No.";
+
+"SNS.SEARCHVC.USERNOTFOUND.LABEL" = "User not found.";
+
+"SNS.SEARCHVC.ID.PLACEHOLEDER" = "Enter your friend's ID";
+
+"SNS.SEARCHVC.PHONE.PLACEHOLDER" = "Enter your friend's number";
+
+"SNS.SEARCHVC.ID.LABEL" = "ID";
+
+"SNS.SEARCHVC.PHONE.LABEL" = "Phone Number";
+
+"SNS.SELECTCOUNTRYCODEVC.TITLE" = "Select country";
+
+"SNS.SELECTCOUNTRYCODEVC.SEARCH.PLACEHOLDER" = "Search by country";
+
+"SNS.CREATEGROUPVC.GROUPAVATAR.TITLE" = "Group Avatar";
+
+"SNS.CREATEGROUPVC.GROUPAVATAR.CAMERA.BUTTON" = "Camera";
+
+"SNS.CREATEGROUPVC.GROUPAVATAR.PHOTO.BUTTON" = "Album";
+
+"SNS.EDITINFOVC.ID.TITLE" = "ID";
+
+"SNS.EDITINFOVC.ID.SAVE.BUTTON" = "Check availability";
+
+"SNS.EDITINFOVC.ID.INFO.LABEL" = "The user can search you by ID. Once set ID can not be changed.";
+
+"SNS.EDITINFOVC.ID.PLACEHOLDER.TEXTFIELD" = "Enter ID";
+
+"SNS.EDITINFOVC.CHECKID.LABEL" = "This ID is unavailable.";
+
+"SNS.EDITINFOVC.NAME.TITLE" = "Name";
+
+"SNS.EDITINFOVC.NAME.SAVE.BUTTON" = "Save";
+
+"SNS.EDITINFOVC.STATUS.TITLE" = "Status";
+
+"SNS.EDITINFOVC.STATUS.PLACEHOLDER.TEXTFIELD" = "Please enter a status message";
+
+"SNS.EDITINFOVC.ALBUM.TITLE" = "Rename Album";
+
+"SNS.CREATEGROUPVC.TITLE" = "Create group";
+
+"SNS.CREATEGROUPVC.NAV.SAVE" = "Save";
+
+"SNS.CREATEGROUPVC.GROUPNAME" = "Group Name";
+
+"SNS.CREATEGROUPVC.CREATEGROUPCVCELL.ADD" = "Add";
+
+"SNS.CREATEGROUPVC.CREATEGROUPHEADERVIEW.MEMBER" = "Member";
+
+"SNS.CREATEGROUPVC.CREATEGROUPFOOTERVIEW.DESCIPTION" = "You can only invite up to 499 people in a chat room. \nYou can invite friends to join the group and chat with all team members. \n- Chia Share your photos in the album \n- Save all types of important information to groups as notes. \n- The album and notes are not deleted when the chat room is deleted.";
+
+"SNS.SETTINGFRIENDVC.TITLE" = "Setting friends";
+
+"SNS.SETTINGFRIENDVC.CELL.REQUEST.LABEL" = "Friend request";
+
+"SNS.SETTINGFRIENDVC.CELL.ADD.LABEL" = "Auto add friends";
+
+"SNS.SETTINGFRIENDVC.CELL.ALLOW.LABEL" = "Allow addition to friends";
+
+"SNS.SETTINGFRIENDVC.CELL.HIDDEN.LABEL" = "Hidden list";
+
+"SNS.SETTINGFRIENDVC.CELL.BLOCK.LABEL" = "Block list";
+
+"SNS.SETTINGFRIENDVC.CELL.TOPALLOW.LABEL" = "Add the address book contacts automatically to your friends. If you want to run it with your notebook please press the update button.";
+
+"SNS.SETTINGFRIENDVC.CELL.TOPREQUEST.LABEL" = "Allow other users to search and connect automatically with me by my phone number.";
+
+"SNS.SELECTFRIENDADDGROUPVC.TITLE" = "Select friends";
+
+"SNS.SELECTFRIENDADDGROUPVC.INVITE" = "Invite";
+
+"SNS.SELECTFRIENDADDGROUPVC.SEARCH" = "Search";
+
+"SNS.HIDDENFRIENDLISTVC.TITLE" = "List hidden";
+
+"SNS.HIDDENFRIENDLISTVC.NILDATA.LABEL" = "No users are hiding.";
+
+"SNS.HIDDENFRIENDLISTVC.CELL.UNHIDED.BUTTON" = "Un Hide";
+
+"SNS.BLOCKFRIENDLISTVC.TITLE" = "List block";
+
+"SNS.BLOCKFRIENDLISTVC.NILDATA.LABEL" = "No users are blocking";
+
+"SNS.BLOCKFRIENDLISTVC.CELL.UNBLOCK.BUTTON" = "Un block";
+
+"SNS.LISTREQUESTFRIENDVC.TITLE" = "Friend request";
+
+"SNS.LISTREQUESTFRIENDVC.NILDATA.LABEL" = "There are no friend requests.";
+
+"SNS.NEWSELECTFRIENDVC.TITLE" = "Edit";
+
+"SNS.NEWSELECTFRIENDVC.HIDE.NAVI" = "Hide";
+
+"SNS.NEWSELECTFRIENDVC.BLOCK.NAVI" = "Block";
+
+"SNS.ROOM.TITLE" = "Chats";
+
+"SNS.ROOM.NAVIGATIONBARLEFT" = "Edit";
+
+"SNS.LISTUSERINGROUPVC.JOINED" = "Joined";
+
+"SNS.LISTUSERINGROUPVC.WAITING" = "Waiting";
+
+"SNS.LISTUSERINGROUPVC.MEMBER" = "Friends";
+
+"SNS.LISTUSERINGROUPVC.INVITEFRIEND" = "Invite friends";
+
+"SNS.LISTUSERINGROUPVC.DONE" = "Done";
+
+"SNS.LISTUSERINGROUPVC.EDIT" = "Edit";
+
+"SNS.REQUESTFRIENDVC.TITLE" = "Read QRCode";
+
+"SNS.SEARCHRESULTVIEW.ADDFRIEND.BUTTON" = "Request Friend";
+
+"SNS.SEARCHRESULTVIEW.CHAT.BUTTON" = "Chat";
+
+"SNS.PROFILESETTING.TITLE" = "Profile settings";
+
+"SNS.PROFILESETTING.CELL.PHONENUMBER.LEFTLABEL" = "Phone number";
+
+"SNS.PROFILESETTING.CELL.NAME.LEFTLABEL" = "Name";
+
+"SNS.PROFILESETTING.CELL.STATUS.LEFTLABEL" = "Not setup yet";
+
+"SNS.PROFILESETTING.CELL.IDUSER.LEFTLABEL" = "ID";
+
+"SNS.PROFILESETTING.CELL.MYQRCODE.LEFTLABEL" = "My QRCode";
+
+"SNS.PROFILESETTING.CELL.HEADER.LEFTLABEL" = "Status message";
+
+"SNS.CHATROOMVC.SUGGESTTITLELABEL" = "   Suggestion";
+
+"SNS.CHATROOMVC.TITLE.TURNONSTATUS" = "Turn on to show friends";
+
+"SNS.TIMELINE.TITLEVC" = "Timeline";
+
+"SNS.MYTIMELINE.TITLEVC" = "My Time Line";
+
+"SNS.TIMELINE.TEXTREADMORE" = "... Read more";
+
+"SNS.SETTINGGROUPVC.TITLE" = "Settings";
+
+"SNS.SETTINGGROUPVC.RIGHT.NAVI" = "Save";
+
+"SNS.SETTINGGROUPVC.GROUPNAME.PLACEHOLDER.TEXTFIELD" = "Group name";
+
+"SNS.COMMONIMAGEVC.TITLE" = "General Images";
+
+"SNS.TIMELINEREPORTVC.TITLE" = "Report";
+
+"SNS.NOTEDEFAULTCELL.LABEL" = "Keep track of important information and share with Note.";
+
+"SNS.SAVEALBUMVC.RIGHT.NAVI" = "Select All";
+
+"SNS.DETAILALBUMVC.POPPVER.CHANGENAME" = "Rename Album";
+
+"SNS.DETAILALBUMVC.POPPVER.DELETE" = "Delete Album";
+
+"SNS.DETAILALBUMVC.ALERT.DELETEALBUM" = "Do you want to delete Album?";
+
+"SNS.DETAILALBUMVC.TITLE.INTRO" = "Keep track of important information and share with %@ by Album.";
+
+"SNS.CHATROOMVC.HIDE" = "Hide";
+
+"SNS.CHATROOMVC.DELETE" = "Delete";
+
+"ListUsersInPublicRoomVC.title" = "Friends (%d)";
+
+"Chat.messageAction.addMember" = "System message add member";
+
+"Chat.messageAction.leaveRoom" = "%@ leave group";
+
+"Chat.messageAction.joinRoom" = "%@ join group";
+
+"Chat.messageAction.changeAvatar" = "%@ has changed avatar";
+
+"Chat.messageAction.changeName" = "%@ has changed group name";
+
+"Chat.messageAction.call" = "System message call";
+
+"Chat.messageAction.date" = "System message date";
+
+"Chat.messageAction.invite" = "%@ invited %@ to group";
+
+"Chat.messageAction.createRoom" = "System message create room";
+
+"Chat.messageAction.removeMember" = "%@ removed %@ out group";
+
+"Chat.messageAction.requestSyncVideo" = "%@ request watch video together";
+
+"Chat.messageAction.requestSyncVideo.accept" = "%@ accept request watch video together";
+
+"Chat.messageAction.requestSyncVideo.cancel" = "%@ cancel request watch video together";
+
+"Chat.messageAction.requestSyncVideo.closeSync" = "%@ cancel watch video with you";
+
+"Chat.messageAction.SyncVideo.Action.play" = "%@ play video.";
+
+"Chat.messageAction.SyncVideo.Action.pause" = "%@ pause video";
+
+"Chat.messageAction.SyncVideo.Action.seek" = "%@ play video";
+
+"SNS.GROUPTIMELINEVC.FIND.PLACEHOLDER" = "Search...";
+
+"SNS.GROUPTIMELINEVC.TAB.MYCONNECT" = "My Connect";
+
+"SNS.GROUPTIMELINEVC.TAB.LISTCONNECT" = "Category";
+
+"CallDetailVC.phonenumberLabel.text" = "Phone number";
+
+"CallDetailVC.missCallLabel.text" = "Missed call";
+
+"CallDetailVC.cancelCallLabel.text" = "Cancelled";
+
+"CallDetailVC.noAnswerCallLabel.text" = "No Answer";
+
+"CallDetailVC.successCallLabel.text" = "%@";
+
+"CallDetailVC.freeCallLabel.text" = "Voice call";
+
+"CallDetailVC.videoCallLabel.text" = "Video call";
+
+"Call.connectionStatusLabel.text" = "Quality: %@";
+
+"Call.connectionStatusLabel.WaitConnecting" = "Wait connecting...";
+
+"Call.connectionStatusLabel.Connecting" = "Very poor";
+
+"Call.connectionStatusLabel.Good" = "Good";
+
+"Call.connectionStatusLabel.Excellent" = "Excellent";
+
+"Call.connectionStatusLabel.Disconnecting" = "Very poor";
+
+"Call.connectionStatusLabel.Disconnected" = "Disconnected";
+
+"CreateGroupVC.validate.GroupNameIsNil" = "Please enter group name";
+
+"CreateGroupVC.validate.GroupAvatarIsNil" = "Please select group avatar";
+
+"ChatVC.chatBox.lastMessage.outgoing.image" = "You sent a photo";
+
+"ChatVC.chatBox.lastMessage.outgoing.video" = "You sent a video";
+
+"ChatVC.chatBox.lastMessage.outgoing.audio" = "You sent a audio";
+
+"ChatVC.chatBox.lastMessage.outgoing.file" = "You sent a file";
+
+"ChatVC.chatBox.lastMessage.outgoing.location" = "You sent a place";
+
+"ChatVC.chatBox.lastMessage.outgoing.contact" = "You sent a contact";
+
+"ChatVC.chatBox.lastMessage.outgoing.sticker" = "You sent a sticker";
+
+"ChatVC.chatBox.lastMessage.outgoing.album" = "You sent a album";
+
+"ChatVC.chatBox.lastMessage.outgoing.media" = "You sent a media";
+
+"ChatVC.chatBox.lastMessage.outgoing.inviteWatchVideo" = "You sent an invitation to view the video.";
+
+"ChatVC.chatBox.lastMessage.incomming.image" = "%@ sent a photo";
+
+"ChatVC.chatBox.lastMessage.incomming.video" = "%@ sent a video";
+
+"ChatVC.chatBox.lastMessage.incomming.audio" = "%@ sent a audio";
+
+"ChatVC.chatBox.lastMessage.incomming.file" = "%@ sent a file";
+
+"ChatVC.chatBox.lastMessage.incomming.location" = "%@ sent a place";
+
+"ChatVC.chatBox.lastMessage.incomming.contact" = "%@ sent a contact";
+
+"ChatVC.chatBox.lastMessage.incomming.sticker" = "%@ sent a sticker";
+
+"ChatVC.chatBox.lastMessage.incomming.album" = "%@ sent a album";
+
+"ChatVC.chatBox.lastMessage.incomming.media" = "%@ sent a media";
+
+"ChatVC.chatBox.lastMessage.incomming.inviteWatchVideo" = "%@ has invited you to watch the video.";
+
+"SNS.SETTINGVC.TITLE" = "Setting";
+
+"SNS.SETTINGVC.CELL.PROFILE" = "Profile";
+
+"SNS.SETTINGVC.CELL.ACCOUNT" = "Account";
+
+"SNS.SETTINGVC.CELL.SETTINGFRIEND" = "Manage friends";
+
+"SNS.SETTINGVC.CELL.MESSAGEANDCALL" = "Calls and messages";
+
+"SNS.SETTINGVC.CELL.TIMELINE" = "Timeline";
+
+"SNS.SETTINGVC.CELL.IMAGEANDVIDEO" = "Photos and Videos";
+
+"SNS.SETTINGVC.CELL.LOGOUT" = "Log out";
+
+"SNS.MORESETTINGVC.CELL.STICKER" = "Sticker";
+
+"SNS.MORESETTINGVC.CELL.REPORT" = "Report";
+
+"SNS.MORESETTINGVC.CELL.RANK" = "Review Cosy";
+
+"SNS.MORESETTINGVC.CELL.TERMS" = "Terms of use";
+
+"SNS.MORESETTINGVC.CELL.ABOUT" = "About";
+
+"SNS.MESSAGEANDCALLVC.TITLE" = "Calls and messages";
+
+"SNS.MESSAGEANDCALLVC.CELL.RING" = "Ring";
+
+"SNS.MESSAGEANDCALLVC.CELL.VIBRATE" = "Vibrate";
+
+"SNS.MESSAGEANDCALLVC.CELL.AUTOPLAYAUDIOMESSAGE" = "Automatically play voice messages";
+
+"SNS.MESSAGEANDCALLVC.FOOTER.RING" = "When there is incoming call or new message.";
+
+"SNS.MESSAGEANDCALLVC.FOOTER.VIBRATE" = "When there is incoming call or new message.";
+
+"SNS.MESSAGEANDCALLVC.FOOTER.AUTOPLAYAUDIOMESSAGE" = "Enable to automatically broadcast new voice messages.";
+
+"SNS.TIMELINESETTINGVC.TITLE" = "Timeline";
+
+"SNS.TIMELINESETTINGVC.CELL.NOTIFICATIONS" = "All notifications";
+
+"SNS.TIMELINESETTINGVC.CELL.LIKEPOSTS" = "Like post";
+
+"SNS.TIMELINESETTINGVC.CELL.COMMENTPOSTS" = "Comment post";
+
+"SNS.TIMELINESETTINGVC.CELL.LIKECOMMENTS" = "Like comment";
+
+"SNS.IMAGEANDVIDEOVC.TITLE" = "Photos and videos";
+
+"SNS.IMAGEANDVIDEOVC.CELL.QUALITYIMAGE" = "High quality photos";
+
+"SNS.IMAGEANDVIDEOVC.CELL.AUTOPLAYVIDEO" = "Automatically play Video";
+
+"SNS.IMAGEANDVIDEOVC.FOOTER.QUALITYIMAGE" = "Enabled to upload high quality Image.";
+
+"SNS.IMAGEANDVIDEOVC.FOOTER.AUTOPLAYVIDEO" = "The video will automatically play when there is an Internet connection.";
+
+"SNS.REPORTSETTINGVC.TITLE" = "Feedback";
+
+"SNS.REPORTSETTINGVC.TOPLABEL" = "What do you want to tell us?";
+
+"SNS.REPORTSETTINGVC.BOTTOMLABEL" = "The feedback you send us does not include your personal information.";
+
+"YouTubeSearchView.searchBar.placeholder" = "Search by name";
+
+"SNS.CREATEGROUPVC.ALERTINFO.ADDNEWMEMBER" = "Please add members.";
+
+"SNS.CHATVC.POPOVER.INVITE" = "Invite";
+
+"SNS.CHATVC.POPOVER.MEMBERS" = "Members";
+
+"SNS.CHATVC.POPOVER.NOTE" = "Note";
+
+"SNS.CHATVC.POPOVER.ALBUM" = "Album";
+
+"SNS.CHATVC.POPOVER.IMAGES" = "Images";
+
+"SNS.CHATVC.POPOVER.LEAVEGROUP" = "Leave group";
+
+"SNS.CHATVC.POPOVER.GROUPSETTING" = "Group settings";
+
+"SNS.CHATVC.POPOVER.ONNOTIFICATIONS" = "Turn On notifications";
+
+"SNS.CHATVC.POPOVER.OFFNOTIFICATIONS" = "Turn off notifications";
+
+"SNS.CHATVC.POPOVER.CALL" = "Call";
+
+"SNS.CHATVC.POPOVER.VIDEOCALL" = "Video call";
+
+"SNS.CHATVC.POPOVER.BLOCK" = "Block";
+
+"SNS.CHATVC.POPOVER.UNBLOCK" = "Unblock";
+
+"SNS.CHATVC.POPOVER.OFFNOTIFICATIONS.MESSAGE" = "Do you want to turn off notifications?";
+
+"SNS.CHATVC.POPOVER.BLOCK.MESSAGE" = "Some features will not work. Want to block?";
+
+"YoutubeVC.youtubeMode.title" = "Youtube";
+
+"YoutubeVC.musicMode.title" = "SoundCloud";
+
+"SNS_CLUBDETAIL.INFORMATION" = "Information";
+
+"SNS_CLUBDETAIL.MANAGER" = "Manager";
+
+"UpdateUserInfoVC.title" = "Update Information";
+
+"UpdateUserInfoVC.descriptionLabel.text" = "Use your name and avatar to help your friends recognize you";
+
+"BeginVC.loginButton.title" = "Login";
+
+"BeginVC.registerButton.title" = "Register";
+
+"LoginRegisterVC.title" = "Login and register";
+
+"SNS.JOINREQUESTVC_TITLE" = "Rquest to join";
+
+"SNS.JOINREQUESTVC_EMPTYLIST" = "No member";
+
+"Chat.notification.incomming.audio" = "%1$@ sent a audio";
+
+"Chat.notification.incomming.file" = "%1$@ sent a file";
+
+"Chat.notification.incomming.location" = "%1$@ sent a place";
+
+"Chat.notification.incomming.contact" = "%1$@ sent a contact";
+
+"Chat.notification.incomming.sticker" = "%1$@ sent a sticker";
+
+"Chat.notification.incomming.album" = "%1$@ sent a album";
+
+"Chat.notification.incomming.note" = "%1$@ sent a note";
+
+"Chat.notification.incomming.media" = "%1$@ sent a media";
+
+"Chat.notification.incomming.call" = "%1$@ called you";
+
+"Chat.notification.incomming.inviteWatchVideo" = "%1$@ has invited you to watch the video.";
+
+"Chat.notification.incomming.title" = "%1$@";
+
+"YoutubePlayVideoView.alertConfirm.turnOffSync" = "You are watching video with your friend? Do you want to cancel?";
+
+"YoutubePlayVideoView.alertConfirm.sendRequest" = "Do you want to send Video request with %@ ?";
+
+"SNS.CONNECTCATALOGMODEL.ALL" = "All";
+
+"SNS.CONNECTCATALOGMODEL.FAVORITES" = "Favorites of the week";
+
+"SNS.CONNECTCATALOGMODEL.FAVORITE" = "Favorite";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.TITLE" = "Please enable access to the library";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.denied.BUTTON" = "Go to settings";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.denied.MESSENGER" = "Album access is disabled please enable to use images and videos for the article";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.notDetermined.BUTTON" = "OK";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.notDetermined.MESSENGER" = "The application needs to access the album to use images and video for the article.";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.restricted.BUTTON" = "Turn off the limit";
+
+"SNS.MediaPickerVC.PHPhotoLibrary.restricted.MESSENGER" = "Library access restricted. Please disable the limit to continue using";
+
+"SNS.ChoosePlaceVC.TITLE" = "Place";
+
+"SNS.ChoosePlaceVC.INFO" = "Determining your location";
+
+"SNS.CLLocationManager.TITLE" = "Please turn on location services";
+
+"SNS.CLLocationManager.denied.BUTTON" = "Go to settings";
+
+"SNS.CLLocationManager.denied.MESSENGER" = "Location services are disabled, please turn on services to continue using.";
+
+"SNS.CLLocationManager.notDetermined.BUTTON" = "OK";
+
+"SNS.CLLocationManager.notDetermined.MESSENGER" = "Location services are used to search for places around you.";
+
+"SNS.CLLocationManager.restricted.BUTTON" = "Turn off the limit";
+
+"SNS.CLLocationManager.restricted.MESSENGER" = "Location services are limited please turn off the limit to continue using";
+
+"SNS.UpdateUserInfoVC.rightBarButtonItem.TITLE" = "Continue";
+
+"SNS.UpdateUserInfoVC.usernameTextField.PLACEHOLDEr" = "Display name";
+
+"SNS.LoginRegisterVC.ERROR" = "Unknown error, please try again later.";
+
+"SNS.BaseTimeLineHandler.EDIT" = "Edit";
+
+"SNS.BaseTimeLineHandler.DELETE" = "Delete";
+
+"SNS.BaseTimeLineHandler.HIDDEN" = "Hide this post";
+
+"SNS.BaseTimeLineHandler.REPORT" = "Report";
+
+"SNS.BaseTimeLineHandler.DELETEPOST.MESSAGE" = "If you delete this post all the information related to the post will be lost. Do you want to continue?";
+
+"SNS.BaseTimeLineHandler.HIDEPOST.MESSAGE" = "Hide this post from your Timeline?";
+
+"SNS.TLCreatePostVC.description.placeholder" = "Tell us how recently you were?";
+
+"SNS.TLCreatePostVC.choosePlace.REMOVELOCATION" = "Remove location";
+
+"SNS.TLCreatePostVC.choosePlace.SELECTLOCATION" = "Select a new location";
+
+"SNS.TLCreatePostVC.PostPermission.ONLYME" = "Only me";
+
+"SNS.TLCreatePostVC.PostPermission.FRIENDS" = "Friends";
+
+"SNS.TLCreatePostVC.PostPermission.SELECTIVEFRIENDS" = "Friends selected";
+
+"SNS.TLCreatePostVC.PostPermission.PUBLIC" = "Public";
+
+"SNS.TLBottomPostView.toolbarType.sticker" = "Select sticker";
+
+"SNS.TLBottomPostView.toolbarType.link" = "Add link";
+
+"SNS.TLBottomPostView.toolbarType.media.left" = "Camera";
+
+"SNS.TLBottomPostView.toolbarType.media.right" = "Library";
+
+"SNS.TLBottomPostView.linkPreviewer.other" = "Select another link";
+
+"SNS.TLBottomPostView.linkPreviewer.delete" = "Remove link";
+
+"SNS.TLBottomPostView.alertLinkInput.title" = "Enter link";
+
+"SNS.TLBottomPostView.alertLinkInput.placeholder" = "Please enter url ...";
+
+"SNS.MyConnectVC.moreAction.report" = "Report";
+
+"SNS.MyConnectVC.moreAction.leave" = "Leave the club";
+
+"SNS.MyConnectVC.moreAction.delete" = "Delete Club";
+
+"SNS.MyConnectVC.leaveClub.message" = "Do you want to leave the %@ club?";
+
+"SNS.MyConnectVC.deleteClub.message" = "Do you want to delete the %@ club?";
+
+"SNS.MyConnectVC.findCatalogLabel.text" = "Search from directory";
+
+"SNS.TimeLineNotificationVC.TITLE" = "Timeline";
+
+"SNS.leaveClub.leaveClub.message" = "Do you want to leave the club";
+
+"SNS.DeleteClub.deleteClub.message" = "Do you want to delete the club";
+
+"SNS.PrivateClub.sendRequest" = "Request to join club successfully";
+
+"SNS.PrivateClub.showAlert.message" = "You need permission from the club manager.";
+
+"SNS.PrivateClub.showAlert.titleButton" = "Request to join";
+
+"SNS.PrivateClub.cancelRequest" = "Cancel joining request";
+
+"SNS.CommentInClubVC.detailButton" = "Details";
+
+"SNS.CommentInClubVC.joinButton" = "Join Now!";
+
+"SNS.ChatVC.chatInputView.placeholder" = "Type a message";
+
+"SNS.ActionComment.alert.message" = "Are you sure you want to delete this content?";
+
+"SNS.LeaveClub.alert.message" = "Do you want to leave the club";
+
+"SNS.DeleteClub.alert.message" = "Delete Club";
+
+"SNS.ClubPermission.info" = "Information";
+
+"SNS.ClubPermission.edit" = "Edit";
+
+"SNS.ClubPermission.listMember" = "Member";
+
+"SNS.ClubPermission.requestJoin" = "Request to join";
+
+"SNS.ClubPermission.leaveClub" = "Leave the club";
+
+"SNS.ClubPermission.report" = "Report";
+
+"SNS.ClubPermission.remove" = "Delete Club";
+
+"SNS.ClubDescriptionTVCell.member" = "Member";
+
+"SNS.ClubDescriptionTVCell.post" = "Post";
+
+"SNS.PrivateNote" = "Private Note";
+
+"SNS.GroupNote" = "Group Note";
+
+"SNS.updateMentionLocation.text" = "and %d others";
+
+"SNS.updateMentionLocation.withText" = "- with";
+
+"SNS.updateMentionLocation.atText" = "- at";
+
+"SNS.SettingVC.logOut.text" = "Log out";
+
+"SNS.SettingVC.logOut.title" = "Are you sure you want to log out of this account?";
+
+"SNS.MoreSettingVC.statusUser.text" = "Tell your friends what you are doing";
+
+"SNS.MoreInputModel.photoVideo" = "Photo/Video";
+
+"SNS.MoreInputModel.record" = "Recorder";
+
+"SNS.MoreInputModel.contact" = "Contact";
+
+"SNS.MoreInputModel.location" = "Location";
+
+"SNS.CHATVC.POPOVER.LISTENMUSIC" = "Listen music";
+
+"SNS.chatInput.placehoder" = "Type a comment";
+
+"SNS.TimeLineItemFullView.inText" = " - at ";
+
+"SNS.TimeLineItemFullView.withText" = " - with ";
+
+"SNS.TimeLineItemFullView.nameText" = "%@ Other";
+
+"SNS.lockUser.TEXT" = "Lock this account.";
+
+"SNS.TimeLineNotificationNoDataCell.titleText" = "No new messages";
+
+"SNS.CreateClubVC.textField.TEXT" = "Enter Club Name";
+
+"SNS.CreateClubDescriptionCell.header.TEXT" = "Description";
+
+"SNS.CreateClubDescriptionCell.textView.placeholder" = "Content ...";
+
+"SNS.CreateClubSettingCell.titleCell.type" = "Category";
+
+"SNS.CreateClubSettingCell.titleCell.privateGroup" = "Secret Group";
+
+"SNS.POST" = "Post";
+
+"SNS.ALERT" = "Alert";
+
+"SNS.YES" = "Yes";
+
+"SNS.FIND" = "Search";
+
+"SNS.NONAME" = "No name";
+
+"SNS.PRIVATENOTE" = "Note";
+
+"SNS.GROUPNOTE" = "Note";
+
+"SNS.AND" = " and ";
+
+"SNS.CREATE" = "Create";
+
+"SNS.SELECT" = "Select";
+
+"SNS.HIDDEN" = "Hidden";
+
+"SNS.ReportSettingVC.textView.isEmpty" = "You need to enter feedback content.";
+
+"SNS.ReportSettingVC.feedbackAPI.completion" = "We have received and will review your feedback.";
+
+"ChatVC.PopOverAction.leaveGroup" = "Do you want to leave the group?";
+
+"SMS.ChatVC.group.pending" = "Join the group to use this feature.";
+
+"SNS.SELECTALL" = "Select All";
+
+"SNS.UNSELECTALL" = "Unselect All";
+
+"SNS.MYQRCODEVC.CHANGEQRCODE.ACTIONSHEET" = "Create new QR code";
+
+"SNS.MYQRCODEVC.CHANGEQRCODE.ALERTSUCCES" = "Change QR Code successfully";
+
+"FriendVCIntroHintText.tabGroupHintText" = "Touch to create a group";
+
+"FriendVCIntroHintText.tabAddFriendHintText" = "Touch to add friend";
+
+"ChatRoomControllerHintText.turnOnSuggestFriendHintText" = "Turn on the feature that allow chatting with friends everywhere";
+
+"ChatRoomControllerHintText.createChatRoomHintText" = "Touch  to create a new conversation";
+
+"NoteViewControllerHintText.createNoteHintText" = "Touch to create a new note";
+
+"AlbumVCHintText.createAlbumHintText" = "Touch  to create a new album";
+
+"ChatVCDefine.callBarButtonHintText" = "Enter to call for free";
+
+"ChatVCDefine.popOverButtonHintText" = "Enter to see more features";
+
+"ChatVCDefine.sendRequestFriendButtonHintText" = "Enter to send friend requests";
+
+"ChatVCDefine.inputViewMoreButtonHintText" = "Touch to send more";
+
+"ChatVCDefine.inputViewTextViewHintText" = "Select to enter the message";
+
+"ChatVCDefine.inputViewRecordButtonHintText" = "Enter to record";
+
+"TimeLineVCHintText.createPostHintText" = "Touch to write your post";
+
+"TimeLineVCHintText.notificationButtonHintText" = "Touch  to view new notifications";
+
+"GroupTimeLineVCHintText.createClubHintText" = "Touch  to create a club";
+
+"IntroViewController.startUsingButton.title" = "Experience now";
+
+"SNS.ListFriendHashtagVC.TITLE" = "With %d friends";
+
+"SNS.ALLOWCAMERA.MESSAGE" = "Please allow Camera access";
+
+"SNS.IntroViewController.title1" = "Free video calls to your \n friends and relatives.";
+
+"SNS.IntroViewController.title2" = "Watch video together \n Experience the new feature.";
+
+"SNS.IntroViewController.title3" = "Share moments and \nupdate news from friends.";
+
+"SNS.IntroViewController.title4" = "Connect friends, \n share fun.";
+
+"SNS.TimeLineReportVC.Report.final" = "We have received and will review your feedback.";
+
+"SNS.NOFEATURE" = "This feature is currently under development and will be available shortly.";
+
+"SNS.CREATECLUBVC.FINDIMAGE.TITLE" = "Image Search";
+
+"SNS.CREATECLUBVC.UPIMAGE.TITLE" = "Upload the image";
+
+"SNS.CREATECLUBVC.CREATECLUB.NONAME" = "Enter Club Name";
+
+"SNS.CREATECLUBVC.CREATECLUB.DESCRIPTION" = "Enter description of club";
+
+"SNS.CREATECLUBVC.CREATECLUB.NOCATALOG" = "Select a category";
+
+"SNS.MyTimeLineController.PROFILESETTING" = "Profile settings";
+
+"SNS.MyTimeLineController.COVERIMAGE" = "Edit cover photo";
+
+"SNS.TLCreatePostVC.title" = "Note";
+
+"SNS.OPTION" = "Option";
+
+"SNS.REPORT" = "Report";
+
+"SNS.NOFRIEND" = "No Friends";
+
+"SNS.TYPECOMMENT" = "Type a comment";
+
+"ChatVC.InputView.placeholder.text.nomal" = "Nhập tin nhắn";
+
+"ChatVC.InputView.placeholder.text.block" = "Blocked";
+
+"ChatVC.chatBox.lastMessage.outgoing.Note" = "You send a note";
+
+"ChatVC.chatBox.lastMessage.incomming.Note" = "%@ send a note";
+
+"SNS.TimeLineVC.newPost.BUTTON.TITLE" = "   New Posts   ";
+
+"ChatVC.Bubble.Contact.Action.RequestFriend" = "Bạn có muốn gửi yêu cầu kết bạn với %@?";
+
+"ChatVC.Bubble.Contact.Action.RequestFriendSuccess" = "Gửi yêu cầu kết bạn thành công";
+
+"ChatVC.chatBox.lastMessage.outgoing.call.Success" = "Thời gian gọi %@";
+
+"ChatVC.chatBox.lastMessage.incoming.call.Success" = "Thời gian gọi %@";
+
+"Call.callbusy.anothercall" = "%@ đang trong cuộc gọi và không thể phản hồi. Vui lòng thử lại sau.";
+
+"EditChatRoomVC.title" = "Edit";
+
+"EditChatRoomVC.Popup.HideChatbox.title" = "Tin nhắn sẽ không bị xoá khi ẩn cuộc trò chuyện";
+
+"EditChatRoomVC.Popup.DeleteChatbox.title" = "Không thể xem lại nội dung trò chuyện đã xoá. Bạn có muốn xoá không?";
+
+"DetailAlbumVC.album.deleted" = "Album đã bị xoá";
+
+"SNS.NOCHANGE" = "No changes";
+
+"SearchResultView.errorLabel.addFriendMySelf" = "You can't add yourself as a friend";
+
+"SNS.LOADING" = "Loading...";
+
+"YoutubePlayVideoView.alertError.CannotRequestWithBlockFriend" = "Bỏ chặn %@ để sử dụng tính năng này";
+"SNS.deleteUploadingPost.Message" = "Do you want to cancel the post?";
+
+"SNS.TimeLineVC.CantPost" = "You are posting. Please wait until it is complete.";
+
+"SNS.CHAT.MESSAGE.NOTE" = "Note";
+
+"SNS.MoreWebViewVC.alert.redownload" = "This sticker already exists, do you want to reload?";
+
+"SNS.MoreWebViewVC.download.success" = "Download Success";
+
+"SNS.MoreWebViewVC.download.fail" = "Download failed";
+
+"SNS.Logout.TokenInvalid" = "Sorry, your session has expired";
+
+"SNS.Typing.Messenge" = "  Typing message...";
+
+"SNS.TLCreatePostVC.CompressetingVideo" = "Compressing video";
+
+"SNS.TLCreatePostVC.CreatingPost" = "Creating post";
+
+"SNS.ALLOWCONTACT.MESSAGE" = "Please allow access to the contacts";
+
+"SNS.ALLOWCONTACTS" = "Allow Contacts";
+
+"SNS.SEEN" = "Seen";
+
+"SNS.RecordAudioView.RADefines.Permission" = "Microphone usage is disabled. Please turn on microphone access permission for recording.";
+
+"SNS.RecordAudioView.RADefines.AskPermission" = "Please turn on microphone access permission for recording";
+
+"SNS.RecordAudioView.RADefines.GotoSetting" = "Go to installation";
+
+"SNS.RecordAudioView.RADefines.Tips" = "Drop to send, scroll left to cancel";
+
+"SNS.RecordAudioView.RADefines.TipDefault" = "Press and hold to record";
+
+"SNS.RecordAudioView.RADefines.RecordTooShort" = "Message too short";
+
+"SNS.RecordAudioView.RADefines.RecordTooLong" = "Maximum time reached";
+
+"SNS.RecordAudioView.RADefines.ReleaseToCancel" = "Release to cancel";
+
+"SNS.RecordAudioView.RADefines.EnterLockedMode" = "Handsfree recording mode";
+
+"SNS.UPLOADING" = "Uploading..."; 
+
+"SNS.COMPLETION" = "Completion";
+
+"SNS.MediaPickerVC.maxSelectableCount" = "Can not select more than %d images or videos";
+
+"SNS.MediaPickerVC.maxSelectableDuration" = "Video duration must be less than %d minutes";
+"EditInfoVC.updateUserIDIdNot" = "Please input ID";
+
+"SNS.SecurityQuestionVC.title" = "Please use the security questions to recover passwords";
+"SNS.SecurityQuestionVC.titleQuestion" = "Select a question:";
+"SNS.SecurityQuestionVC.titleAnswer" = "Answer:";
+"SNS.SecurityQuestionVC.title2" = "Select the question and enter your answer to retrieve the password.";
+"SNS.PasscodeVC.title.new" = "Enter new password";
+"SNS.PasscodeVC.title.new2" = "Confirm password";
+"SNS.PasscodeVC.title.change" = "Enter current password";
+"SNS.PasscodeVC.title.turnOff" = "Enter password";
+"SNS.PasscodeVC.title.check" = "Confirm password";
+"SNS.PasscodeVC.content.check" = "Remember password to review chat. \n Chat will lose if you forget password.";
+"SNS.PasscodeVC.wrong" = "The password is incorrect. \n Please try again.";
+"SNS.PasscodeVC.change.wrong" = "The password is incorrect. \n Please try again.";
+"SNS.PasscodeVC.alert.security" = "Please use a security question to retrieve your password. Would you like to use the security question?";
+
+"SNS.SPRequestPermission.Camera.Title"                    = "Authorize camera";
+"SNS.SPRequestPermission.PhotoLibrary.Title"              = "Authorize library";
+"SNS.SPRequestPermission.Notification.Title"              = "Authorize notification";
+"SNS.SPRequestPermission.Microphone.Title"                = "Authorize the microphone";
+"SNS.SPRequestPermission.Calendar.Title"                  = "Grant calendar permission";
+"SNS.SPRequestPermission.Location.Title"                  = "Grant Permission Location";
+"SNS.SPRequestPermission.Contacts.Title"                  = "Authorize contacts";
+"SNS.SPRequestPermission.Reminders.Title"                 = "Grant permission";
+"SNS.SPRequestPermission.HeaderTitle"                     = "Hello!";
+"SNS.SPRequestPermission.HeaderSubtitle"                  = "The application needs some permissions to perform better";
+"SNS.SPRequestPermission.TopAdviceTitle"                  = "Please grant permission to the application";
+"SNS.SPRequestPermission.BottomAdviceTitle"               = "You can manage rights in settings";
+"SNS.SPRequestPermission.UnderDialogAdviceTitle"          = "Drag to dismiss";
+"SNS.SPRequestPermission.TitleForAlertDenidPermission"    = "Message!";
+"SNS.SPRequestPermission.SubtitleForAlertDenidPermission" = "Access has been denied. Please go to settings to reopen permissions.";
+"SNS.SPRequestPermission.SettingForAlertDenidPermission"  = "Go to setting";
+
+"SNS.ChatListRoomViewModel.HideConversation"       = "Hide conversation";
+"SNS.ChatListRoomViewModel.HideConversationDetail" = "Conversation will be hidden from the message list. Only you can find and reopen it using your personal PIN";
+"SNS.ChatListRoomViewModel.SetPINCode"             = "Set PIN";
+
+"SNS.MessageAndCallVC.Title"    = "Password settings";
+"SNS.MessageAndCallVC.Subtitle" = "Use password question to reset password";
+
+"SNS.PasscodeVC.Message" = "Please validate to continue";
+
+"SNS.SettingPasscodeVC.ChangePasscode"    = "Change password";
+"SNS.SettingPasscodeVC.TurnOffPasscode"   = "Turn off password";
+"SNS.SettingPasscodeVC.ForgotPasscode"    = "Forgot Password";
+"SNS.SettingPasscodeVC.ChangePasscodeSub" = "Change password for hidden chat.";
+"SNS.SettingPasscodeVC.TurnOffPassSub"    = "Hidden chats will be displayed after turning off the password.";
+"SNS.SettingPasscodeVC.ForgotPasscodeSub" = "Use security question to reset password.";
+"SNS.SettingPasscodeVC.TurnOffPassDetail" = "Hidden chats will be displayed after turning off the password.";
+
+"SNS.ChatRoomController.SearchPlaceholder" = "Find conversations ...";
+
+"SNS.TLCreatePostVC.POST.NODATA" = "You need to enter the post content";
+"SNS.Error.ClubWasDeleted" = "The Club has been deleted";
+"SNS.Error.ClubNotExist" = "You do not have access";
+
+"SNS.ChatVC.ContactHandle.Friend.Requested" = "Đã gửi yêu cầu kết bạn cho người này. Vui lòng đợi xác nhận";
+"SNS.ChatVC.ContactHandle.Friend.Wait" = "Vui lòng xác nhận yêu cầu kết bạn để tiếp tục";
+"SNS.ChatVC.ContactHandle.Friend.Blocked" = "Vui lòng mở chặn để tiếp tục";
+"SNS.ChatVC.ContactHandle.Friend.Hidden" = "Vui lòng bỏ ẩn để tiếp tục";
+"SNS.COMMONIMAGECELL.LABEL" = "Share the photos with the people you want.";
+
+"SNS.TIMELINEDEFAULTCELL.LABEL" = "Let your friends know what you're mind?";
+
+"SNS.NODATA.SEARCH" = "Not found";
+"SNS.FRIENDSUBVC.ENUM.OFFICAL.ACCOUNT" = "Offical Account";
+"ErrorNetwork.CreatRoom" = "Can't create a room chat. Please check the network.";
+
+"SNS.VERSION" = "Version: ";
+"CommentInClubVC.MoreOption.PinComment" = "Pin";
+
