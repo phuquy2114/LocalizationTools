@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_notification_n">通知</string>
+    <string name="text_describe_n">アプリを強制終了すると、通知が遅れたり、受信できない場合があります。</string>
+    <string name="text_pause_n">一時停止</string>
+    <string name="text_on_n">オフ</string>
+    <string name="text_notification_sound_n">サウンド</string>
+    <string name="text_tri_tone_n">通知サウンド</string>
+    <string name="text_new_message_n">新規メッセージ</string>
+    <string name="text_message_content_display_n">メッセージ通知内容を表示</string>
+    <string name="text_push_notification_n">通知でメッセージ内容を表示します。</string>
+    <string name="text_invitation_group_n">グループへの招待</string>
+    <string name="text_pay">Cosy Pay</string>
+    <string name="text_timeline_notification">タイムライン通知</string>
+    <string name="text_in_app_notification">アプリ内通知</string>
+    <string name="text_in_app_sound">アプリ内サウンド</string>
+    <string name="text_vib_ration">アプリ内バイブレーション</string>
+    <string name="text_on_off">Cosy アプリを実行中の通知、サウンド、バイブレーションのON/OFFを設定できます。</string>
+    <string name="text_interlocking">連動アプリ</string>
+    <string name="text_not_linked">連動していないアプリ</string>
+    <string name="text_off_n">この設定をOFFすると、連動を許可していないアプリからのメッセージ受信を拒否することができます。</string>
+    <string name="text_setting_notify_vibrate">振動</string>
+    <string name="text_setting_notify_vibrate_ring_description">着通話または新しいメッセージがあるとき。</string>
+    <string name="text_setting_notify_ring">リング</string>
+    <string name="text_setting_notify_auto_send">ボイスメッセージを自動に再生</string>
+    <string name="text_setting_notify_auto_send_description">新しいボイスメッセージを自動に再生できるようにする</string>
+    <string name="text_setting_notify_timeline_all">全体タイムライン通知</string>
+    <string name="text_setting_notify_timeline_like_post">あなたの投稿に「いいね」</string>
+    <string name="text_setting_notify_timeline_comment_post">あなたの投稿にコメント</string>
+    <string name="text_setting_notify_timeline_like_comment">あなたのコメントに「いいね」</string>
+    <string name="text_setting_timeline_quality_image">送信する写真の画質</string>
+    <string name="text_setting_timeline_quality_image_description">高品質の写真をアップロードできます。</string>
+    <string name="text_setting_timeline_auto_video">動画自動再生</string>
+    <string name="text_setting_timeline_auto_video_description">選択したネットワークを利用している場合に、動画を自動で再生します。</string>
+</resources>

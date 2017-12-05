@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_date_time_just_now">Now</string>
+    <string name="text_today">Today</string>
+    <string name="text_yesterday">Yesterday</string>
+</resources>

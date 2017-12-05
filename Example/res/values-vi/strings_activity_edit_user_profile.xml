@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_avatar_edit">Hình đại diện</string>
+    <string name="text_birthday_edit">Ngày sinh</string>
+    <string name="text_gender_edit">Giới tính</string>
+    <string name="text_city_edit">Thành phố/Quốc gia</string>
+    <string name="text_city_hind"><font size="12">Nhập Thành phố</font></string>
+    <string name="text_phone_lowercase_edit">Điện thoại</string>
+    <string name="text_phone_edit">Di động</string>
+    <string name="text_Add_phone_edit">Thêm Số điện thoại</string>
+</resources>

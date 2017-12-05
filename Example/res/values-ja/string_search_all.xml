@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_search_all_message">メッセージ</string>
+    <string name="text_not_data">結果が見つかりません</string>
+    <string name="text_remove_all">全ての削除</string>
+    <string name="text_search_all_on_off_auto_save">自動保存をOFFにします</string>
+    <string name="text_search_all_remove_title_recently">最近検索</string>
+    <string name="text_search_all_title_on_search_recently">
+「最近の検索」機能が有効になってよろしいですか？。
+</string>
+    <string name="action_back_login">ログインへ戻る</string>
+    <string name="text_search">最近の検索</string>
+    <string name="text_search_all">すべて</string>
+    <string name="text_search_cancel">キャンセル</string>
+    <string name="text_search_chat">チャット</string>
+    <string name="text_search_feature">機能</string>
+    <string name="text_search_friend">友達</string>
+    <string name="text_search_group">グループ</string>
+    <string name="text_search_group_invitation">招待されているグループ</string>
+    <string name="text_search_message">メッセージ</string>
+    <string name="text_title_change_email">メールアドレスを変更</string>
+    <string name="text_title_friend">友達</string>
+    <string name="text_title_off_search_recently">「最近の検索」機能が無効になっています</string>
+    <string name="text_title_on_search_recently">「最近の検索」機能が有効になっています</string>
+    <string name="text_title_profile">プロフィール</string>
+    <string name="text_title_search_by_id">IDで検索</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_username_and_password">"Bạn có thể đăng nhập vào Cosy trên điện thoại thông minh, máy tính bảng và máy tính bàn bằng tên người dùng hoặc địa chỉ email mà bạn đã dùng để đăng ký , và mật khẩu của bạn. "</string>
+    <string name="text_reset_username_or_password">Nhấp chuột vào đây nếu bạn quên tên người dùng hoặc mật khẩu.</string>
+    <string name="text_title_error">Gặp sự cố khi đăng nhập?</string>
+</resources>

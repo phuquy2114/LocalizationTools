@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_call_start">Gọi miễn phí!</string>
+    <string name="text_call_slogan">Thỏa sức gọi thoại, gọi video cùng bạn bè với Gọi miễn phí Cosy.</string>
+    <string name="text_call_call_to_contacts">Tìm kiếm danh bạ</string>
+    <string name="text_call_search_contact">Tìm kiếm</string>
+    <string name="text_call_contact_title">Danh bạ</string>
+    <string name="text_permission_contacts">Vui lòng chấp nhận quyền truy cập danh bạ của bạn. Nhấn cho phép để tiếp tục</string>
+</resources>

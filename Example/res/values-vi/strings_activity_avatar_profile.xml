@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_select_avatar">Chọn hình đại diện</string>
+    <string name="text_take_picture">Chụp ảnh bây giờ</string>
+    <string name="text_browse_picture">Duyệt hình ảnh</string>
+    <string name="text_next_avatar">Tiếp</string>
+    <string name="text_ok">OK</string>
+    <string name="text_permission_avatar">Vui lòng chấp nhận quyền truy cập camera và tệp trên thiết bị của bạn. Nhấn cho phép để tiếp tục</string>
+    <string name="text_title_select_contacts">Chọn Bạn </string>
+</resources>

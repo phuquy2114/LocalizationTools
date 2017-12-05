@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_name_or_email_hind"><font size="12">Email or username</font></string>
+    <string name="text_password_hind"><font size="12">Password</font></string>
+    <string name="text_display_password">パスワードを表示</string>
+    <string name="text_no_display_password">パスワードを非表示</string>
+    <string name="text_sign_in">ログイン</string>
+    <string name="text_password_login">パスワードを忘れた方</string>
+    <string name="text_no_account">アカウントを持っていません</string>
+    <string name="text_join_now">今すぐ参加</string>
+    <string name="text_you_need_help">お困りですか？</string>
+    <string name="text_no_login_help">ログインできませんか？</string>
+    <string name="text_invitation_you_received">受け取った招待状の使用方法は？</string>
+    <string name="text_how_can_register">Cosyを登録方法は？</string>
+    <string name="text_cancel_help">キャンセル</string>
+    <string name="text_permission_location">位置権限を承認してください。続くには「許可」を押します。</string>
+</resources>

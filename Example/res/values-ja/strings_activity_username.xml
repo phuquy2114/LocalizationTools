@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_add_friend">友達自動追加</string>
+    <string name="text_add_friend_ok">友達への追加を許可</string>
+    <string name="text_register">登録</string>
+    <string name="text_enter_name">ユーザー名</string>
+    <string name="text_rino">友達があなただと分かるように名前と写真を登録してください。プロフィールに登録した名前と写真は、他のユーザーに公開されます。以下の設定は、あなたの電話番号やアドレス帳を利用します。項目をタップして詳細画面へ移動すると詳細を確認できます。\"</string>
+</resources>

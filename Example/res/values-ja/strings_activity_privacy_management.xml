@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_pass_code_lock">パスワード</string>
+    <string name="text_add_friend_id">IDで追加を許可</string>
+    <string name="text_search_your_id">友達があなたのIDを検索して追加することができます。</string>
+    <string name="text_message_reception">メッセージ受信拒否</string>
+    <string name="text_messages_from_friends">ONにすると友達以外からのメッセージの受信を拒否します。</string>
+    <string name="text_allow_friend_requests">友達への追加を許可</string>
+    <string name="text_allow_all_users">すべてのユーザーにあなたへの友達リクエストの送信を許可します。</string>
+    <string name="text_update_qr_code">QRコードを更新</string>
+</resources>

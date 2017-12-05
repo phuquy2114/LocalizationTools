@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_date_time_just_now">今</string>
+    <string name="text_today">今日</string>
+    <string name="text_yesterday">昨日</string>
+</resources>

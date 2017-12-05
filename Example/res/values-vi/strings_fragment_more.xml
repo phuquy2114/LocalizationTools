@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_my_profile">Hồ sơ của tôi</string>
+    <string name="text_my_app">Ứng dụng của tôi</string>
+    <string name="text_do_good">Làm việc tốt</string>
+    <string name="text_personal_page">Trang cá nhân</string>
+    <string name="text_tell_friend">Giới thiệu với bạn bè</string>
+    <string name="text_setting">Cài đặt</string>
+    <string name="text_about">Thông tin về Cosy</string>
+    <string name="text_send_feedback">Gửi phản hồi</string>
+    <string name="text_why">Tại sao nên dùng Cosy?</string>
+    <string name="text_do_good_quote">“ Chúng tôi tự cảm thấy rằng những gì chúng tôi đang làm chỉ là một giọt nước trong đại dương. Nhưng đại dương sẽ ít đi nếu không có giọt nước đó.”</string>
+    <string name="text_do_good_author">MẸ TERESA</string>
+    <string name="text_day_streak">Chuỗi ngày</string>
+    <string name="text_high_score">Điểm cao</string>
+    <string name="text_day_streak_good">Chuỗi Làm việc tốt của bạn</string>
+    <string name="text_do_good_behind">Làm việc tốt</string>
+    <string name="text_do_good_content">Một tỷ lệ thu nhập Cosy hàng ngày của bạn sẽ được tự động quyên góp cho tổ chức từ thiện bạn lựa chọn.</string>
+    <string name="text_do_good_see_more">Tìm hiểu thêm</string>
+    <string name="text_more_tab_title">Thêm</string>
+    <string name="text_edit_profile">Chỉnh sửa</string>
+    <string name="text_edit_profile_complete">Xong</string>
+    <string name="text_security_title">Nhập mật khẩu</string>
+    <string name="text_privacy_title">Bảo mật thông tin cá nhân</string>
+    <string name="text_setting_account">Tài khoản</string>
+    <string name="text_change_phone_title">Thay đổi số điện thoại</string>
+    <string name="text_notification_setting_off">Tắt</string>
+    <string name="text_notification_setting_off_after_a_hour">Tắt trong 1 giờ</string>
+    <string name="text_notification_setting_off_after_eight_hour">Tắt đến 8 giờ sáng</string>
+    <string name="text_notification_setting_title">Tắt thông báo</string>
+    <string name="text_sound_list_title">Âm thông báo</string>
+    <string name="text_number_zero">0</string>
+    <string name="text_number_one">1</string>
+    <string name="text_number_two">2</string>
+    <string name="text_number_three">3</string>
+    <string name="text_number_four">4</string>
+    <string name="text_number_five">5</string>
+    <string name="text_number_six">6</string>
+    <string name="text_number_seven">7</string>
+    <string name="text_number_eight">8</string>
+    <string name="text_number_nine">9</string>
+    <string-array name="array_setting_notification">
+        <item>@string/text_notification_setting_off</item>
+        <item>@string/text_notification_setting_off_after_a_hour</item>
+        <item>@string/text_notification_setting_off_after_eight_hour</item>
+    </string-array>
+    <string name="text_profile_not_set">Chưa có</string>
+    <string name="text_sticker">Sticker</string>
+    <string name="text_feedback">Phản hồi</string>
+    <string name="text_rating">Xếp hạng SNS-VN</string>
+    <string name="text_terms_of_user">Điều khoản sử dụng</string>
+    <string name="text_about_more">Giới thiệu</string>
+</resources>

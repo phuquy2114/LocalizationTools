@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_browse_picture">写真を閲覧</string>
+    <string name="text_access_photo">Cosyがカメラにアクセスさせてください</string>
+    <string name="text_not_allowed_p">許可しない</string>
+    <string name="text_ok_p">OK</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_my_profile">My profile</string>
+	<string name="text_my_app">My application</string>
+	<string name="text_do_good">Well working</string>
+	<string name="text_personal_page">Personal page</string>
+	<string name="text_tell_friend">Introduce to friends</string>
+	<string name="text_setting">Setting</string>
+	<string name="text_about">Information about  Ents</string>
+	<string name="text_send_feedback">Send feedback</string>
+	<string name="text_why">Why should you use Ents?</string>
+    <string name="text_do_good_quote">"We feel by ourselves that what we are doing now  is just a drop in the ocean. But the ocean would be less water because of that missing drop"
+
+</string>
+	<string name="text_do_good_author">TERESA MOTHER</string>
+	<string name="text_day_streak">Succession of days</string>
+	<string name="text_high_score">High score</string>
+	<string name="text_day_streak_good">Your good work chain</string>
+	<string name="text_do_good_behind">Well working</string>
+	<string name="text_do_good_content">A daily income ratio of your Ents will be automatically donated to the charity that you choose.</string>
+	<string name="text_do_good_see_more">Looking for more information</string>
+	<string name="text_more_tab_title">More</string>
+	<string name="text_edit_profile">Edit</string>
+	<string name="text_edit_profile_complete">Done</string>
+	<string name="text_security_title">Enter the password</string>
+	<string name="text_privacy_title">Confidentiality of personal information</string>
+	<string name="text_setting_account">Account</string>
+	<string name="text_change_phone_title">Change phone number</string>
+	<string name="text_notification_setting_off">Turn off</string>
+	<string name="text_notification_setting_off_after_a_hour">Turn off within 1 hour</string>
+	<string name="text_notification_setting_off_after_eight_hour">Turn off until 8am</string>
+	<string name="text_notification_setting_title">Turn off notifications</string>
+	<string name="text_sound_list_title">Notification sound</string>
+	<string name="text_number_zero">0</string>
+	<string name="text_number_one">1</string>
+	<string name="text_number_two">2</string>
+	<string name="text_number_three">3</string>
+	<string name="text_number_four">4</string>
+	<string name="text_number_five">5</string>
+	<string name="text_number_six">6</string>
+	<string name="text_number_seven">7</string>
+	<string name="text_number_eight">8</string>
+	<string name="text_number_nine">9</string>
+	<string-array name="array_setting_notification">
+		<item>@string/text_notification_setting_off</item>
+		<item>@string/text_notification_setting_off_after_a_hour</item>
+		<item>@string/text_notification_setting_off_after_eight_hour</item>
+	</string-array>
+    <string name="text_profile_not_set">Not yet.</string>
+	<string name="text_sticker">Sticker</string>
+    <string name="text_feedback">Feed back</string>
+    <string name="text_rating">Raking SNS-VN</string>
+    <string name="text_terms_of_user">Terms of Use</string>
+    <string name="text_about_more">Introduction</string>
+</resources>

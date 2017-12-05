@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_sync_data">Synchronizing data</string>
+	<string name="text_line_pro_login_tv_not_register">The case has not registered yet</string>
+	<string name="text_line_pro_login_tv_login">OK</string>
+	<string name="text_title_screen_re_register">Registering</string>
+	<string name="text_re_register_change_device">Change device</string>
+	<string name="text_re_register_change_device_rules">When changing device, you must sign in with your email address or Facebook to retrieve your previous information.</string>
+	<string name="text_re_register_new">Register a new account</string>
+	<string name="text_re_register_current">Login account is already being used</string>
+	<string name="text_login_username">Email</string>
+	<string name="text_login_password">Password (6~20 characters)</string>
+    <string name="text_login_forgot"><u>Forgot password?</u></string>
+</resources>

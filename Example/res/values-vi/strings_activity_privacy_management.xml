@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_pass_code_lock">Mật khẩu</string>
+    <string name="text_add_friend_id">Cho phép thêm bằng ID</string>
+    <string name="text_search_your_id">Bạn bè có thể tìm kiếm ID của tôi để thêm làm bạn bè.</string>
+    <string name="text_message_reception">Lọc tin nhắn</string>
+    <string name="text_messages_from_friends">Nếu kích hoạt, mọi tin nhắn được gửi từ người lạ sẽ bị từ chối.</string>
+    <string name="text_allow_friend_requests">Cho phép yêu cầu kết bạn</string>
+    <string name="text_allow_all_users">Nếu bạn bật cài đặt này thì bất cứ ai cũng sẽ có thể gửi cho bạn yêu cầu kết bạn.</string>
+    <string name="text_update_qr_code">Tạo mã QR mới</string>
+</resources>

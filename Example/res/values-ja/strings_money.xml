@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_request_friend_by_sms">SMS</string>
+    <string name="text_request_friend_by_facebook">Facebook</string>
+    <string name="text_request_friend_by_twitter">Twitter</string>
+    <string name="text_request_friend_by_line">Line</string>
+    <string name="text_earning_title">収益</string>
+    <string name="text_network_view_title">ネットワーク</string>
+    <string name="text_go_to_shop_content">オンライショッピング</string>
+    <string name="text_current_salary_content">今すぐ稼ぐ</string>
+    <string name="text_play_game_content">ゲーム</string>
+    <string name="text_lock_screen_content">スクリーンロック</string>
+    <string name="text_ads_me_content">広告</string>
+    <string name="text_contribute_content">良いことをしよう</string>
+    <string name="text_cashing_content">出金</string>
+    <string name="text_go_shopping_content">通話</string>
+    <string name="text_income_inequality_content">収益格差</string>
+    <string name="text_money_total_content">収益合計</string>
+    <string name="text_revenue_history_content">履歴</string>
+    <string name="text_revenue_amount_content">あなたが稼げるお金はいくら？</string>
+    <string name="text_money">0.00oo</string>
+    <string name="text_invite_friend">招待する</string>
+    <string name="text_network_view">ネットワーク</string>
+    <string name="text_earning">収益</string>
+</resources>

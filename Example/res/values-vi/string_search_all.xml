@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_search_all_message">Tin nhắn</string>
+    <string name="text_not_data">Không có kết quả tìm kiếm</string>
+    <string name="text_remove_all">Xóa toàn bộ</string>
+    <string name="text_search_all_on_off_auto_save">Tắt lưu tự động</string>
+    <string name="text_search_all_remove_title_recently">Bạn có muốn xóa toàn bộ lịch sử tìm kiếm?</string>
+    <string name="text_search_all_title_on_search_recently">Bạn có muốn Bật tính năng lịch sử tìm kiếm?</string>
+    <string name="action_back_login">Quay lại đăng nhập</string>
+    <string name="text_search">Tìm kiếm gần đây</string>
+    <string name="text_search_all">Tất cả</string>
+    <string name="text_search_cancel">Hủy</string>
+    <string name="text_search_chat">Trò chuyện</string>
+    <string name="text_search_feature">Tính năng</string>
+    <string name="text_search_friend">Bạn bè</string>
+    <string name="text_search_group">Nhóm</string>
+    <string name="text_search_group_invitation">Nhóm đã mời tôi</string>
+    <string name="text_search_message">Tin nhắn</string>
+    <string name="text_title_change_email">Thay đổi email</string>
+    <string name="text_title_friend">Bạn bè</string>
+    <string name="text_title_off_search_recently">Tắt tính năng Tìm kiếm gần đây</string>
+    <string name="text_title_on_search_recently">Bật tính năng Tìm kiếm gần đây</string>
+    <string name="text_title_profile">Hồ sơ</string>
+    <string name="text_title_search_by_id">Tìm kiếm bằng ID</string>
+</resources>

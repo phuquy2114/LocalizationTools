@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_telephone_authentication">Xác nhận Số điện thoại</string>
+    <string name="text_done_phone_country">Xong</string>
+    <string name="text_check_country">Xin vui lòng xác nhận mã quốc gia và nhập số điện thoại của bạn</string>
+    <string name="text_phone_number_country">Số điện thoại</string>
+    <string name="text_number_confirmation">Xác nhận số điện thoại</string>
+    <string name="text_phone_number_correct">Số điện thoại trên có chính xác không?</string>
+    <string name="text_edit_phone">Chỉnh sửa</string>
+    <string name="text_yes">Có</string>
+    <string name="text_no">Không</string>
+</resources>

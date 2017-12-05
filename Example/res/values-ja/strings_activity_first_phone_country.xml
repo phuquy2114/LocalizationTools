@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_country">国</string>
+    <string name="text_phone_validation">戻る</string>
+    <string name="text_search_by_name"><font size="12">Search</font></string>
+</resources>

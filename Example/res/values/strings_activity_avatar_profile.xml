@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_select_avatar">Select your avatar</string>
+    <string name="text_take_picture">Take a photo.</string>
+    <string name="text_browse_picture">Browse the photos</string>
+    <string name="text_next_avatar">Next</string>
+    <string name="text_ok">Ok</string>
+    <string name="text_permission_avatar">Please permit to access your camera and file in your device. </string>
+    <string name="text_title_select_contacts">Select friends. </string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_call_history">音声通話</string>
+    <string name="text_voice_call_history">ビデオ通話</string>
+    <string name="text_message_friend">メッセージ</string>
+    <string name="text_setting_friend">追加</string>
+    <string name="text_personal_info_friend">個人情報</string>
+    <string name="text_award_friend">賞：</string>
+    <string name="text_username_friend">ユーザー名：</string>
+    <string name="text_network_friend">ネットワーク：</string>
+    <string name="text_birthday_friend">生年月日：</string>
+    <string name="text_city_friend">市・国：</string>
+    <string name="text_language_friend">言語：</string>
+    <string name="text_contact_info_friend">連絡先情報：</string>
+    <string name="text_phone_friend">電話番号：</string>
+    <string name="text_empty_friend">---</string>
+</resources>

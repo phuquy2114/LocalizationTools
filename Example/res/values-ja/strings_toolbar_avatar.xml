@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_cancel_toolbar_avatar">キャンセル</string>
+    <string name="text_done_toolbar_avatar">保存</string>
+    <string name="text_create_account_toolbar_avatar">アカウント作成</string>
+    <string name="text_register_toolbar_avatar">Cosy登録</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_block_name">Hoai Thuong</string>
+    <string name="text_block">ブロック</string>
+    <string name="text_add_to_friend">友達追加</string>
+</resources>

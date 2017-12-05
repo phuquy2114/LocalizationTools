@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_bing">Bing</string>
+    <string name="text_talk">チャット</string>
+    <string name="text_free_communication">無料通話</string>
+    <string name="text_video_communication">ビデオ通話</string>
+</resources>

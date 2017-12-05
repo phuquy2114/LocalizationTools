@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_register_add_friend_title">"Cosy登録"</string>
+    <string name="text_reason_register_my_app_question">Cosyに登録する理由は?</string>
+    <string name="text_reason_register_my_app_answer">Cosyは無料で、収益/利益の70%以上をあなたと共有します。収益は110 カ国の2,000の慈善事業に寄付したり、自分に現金化できます。選ぶのはあなた! </string>
+    <string name="text_register_my_app_slogan">Cosyに登録する理由は?</string>
+    <string name="what_the_application_has_unique">Cosyの特徴は？</string>
+    <string name="text_unique_my_app_one">1. 交流しながら稼ぐ：弊社は利益の70%以上をコミュニティと共有しています。</string>
+    <string name="text_unique_my_app_two">2. 慈善団体を利用して良いことに収益を使う</string>
+    <string name="text_unique_my_app_three">3. 銀行口座、クレジットカード、PayPalアカウントで自分のために出金</string>
+    <string name="text_unique_my_app_four">4. 世界中と最安料金で通話、音声、動画通話が無料</string>
+    <string name="text_unique_my_app_five">5. プライベートモード：チャットが終了すると自動でメッセージが削除される最高のプライバシー機能を利用</string>
+    <string name="text_register_free_feature_content">Cosyは無料なのにお金を払わなくても収入を得られます。 そして、完全無料の通話です。</string>
+    <string name="text_register_free_feature_header">完全無料</string>
+    <string name="text_register_make_money_feature_content">最大８下層までの人の一部の収益が、あなたの収益になります！Cosyは収益/利益の70%以上をあなたと共有します！</string>
+    <string name="text_register_make_money_feature_header">収益</string>
+    <string name="text_register_contribute_feature_content">2,000以上を超える慈善団体に寄付する、または現金化するにはコインを換金してください。</string>
+    <string name="text_register_contribute_feature_header">寄付または現金引き出し</string>
+    <string name="text_please_see_comment">Cosyは全世界で人気のアプリです！レビューを見る</string>
+    <string name="text_register_my_app_description_one">\"Cosyism\"に基づく</string>
+    <string name="text_register_my_app_description_two">Cosyは、経済的利益の大半がコミュニティで共有される新しい経済システムです。コミュニティの世界でよいことをするために共有しています。</string>
+    <string name="text_register_invite">Cosyに招待状を受ける</string>
+    <string name="text_register_invite_content">" Cosyに参加する最速方法は、友人の個人ページからの参加することで、またはお気に入りのメンバーを選択ことで："</string>
+    <string name="text_register_load_more_friend">友達追加</string>
+    <string name="text_register_create_account_enter_mail"><font size="12">Địa chỉ email</font></string>
+    <string name="text_register_create_account_enter_login_name"><font size="12">Tên người dùng</font></string>
+    <string name="text_register_create_account_enter_password"><font size="12">Mật khẩu (Hơn 6 ký tự)</font></string>
+    <string name="text_register_create_account_confirm_password"><font size="12">Xác nhận mật khẩu</font></string>
+    <string name="text_register_create_account_button">アカウント作成</string>
+    <string name="text_register_notify_for_policy">続けることで、あなたはこの内容を同意した、</string>
+    <string name="text_register_notify_for_policy_link"><u>Điều khoản và điều kiện sử dụng của Cosy</u></string>
+    <string name="text_register_please_enter_full_information">情報を十分に入力してください。</string>
+    <string name="text_username_length">ユーザーネームは3文字以上で入力してください。</string>
+    <string name="text_email_validate">メールアドレスは無効です。</string>
+    <string name="text_email_first_phone">市外局番を入力してください。</string>
+    <string name="text_register_password_wrong">パスワードを確認パスワードは一致しません。</string>
+    <string name="text_remind_user_enter_password_over_six_character">パスワードは6文字以上で入力してください。</string>
+    <string name="text_create_account_title">アカウント作成</string>
+    <string name="text_welcome_app_title">Cosyへようこそ -素晴らしい体験できる。</string>
+    <string name="text_start_app">以下で開始</string>
+    <string name="text_select_friend_title">Cosy登録</string>
+</resources>

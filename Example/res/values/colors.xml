@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8DB82A</color>
+    <color name="colorPrimaryDark">#F9FBFD</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--register-->
+    <color name="blue">#1086E6</color>
+    <color name="blue_2">#41B1B5</color>
+    <color name="blue_2_trans">#3341B1B5</color>
+    <color name="gray">#4D586E</color>
+    <color name="gray_5">#C1C9C7</color>
+    <color name="gray_text">#575757</color>
+    <color name="yellow_2">#F8E71C</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#F4F8FB</color>
+    <color name="phone">#146FE0</color>
+    <color name="viewVerifi">#BBBBBB</color>
+    <color name="black">#000000</color>
+    <color name="gray_view">#999999</color>
+    <color name="pink">#FF73A7</color>
+    <color name="yellow">#FEE473</color>
+    <color name="colorGender">#E7E7E7</color>
+    <color name="text_color_connect">#636363</color>
+    <color name="background_chat_default">#F9FBFD</color>
+    <color name="high_light">#F1F9D6</color>
+    <color name="red">#FF5458</color>
+
+    <color name="background_menu">#263147</color>
+    <color name="rippelColor">#8DB82A</color>
+
+    <color name="gray_6">#5B5B5B</color>
+
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="bg_keyboard">#E8EAEC</color>
+    <color name="line_color">#D8D8D8</color>
+    <color name="color_grey">#404040</color>
+</resources>

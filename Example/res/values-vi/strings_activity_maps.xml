@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_maps">Thông tin vị trí</string>
+    <string name="text_map_loading">Đang tải</string>
+    <string name="text_no_location">Không tìm thấy vị trí</string>
+    <string name="text_send_location">Gửi thông tin vị trí</string>
+    <string name="text_enter_address">Nhập địa chỉ</string>
+</resources>

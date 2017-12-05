@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_edit_chat">Chỉnh sửa danh sách trò chuyện</string>
+    <string name="text_edit_save">Lưu</string>
+    <string name="text_edit_hide">Ẩn</string>
+    <string name="text_edit_remove">Xóa</string>
+</resources>

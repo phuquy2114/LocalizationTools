@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_add_friend">Tự động thêm bạn bè</string>
+    <string name="text_add_friend_ok">Cho phép thêm bạn bè</string>
+    <string name="text_register">Đăng ký</string>
+    <string name="text_enter_name">Tên người dùng</string>
+    <string name="text_rino">Vui lòng nhập tên bạn và tải ảnh đại diện sẽ có thể giúp bạn bè nhận ra bạn. Tên và ảnh đại diện của bạn có hiển thị với những người dùng Cosy khác. Các cài đặt sau đây sẽ sử dụng số điện thoại và danh bạ của bạn. Nhấn vào các cài đặt đó để xem thêm chi tiết.\"</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_edit_friend">Chỉnh sửa bạn bè</string>
+    <string name="text_contact">Liên lạc</string>
+    <string name="text_friend">Bạn bè</string>
+    <string name="text_edit">Sửa</string>
+    <string name="text_choose_all">Chọn tất cả</string>
+    <string name="text_un_choose_all">Bỏ chọn tất cả</string>
+    <string name="tab_bar_tab_title_contact">Mời</string>
+    <string name="tab_bar_tab_title_qrcode">Mã Code</string>
+    <string name="tab_bar_tab_title_search">ID/Số điện thoại</string>
+</resources>

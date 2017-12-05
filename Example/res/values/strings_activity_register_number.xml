@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_select">Japan</string>
+    <string name="text_phone_number"><font size="12">Phone number</font></string>
+    <string name="text_guide">\ "To create an account, you must verify your phone number or Facebook account. By touching \" Phone Number Verification \ ", you agree to the Terms and Conditions of Use and Privacy Policy of Ents</string>
+    <string name="text_confirm">Code Confirmation</string>
+</resources>

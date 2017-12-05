@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_telephone_authentication">電話番号を認証</string>
+    <string name="text_done_phone_country">完了</string>
+    <string name="text_check_country">国番号を確認して電話番号を入力してください。</string>
+    <string name="text_phone_number_country">電話番号</string>
+    <string name="text_number_confirmation">電話番号を認証</string>
+    <string name="text_phone_number_correct">上記の電話番号は正しいですか？</string>
+    <string name="text_edit_phone">編集</string>
+    <string name="text_yes">はい</string>
+    <string name="text_no">No</string>
+</resources>

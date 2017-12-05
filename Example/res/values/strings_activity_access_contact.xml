@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_access_contact">Let\'s customize Cosy to create wonderful experience.</string>
+    <string name="text_description_access_contact">It means you won\'t miss out important messages from friends. </string>
+    <string name="text_not_allowed_access_contact">Not allowed</string>
+    <string name="text_ok_access_contact">OK</string>
+    <string name="texxt_access_contact_permission">Let\'s enable access to contacts.</string>
+    <string name="text_description_contact_permission">It allows you to call and chat with them when they are on Cosy.</string>
+    <string name="text_not_allowed_permission">Not allowed</string>
+</resources>

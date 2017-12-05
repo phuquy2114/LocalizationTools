@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_name_or_email_hind"><font size="12">Email or username</font></string>
+    <string name="text_password_hind"><font size="12">Password</font></string>
+    <string name="text_display_password">Display password</string>
+    <string name="text_no_display_password">Hide password</string>
+    <string name="text_sign_in">Log in</string>
+    <string name="text_password_login">Forgot password</string>
+    <string name="text_no_account">Do you have account?</string>
+    <string name="text_join_now">Please register</string>
+    <string name="text_you_need_help">Need help?</string>
+    <string name="text_no_login_help">Login trouble</string>
+    <string name="text_invitation_you_received">How do I use my received invitation?</string>
+    <string name="text_how_can_register">How to join Cosy?</string>
+    <string name="text_cancel_help">Cancel</string>
+    <string name="text_permission_location">Please accept to access your location. Press Allow to continue</string>
+</resources>

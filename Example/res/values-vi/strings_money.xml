@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_request_friend_by_sms">SMS</string>
+	<string name="text_request_friend_by_facebook">Facebook</string>
+	<string name="text_request_friend_by_twitter">Twitter</string>
+	<string name="text_request_friend_by_line">Line</string>
+	<string name="text_earning_title">Thu nhập</string>
+	<string name="text_network_view_title">Xem mạng lưới</string>
+	<string name="text_go_to_shop_content">Đi tới cửa hàng</string>
+    <string name="text_current_salary_content">Kiếm tiền nhanh</string>
+	<string name="text_play_game_content">Chơi trò chơi</string>
+	<string name="text_lock_screen_content">Màn hình khóa</string>
+	<string name="text_ads_me_content">Quảng cáo</string>
+	<string name="text_contribute_content">Làm việc tốt</string>
+	<string name="text_cashing_content">Rút tiền</string>
+	<string name="text_go_shopping_content">Thực hiện cuộc gọi</string>
+	<string name="text_income_inequality_content">Bất bình đẳng thu nhập</string>
+	<string name="text_money_total_content">Tổng thu nhập</string>
+	<string name="text_revenue_history_content">Lịch sử thu nhập</string>
+	<string name="text_revenue_amount_content">Bạn kiếm bao nhiêu</string>
+	<string name="text_money">0.00oo</string>
+	<string name="text_invite_friend">Mời bạn bè</string>
+	<string name="text_network_view">Xem mạng lưới</string>
+	<string name="text_earning">Thu nhập</string>
+</resources>

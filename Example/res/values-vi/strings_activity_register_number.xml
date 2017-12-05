@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_select">Nhật Bản</string>
+    <string name="text_phone_number"><font size="12">Số điện thoại</font></string>
+    <string name="text_guide">\"Để tạo tài khoản　, bạn phải xác minh số điện thoại hoặc tài khoản Facebook. Bằng cách chạm vào \"Xác minh số điện thoại\", bạn đồng ý với Điều khoản và điều kiện sử dụng và Chính sách quyền riêng tư của Cosy</string>
+    <string name="text_confirm">Xác nhận Mã</string>
+</resources>

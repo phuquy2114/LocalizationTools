@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="id_autolayout" />
+    <item type="id" name="id_tag_pageset" />
+    <item type="id" name="id_toolbar_left" />
+    <item type="id" name="id_toolbar_right" />
+
+    <item name="smContentView" type="id" />
+    <item name="smMenuViewLeft" type="id" />
+    <item name="smMenuViewRight" type="id" />
+    <item name="smMenuViewTop" type="id" />
+    <item name="smMenuViewBottom" type="id" />
+
+    <item name="fab_expand_menu_button" type="id" />
+    <item name="fab_label" type="id" />
+</resources>

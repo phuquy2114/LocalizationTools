@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_arward">Danh sách phần thưởng</string>
+    <string name="text_group_information_award">Thông tin phần thưởng</string>
+    <string name="text_note_award">Ghi chú: Các con số chỉ thể hiện các kết nối tham gia Cosy từ Trang cá nhân của bạn.</string>
+</resources>

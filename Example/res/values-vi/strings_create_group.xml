@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_tabs_add_friend_list">Thành viên</string>
+    <string name="text_create_group_note">Bạn chỉ có thể mời tối đa 499 người trong một phòng chat.\n
+        Bạn có thể mời bạn bè tham gia nhóm và trò chuyện với tất cả các thành viên trong nhóm. 
+    \n -Chia sẻ ảnh của bạn trong album.\n  -Lưu tất cả các loại thông tin quan trọng vào các nhóm dưới dạng ghi chú. \n
+        -Album và ghi chú không bị xóa khi xóa phòng trò chuyện.</string>
+    <string name="length_number">0/20</string>
+    <string name="text_add_to_friends">Thêm</string>
+    <string name="text_save_group">Lưu</string>
+    <string name="text_title_create_group">Tạo nhóm</string>
+    <string name="text_validate_create_group">Vui lòng nhập tên nhóm</string>
+    <string name="text_name_create_group"><font size="12">Tên nhóm</font></string>
+</resources>

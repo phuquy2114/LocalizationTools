@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_tutorial">Notification allowed</string>
+    <string name="text_description_tutorial">It means you won\'t miss out important message from your friends.</string>
+    <string name="text_not_allowed_tutorial">Not allowed</string>
+    <string name="text_ok_tutorial">Allow</string>
+</resources>

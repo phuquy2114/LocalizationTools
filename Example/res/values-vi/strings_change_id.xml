@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_change_id_title">ID</string>
+    <string name="text_btn_change_id_ok">Xác nhận</string>
+    <string name="text_message_account_change_id">Người dùng Cosy có thể tìm kiếm bạn bằng ID. Sau khi cài đặt, bạn không thể thay đổi ID của mình.</string>
+    <string name="text_enter_id">Vui lòng nhập ID</string>
+</resources>

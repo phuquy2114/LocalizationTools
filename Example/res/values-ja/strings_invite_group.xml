@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_groups_friend">友達</string>
+    <string name="text_friend_pending">申請中</string>
+    <string name="text_complete">完了</string>
+</resources>

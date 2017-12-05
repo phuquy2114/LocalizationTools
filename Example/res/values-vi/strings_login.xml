@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_sync_data">Đang đồng bộ dữ liệu </string>
+    <string name="text_line_pro_login_tv_not_register">Trường hợp chưa đăng ký</string>
+    <string name="text_line_pro_login_tv_login">OK</string>
+    <string name="text_title_screen_re_register">Đăng ký</string>
+    <string name="text_re_register_change_device">Thay đổi thiết bị</string>
+    <string name="text_re_register_change_device_rules">Khi thay đổi thiết bị, bạn phải đăng nhập bằng địa chỉ email hoặc Facebook để lấy lại những thông tin trước đây.</string>
+    <string name="text_re_register_new">Đăng ký tài khoản mới</string>
+    <string name="text_re_register_current">Đăng nhập tài khoản đã sử dụng</string>
+    <string name="text_login_username">Email</string>
+    <string name="text_login_password">Mật khẩu (6~20 ký tự)</string>
+    <string name="text_login_forgot"><u>Quên mật khẩu?</u></string>
+</resources>

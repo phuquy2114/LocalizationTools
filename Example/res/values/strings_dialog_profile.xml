@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_username">Hoai Thuong</string>
+    <string name="text_id">ID</string>
+    <string name="text_name_id">Hoaithuong1020</string>
+    <string name="text_setting_profile">Profile settings</string>
+    <string name="text_home_profile">Home</string>
+    <string name="text_husband_setting">Not installed yet</string>
+</resources>

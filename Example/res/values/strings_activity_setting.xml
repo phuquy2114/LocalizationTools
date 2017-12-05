@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_profile_setting">Profile</string>
+    <string name="text_account_setting">Account</string>
+    <string name="text_timeline_setting">Timeline</string>
+    <string name="text_notification_setting">Call and message</string>
+    <string name="text_send_feedback_setting">Friend management </string>
+    <string name="text_image_and_video_setting">Photos and Videos</string>
+    <string name="text_logout">Log out</string>
+    <string name="text_setting_notify_logout">Do you want to log out? </string>
+</resources>

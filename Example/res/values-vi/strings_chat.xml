@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_suggest">Gợi ý</string>
+    <string name="text_title_chat">Trò chuyện</string>
+    <string name="text_more_chat_invite">Mời</string>
+    <string name="text_more_chat_notification_off">Tắt thông báo</string>
+    <string name="text_more_chat_notification_on">Bật thông báo</string>
+    <string name="text_more_chat_denine_friend">Chặn</string>
+    <string name="text_more_chat_unblock_friend">Bỏ chặn</string>
+    <string name="text_more_chat_member_list">Thành viên</string>
+    <string name="text_line_pro_chat_edit_sticker_go_to_shop">Shop</string>
+    <string name="text_line_pro_chat_edit_sticker_open">Mở</string>
+    <string name="text_more_chat_create_group">Tạo nhóm</string>
+    <string name="text_more_chat_leave_room">Rời phòng</string>
+    <string name="text_more_chat_leave_group">Rời nhóm</string>
+    <string name="text_more_group_chat_dine">Từ chối</string>
+    <string name="text_more_group_chat_join">Tham gia</string>
+    <string name="text_more_chat_notes">Ghi chú</string>
+    <string name="text_more_chat_albums">Album</string>
+    <string name="text_more_chat_image">Hình ảnh</string>
+    <string name="text_more_chat_edit_message">Chỉnh sửa trò chuyện</string>
+    <string name="text_more_chat_setting">Cài đặt</string>
+    <string name="text_more_chat_edit_room_name">Đổi tên</string>
+    <string name="text_setting_chat">Cài đặt trò chuyện</string>
+    <string name="text_setting_encode_message">Khóa mã hóa</string>
+    <string name="text_setting_background_title">Cài đặt hình nền</string>
+    <string name="text_setting_chat_album">Album</string>
+    <string name="text_setting_chat_remove_conversation">Xóa toàn bộ lịch sử cuộc trò chuyện</string>
+    <string name="text_setting_chat_description">Gửi nội dung trò chuyện bằng file văn bản.</string>
+    <string name="text_setting_chat_image">Chụp ảnh</string>
+    <string name="text_setting_chat_image_quality">Chất lượng ảnh đã gửi</string>
+    <string name="text_setting_chat_current_background">Áp dụng hình nền của theme hiện tại</string>
+    <string name="text_setting_chat_current_background_content">Áp dụng nền theme hiện tại cho tất cả trò chuyện chưa có nền tùy chỉnh riêng.</string>
+    <string name="text_setting_chat_group_title">Cài đặt trò chuyện</string>
+    <string name="text_setting_chat_group_member_list">Danh sách Thành viên-Mời</string>
+    <string name="text_setting_chat_group_post_timeline">Thông báo bài đăng</string>
+    <string name="text_setting_chat_group_post_timeline_description">Thay đổi cài đặt thông báo cho thích và bình luận về ghi chú của bạn.</string>
+    <string name="text_setting_chat_group_qr_line_invite">Mời bằng link/mã QR</string>
+    <string name="text_setting_chat_group_qr_line_invite_description">Hãy sử dụng link mời nhóm và mã QR để cho phép người dùng tham gia nhóm này.</string>
+    <string name="text_setting_chat_group_chat_history">Lịch sử cuộc trò chuyện</string>
+    <string name="text_setting_chat_group_chat_history_description">Gửi lịch sử cuộc trò chuyện</string>
+    <string name="text_setting_chat_group_remove_chat_history">Xóa lịch sử cuộc trò chuyện</string>
+    <string name="text_setting_chat_group_report">Thông báo</string>
+    <string name="text_setting_chat_group_leave_group">Rời nhóm</string>
+    <string name="text_setting_chat_create_room_title">Tạo phòng trò chuyện</string>
+    <string name="text_map_address">Địa chỉ</string>
+    <string name="text_edit_message_notify_accept_remove_room">Nếu xóa lịch sử trò chuyện, bạn sẽ không thể xem lại. Bạn có muốn xóa không?</string>
+    <string name="text_edit_hide_conversation_confirm_notification">Bạn có muốn ẩn cuộc trò chuyện này không?</string>
+    <string name="text_un_friend_room_notification">Người sử dụng này chưa được thêm làm bạn. Hãy lưu ý khi gửi tin nhắn.</string>
+    <string name="text_chat_block_hint">Đang chặn</string>
+    <string name="text_confirm_leave_group">Bạn có muốn rời khỏi nhóm?</string>
+    <string name="text_send_message_chat"><font size="12">Nhập tin nhắn của bạn</font></string>
+    <string name="text_cancel_audio_record">Thả tay để hủy</string>
+    <string name="text_record_audio">Nhấn giữ để ghi âm. Kéo sang trái để huỷ</string>
+    <string name="text_title_hide_friend">Bật để hiện bạn bè !</string>
+    <string name="text_image_together_image">Hình ảnh chung</string>
+    <string name="text_media_youtube">Youtube</string>
+    <string name="text_media_sound_cloud">Sound Cloud</string>
+    <string name="text_notify_unblock_to_enable_feature">Bỏ chặn %1$s để sử dụng tính năng này</string>
+    <string name="text_notify_block_friend">Bạn có muốn chặn người này?</string>
+    <string name="text_notify_video_is_playing">Đang phát video này</string>
+    <string name="text_group_pending_member">Đang mời</string>
+    <string name="text_notify_user_is_kick_out_group">Bạn đã bị xóa khỏi nhóm</string>
+    <string name="text_confirm_sync_request_video">Bạn có muốn gửi yêu cầu đồng bộ video?</string>
+    <string name="text_confirm_send_image_message">Bạn muốn gửi tin nhắn hình?</string>
+    <string name="text_group_setting_user_dont_edit_group_notify">Không có sự thay đổi nào để lưu.</string>
+    <string name="text_member_list_public_room">Thành viên</string>
+    <string name="text_member_list_group_room">Thành viên</string>
+    <string name="text_select_friend_to_create_room">Chọn bạn</string>
+    <string name="a_joined_group">%1$s đã tham gia vào nhóm.</string>
+    <string name="a_invite_b_into_group">%1$s đã mời %2$s.</string>
+    <string name="a_leave_group">%1$s đã rời khỏi nhóm.</string>
+    <string name="a_change_group_avatar">%1$s đã thay đổi hình đại diện nhóm.</string>
+    <string name="a_change_group_name_to_b">%1$s đã đổi tên nhóm thành%2$s </string>
+    <string name="a_create_group">%1$s đã tạo nhóm.</string>
+    <string name="a_remove_b_group">%1$s đã hủy lời mời của %2$s.</string>
+    <string name="a_add_b_into_group">%1$s đã thêm %2$s vào nhóm.</string>
+    <string name="a_request_sync_video">%1$s đã gửi yêu cầu đồng bộ video</string>
+    <string name="a_accept_sync_video">%1$s đã đông ý đồng bộ video</string>
+    <string name="text_a_play_video">%1$s đã chạy video</string>
+    <string name="text_a_pause_video">%1$s đã tạm dừng video</string>
+    <string name="text_a_close_video">%1$s đã tắt chế độ đồng bộ</string>
+    <string name="text_a_seek_video">%1$s đã tua video</string>
+    <string name="text_notify_receiver_sync_video_request">%1$s đã gửi cho bạn yêu cầu đồng bộ video</string>
+    <string name="text_notify_receiver_sync_video_request_accpet">Đồng ý</string>
+    <string name="text_notify_receiver_sync_video_request_reject">Từ chối</string>
+    <string name="text_sync_video_off_sync_before_open_new_video">Bạn có muốn tắt chế độ đồng bộ để mở video mới?</string>
+    <string name="text_confirm_off_sync_video">Bạn có muốn tắt chế độ đồng bộ?</string>
+    <string name="call_missed">Cuộc gọi nhỡ</string>
+    <string name="call_rejected">Từ chối</string>
+    <string name="call_no_answer">Không trả lời</string>
+    <string name="cancel_call">Hủy bỏ</string>
+    <string name="text_notify_video_over_one_minute">Video không được quá 1 phút</string>
+    <string name="text_notify_dont_select_over_ten_item">Đã vượt quá số lượng cho phép</string>
+    <string name="text_confirm_request_friend_contact">Bạn có muốn kết bạn với %1$s</string>
+    <string name="text_notify_contact_is_friend">Đã gởi yêu cầu kết bạn đến %1$s</string>
+    <string name="text_notify_contact_is_block_friend">bạn đang chặn %1$s</string>
+    <string-array name="more_chat_private_room">
+        <item>@string/text_more_chat_invite</item>
+        <item>@string/text_more_chat_notes</item>
+        <item>@string/text_more_chat_albums</item>
+        <item>@string/text_more_chat_image</item>
+        <item>@string/text_more_block</item>
+        <item>@string/text_more_chat_notification_off</item>
+    </string-array>
+    <string-array name="more_chat_public_room">
+        <item>@string/text_more_chat_invite</item>
+        <item>@string/text_more_chat_member_list</item>
+        <item>@string/text_more_chat_image</item>
+        <item>@string/text_more_chat_leave_room</item>
+        <item>@string/text_more_chat_notification_off</item>
+    </string-array>
+    <string-array name="more_chat_group_room">
+        <item>@string/text_more_chat_invite</item>
+        <item>@string/text_more_chat_member_list</item>
+        <item>@string/text_more_chat_notes</item>
+        <item>@string/text_more_chat_albums</item>
+        <item>@string/text_more_chat_image</item>
+        <item>@string/text_more_chat_setting</item>
+        <item>@string/text_more_chat_leave_group</item>
+        <item>@string/text_more_chat_notification_off</item>
+    </string-array>
+</resources>

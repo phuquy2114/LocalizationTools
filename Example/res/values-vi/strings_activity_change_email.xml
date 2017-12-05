@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_hint_email_change">Nhập email mới</string>
+    <string name="text_hint_password_change">Nhập mật khẩu mới</string>
+    <string name="text_hint_repassword_change">Nhập lại mật khẩu mới</string>
+    <string name="text_description_change">Bạn có thể lấy lại thông tin trước đây bằng cách đăng ký email hoặc thay đổi số điện thoại trên thiết bị</string>
+</resources>

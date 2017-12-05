@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_take_picture_c">Chụp ảnh</string>
+    <string name="text_description_c">Hãy để Cosy truy cập camera của bạn</string>
+    <string name="text_not_allowed_c">Không cho phép</string>
+    <string name="text_ok_c">OK</string>
+</resources>

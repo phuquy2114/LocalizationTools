@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_notification_n">Thông báo</string>
+    <string name="text_describe_n">Tắt ứng dụng đột ngột có thể làm thông báo đến chậm hoặc không đến.</string>
+    <string name="text_pause_n">Tắt trong 1 giờ</string>
+    <string name="text_on_n">Tắt</string>
+    <string name="text_notification_sound_n">Âm thanh</string>
+    <string name="text_tri_tone_n">Nhạc chuông</string>
+    <string name="text_new_message_n">Tin nhắn mới</string>
+    <string name="text_message_content_display_n">Hiển thị nội dung tin nhắn</string>
+    <string name="text_push_notification_n">Bạn có thể xem tin nhắn qua thông báo</string>
+    <string name="text_invitation_group_n">Mời vào nhóm</string>
+    <string name="text_pay">Cosy Pay</string>
+    <string name="text_timeline_notification">Thông báo Timeline</string>
+    <string name="text_in_app_notification">Báo khởi động</string>
+    <string name="text_in_app_sound">Âm khởi động</string>
+    <string name="text_vib_ration">Rung khi khởi động</string>
+    <string name="text_on_off">Cài đặt chế độ thông báo, nhạc chuông hoặc rung khi khởi động Cosy</string>
+    <string name="text_interlocking">Ứng dụng kết nối</string>
+    <string name="text_not_linked">Ứng dụng trái phép</string>
+    <string name="text_off_n">"Nếu cài đặt này bị tắt, các thông báo từ ứng dụng chưa được cấp quyền sẽ không được nhận."</string>
+    <string name="text_setting_notify_vibrate">Rung</string>
+    <string name="text_setting_notify_vibrate_ring_description">Khi có cuộc gọi đến hoặc tin nhắn mới.</string>
+    <string name="text_setting_notify_ring">Đổ chuông</string>
+    <string name="text_setting_notify_auto_send">Tự động phát tin nhắn thoại</string>
+    <string name="text_setting_notify_auto_send_description">Bật để tự động phát tin nhắn thoại mới.</string>
+    <string name="text_setting_notify_timeline_all">Tất cả thông báo</string>
+    <string name="text_setting_notify_timeline_like_post">Thích bài viết</string>
+    <string name="text_setting_notify_timeline_comment_post">Bình luận bài viết</string>
+    <string name="text_setting_notify_timeline_like_comment">Thích bình luận</string>
+    <string name="text_setting_timeline_quality_image">Ảnh chất lượng cao</string>
+    <string name="text_setting_timeline_quality_image_description">Bật để upload ảnh chất lượng cao.</string>
+    <string name="text_setting_timeline_auto_video">Tự động phát Video</string>
+    <string name="text_setting_timeline_auto_video_description">Video sẽ tự động phát khi có kết nối Internet.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_my_app">Account notification</string>
+    <string name="text_one">Test Bap is your level 1 network connection</string>
+    <string name="text_two">Added</string>
+</resources>

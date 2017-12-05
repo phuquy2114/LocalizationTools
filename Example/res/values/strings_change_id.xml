@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_change_id_title">ID</string>
+    <string name="text_btn_change_id_ok">Confirm</string>
+    <string name="text_message_account_change_id">Cosy users can find out you by ID. After setting, you can\'t change your ID.</string>
+    <string name="text_enter_id">Please enter your ID. </string>
+</resources>

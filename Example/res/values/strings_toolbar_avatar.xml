@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_cancel_toolbar_avatar">Cancel</string>
+    <string name="text_done_toolbar_avatar">Done</string>
+    <string name="text_create_account_toolbar_avatar">Create account</string>
+    <string name="text_register_toolbar_avatar">Register Cosy</string>
+</resources>

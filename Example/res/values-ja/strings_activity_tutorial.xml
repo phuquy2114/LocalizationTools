@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_tutorial">許可</string>
+    <string name="text_description_tutorial">これで友人からの重要なメッセージを見逃さずに済みます。</string>
+    <string name="text_not_allowed_tutorial">許可しない</string>
+    <string name="text_ok_tutorial">OK</string>
+</resources>

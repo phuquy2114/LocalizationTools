@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_screen_edit_friend">Edit friends</string>
+    <string name="text_invitation_edit_friend">Invite</string>
+    <string name="text_edit_friend_block">Block</string>
+    <string name="text_edit_friend_hide">Hidden</string>
+    <string name="text_edit_search"><font size="12">Seach by name</font></string>
+    <string name="text_check_invite_friend">Please select at least 1 friend</string>
+</resources>

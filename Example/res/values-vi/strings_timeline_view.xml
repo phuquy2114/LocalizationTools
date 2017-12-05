@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="title_timeline_change_profile_avatar">Đã cập nhật hồ sơ!</string>
+    <string name="text_profile_of_you">Hồ sơ của</string>
+    <string name="text_profile_change_cover">Trang chủ của</string>
+    <string name="text_status_profile_change_cover">Đã thay đổi ảnh Home.</string>
+</resources>

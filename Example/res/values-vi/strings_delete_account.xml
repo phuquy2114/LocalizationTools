@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_delete_account">Xóa tài khoản</string>
+    <string name="text_delete_my_account_warning"> Bạn có muốn xóa tài khoản không?</string>
+    <string name="text_delete_my_account_warning_unable_friend">Sau khi xóa tài khoản, danh sách bạn bè, lịch sử trò chuyện, lịch sử mua bán và những thông tin khác sẽ không thể phục hồi. Bạn có muốn xóa tài khoản không?</string>
+    <string name="text_delete_my_account_ok">Xóa tài khoản</string>
+</resources>

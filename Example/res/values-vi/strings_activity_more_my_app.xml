@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_my_app">Thông báo tài khoản</string>
+    <string name="text_one">Test Bap là kết nối mạng lưới cấp 1 của bạn</string>
+    <string name="text_two">Đã thêm vào danh bạ của bạn</string>
+</resources>

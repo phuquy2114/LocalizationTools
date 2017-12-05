@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_my_profile">プロフィール情報</string>
+    <string name="text_my_app">アプリ</string>
+    <string name="text_do_good">良いことをしよう</string>
+    <string name="text_personal_page">個人ページ</string>
+    <string name="text_tell_friend">友達を招待</string>
+    <string name="text_setting">設定</string>
+    <string name="text_about">Cosyについて</string>
+    <string name="text_send_feedback">フィードバック送信</string>
+    <string name="text_why">Cosyに登録する理由は?</string>
+    <string name="text_do_good_quote" />
+    <string name="text_do_good_author" />
+    <string name="text_day_streak">日々</string>
+    <string name="text_high_score">良い点</string>
+    <string name="text_day_streak_good">良いことをしよう日々</string>
+    <string name="text_do_good_behind">良いことをしよう</string>
+    <string name="text_do_good_content">Cosyの収益の一部が自動的に選択したい慈善団体へ譲渡されるようになりました。</string>
+    <string name="text_do_good_see_more">もっと見る</string>
+    <string name="text_more_tab_title">追加</string>
+    <string name="text_edit_profile">編集</string>
+    <string name="text_edit_profile_complete">完了</string>
+    <string name="text_security_title">パスワードを入力</string>
+    <string name="text_privacy_title">個人情報保護</string>
+    <string name="text_setting_account">アカウント</string>
+    <string name="text_change_phone_title">電話番号変更</string>
+    <string name="text_notification_setting_off">オフ</string>
+    <string name="text_notification_setting_off_after_a_hour">一時間停止</string>
+    <string name="text_notification_setting_off_after_eight_hour">午前8時まで停止</string>
+    <string name="text_notification_setting_title">通知オフ</string>
+    <string name="text_sound_list_title">通知音</string>
+    <string name="text_number_zero">0</string>
+    <string name="text_number_one">1</string>
+    <string name="text_number_two">2</string>
+    <string name="text_number_three">3</string>
+    <string name="text_number_four">4</string>
+    <string name="text_number_five">5</string>
+    <string name="text_number_six">6</string>
+    <string name="text_number_seven">7</string>
+    <string name="text_number_eight">8</string>
+    <string name="text_number_nine">9</string>
+    <string-array name="array_setting_notification">
+        <item>@string/text_notification_setting_off</item>
+        <item>@string/text_notification_setting_off_after_a_hour</item>
+        <item>@string/text_notification_setting_off_after_eight_hour</item>
+    </string-array>
+    <string name="text_profile_not_set">Chưa có</string>
+    <string name="text_sticker">ステッカー</string>
+    <string name="text_feedback">フィードバック</string>
+    <string name="text_rating">SNS-VNランキング</string>
+    <string name="text_terms_of_user">利用規約</string>
+    <string name="text_about_more">紹介</string>
+</resources>

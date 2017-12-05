@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_cancel_search">Cancel</string>
+    <string name="text_chat_search">Search</string>
+    <string name="text_friend_Search">Friends</string>
+    <string name="text_featured_search">Search</string>
+    <string name="text_features_search">Search</string>
+    <string name="text_search_friend_location">Search recent friends</string>
+</resources>

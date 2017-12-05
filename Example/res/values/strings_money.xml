@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_request_friend_by_sms">SMS</string>
+    <string name="text_request_friend_by_facebook">Facebook</string>
+    <string name="text_request_friend_by_twitter">Twitter</string>
+    <string name="text_request_friend_by_line">Line</string>
+    <string name="text_earning_title">Income</string>
+    <string name="text_network_view_title">See the network</string>
+    <string name="text_go_to_shop_content">Go to the store</string>
+    <string name="text_current_salary_content">Make money fast</string>
+    <string name="text_play_game_content">Play game</string>
+    <string name="text_lock_screen_content">Lock screen</string>
+    <string name="text_ads_me_content">Advertisement</string>
+    <string name="text_contribute_content">Well working</string>
+    <string name="text_cashing_content">Withdrawal</string>
+    <string name="text_go_shopping_content">Make a phone call</string>
+    <string name="text_income_inequality_content">Income inequality</string>
+    <string name="text_money_total_content">Total income</string>
+    <string name="text_revenue_history_content">Income history</string>
+    <string name="text_revenue_amount_content">How much do you earn?</string>
+    <string name="text_money">0.00oo</string>
+    <string name="text_invite_friend">Invite friends</string>
+    <string name="text_network_view">See the network</string>
+    <string name="text_earning">Income</string>
+</resources>

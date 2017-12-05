@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_access_contact">Cosyをカスタマイズして素敵な体験をしましょう</string>
+    <string name="text_description_access_contact">これで友達からの重要なメッセージを見逃さずに済みます。</string>
+    <string name="text_not_allowed_access_contact">許可しない</string>
+    <string name="text_ok_access_contact">OK</string>
+    <string name="texxt_access_contact_permission">Cosyを連絡先にアクセスさせてください</string>
+    <string name="text_description_contact_permission">友達がCosyにいたらこれで通話したり、メッセージを送信できるようになります。</string>
+    <string name="text_not_allowed_permission">許可しない</string>
+</resources>

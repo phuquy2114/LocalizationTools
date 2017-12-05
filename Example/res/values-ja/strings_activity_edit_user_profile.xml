@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_avatar_edit">プロフィール画像</string>
+    <string name="text_birthday_edit">生年月日</string>
+    <string name="text_gender_edit">性別</string>
+    <string name="text_city_edit">市・国</string>
+    <string name="text_city_hind"><font size="12">Your city </font></string>
+    <string name="text_phone_lowercase_edit">電話</string>
+    <string name="text_phone_edit">電話番号</string>
+    <string name="text_Add_phone_edit">電話番号を追加</string>
+</resources>

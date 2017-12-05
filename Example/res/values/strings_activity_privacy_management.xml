@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_pass_code_lock">Password</string>
+    <string name="text_add_friend_id">Allow to add by ID</string>
+    <string name="text_search_your_id">Friends can search my ID to add friend. </string>
+    <string name="text_message_reception">Select message</string>
+    <string name="text_messages_from_friends">If activate, messages from strange users will be refused</string>
+    <string name="text_allow_friend_requests">Allow to send add friend request</string>
+    <string name="text_allow_all_users">If you enable this setting, anyone can send add friend request for you. </string>
+    <string name="text_update_qr_code">Create new QR code</string>
+</resources>

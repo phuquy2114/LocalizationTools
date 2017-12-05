@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_chat_create_album">Tạo album</string>
+    <string name="text_chat_tutorial">Theo dõi những thông tin quan trọng và chia sẻ với </string>
+    <string name="text_chat_tutorial_two">bằng Ghi chú.</string>
+    <string name="text_chat_album_chat">bằng Album</string>
+    <string name="text_click_create_album"><u>Tạo album</u></string>
+    <string name="text_rename_album">Đổi tên album</string>
+    <string name="text_delete_album">Xóa album</string>
+    <string name="text_save_image_in_album">Lưu</string>
+    <string name="text_save_image_in_album_success">Lưu thành công</string>
+    <string name="text_save_image_in_album_fail">Lưu thất bại</string>
+    <string name="text_rename_album_description">ALbum</string>
+    <string name="text_rename_album_title">Đổi tên album</string>
+    <string name="text_max_number_album_name">/20</string>
+    <string name="text_rename_album_save">Lưu</string>
+    <string name="text_confirm_remove_album">Bạn có muốn xóa Album?</string>
+    <string name="text_album_name_empty_notify">Vui lòng nhập tên album.</string>
+</resources>

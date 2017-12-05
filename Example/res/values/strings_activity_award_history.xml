@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_arward">Award list</string>
+	<string name="text_group_information_award">Award information</string>
+    <string name="text_note_award">Note: From your personal page
+Only the registered connections have been expressed by these numbers.</string>
+</resources>

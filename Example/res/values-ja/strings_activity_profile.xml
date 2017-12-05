@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_phone_pr">電話番号</string>
+    <string name="text_id_pr">ID</string>
+    <string name="text_name_pr">Name</string>
+    <string name="text_application_link_pr">連動アプリ</string>
+    <string name="text_login_permission">ログイン許可</string>
+    <string name="text_rino_pr">PC版、iPad版のCosy、及びCosyの各種WEBサービスへのログインを許可します。</string>
+    <string name="text_my_qr_code_pr">QRコード</string>
+    <string name="text_delete_account_pr">アカウント削除</string>
+    <string name="text_status_setting">Status</string>
+    <string name="text_not_setting">Not setting yet</string>
+</resources>

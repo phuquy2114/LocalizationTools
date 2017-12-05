@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_send_an_authentication_code">Chúng tôi đã gửi một tin nhắn SMS với mã xác nhận tới số điện thoại ở trên.</string>
+    <string name="text_retransmit_SMS">Gửi lại mã qua SMS</string>
+    <string name="text_edit_phone_number">Chỉnh sửa số điện thoại</string>
+</resources>

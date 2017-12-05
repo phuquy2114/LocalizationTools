@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_album_name">アルバム名</string>
+    <string name="text_size_input_type">0/20</string>
+    <string name="text_message_input_type">アルバム名を入力してください。</string>
+    <string name="text_create_new_title">アルバムを作成</string>
+</resources>

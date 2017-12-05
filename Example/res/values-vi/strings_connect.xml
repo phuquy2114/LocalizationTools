@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_screen_connect">Kết nối</string>
+    <string name="text_menu">Danh mục</string>
+    <string name="text_join_menu">Đang tham gia</string>
+    <string name="text_menu_all">Tất cả</string>
+    <string name="text_menu_favorite_rating">Yêu thích trong tuần</string>
+    <string name="text_menu_favourite">Yêu thích nhất</string>
+    <string name="text_menu_game">Trò chơi</string>
+    <string name="text_menu_movie">Phim ảnh</string>
+    <string name="text_menu_fast_food">Ăn vặt</string>
+    <string name="text_menu_school">Trường học</string>
+    <string name="text_menu_car">Xe cộ</string>
+    <string name="text_menu_music">Âm nhạc</string>
+    <string name="text_menu_sport">Thể thao</string>
+    <string name="text_menu_technology">Công nghệ</string>
+    <string name="text_menu_shopping">Mua sắm</string>
+    <string name="text_menu_talk">Tán gẫu</string>
+    <string name="text_menu_love">Tình yêu</string>
+    <string name="text_menu_more">Khác</string>
+    <string name="text_connect_find">Tìm kiếm</string>
+    <string name="text_connect_find_menu">Tìm kiếm trong danh mục</string>
+    <string name="text_number_member">Thành viên</string>
+    <string name="text_number_post">Bài đăng</string>
+    <string name="text_create_post_find_cover">Tìm kiếm hình ảnh</string>
+    <string name="text_create_post_upload_cover">Tải hình ảnh lên</string>
+    <string name="text_enter_club_name_hint">Nhập tên Club</string>
+    <string name="text_create">Tạo</string>
+    <string name="text_create_post_private_room">Nhóm kín</string>
+    <string name="text_create_post_category">Thể loại</string>
+    <string name="text_notify_user_dont_enter_title">Bạn chưa nhập tên nhóm</string>
+    <string name="text_create_connect_description">Mô tả</string>
+    <string name="text_notify_user_dont_enter_description">Bạn chưa nhập mô tả nhóm</string>
+    <string name="text_notify_user_dont_choose_category">Bạn chưa chọn thể loại cho nhóm</string>
+    <string name="text_remove_club_confirm">Xóa câu lạc bộ %1$s</string>
+    <string name="text_cancel_request_join_club_description">Bạn cần được sự cho phép của người quản lý câu lạc bộ.</string>
+    <string name="text_send_request_join_club_description">Bạn cần được sự cho phép của người quản lý câu lạc bộ.</string>
+    <string name="text_cancel_request_join_club">Yêu cầu tham gia</string>
+    <string name="text_send_request_join_club">Huỷ yêu cầu tham gia</string>
+    <string name="text_leave_club_confirm">Bạn muốn rời khỏi club %1$s</string>
+    <string name="text_leave_club_success">Bạn đã rời nhóm thành công</string>
+    <string name="text_send_join_group_request_success">Gửi yêu cầu tham gia nhóm thành công</string>
+    <string name="text_cancel_join_group_request_success">Hủy yêu cầu tham gia nhóm thành công</string>
+    <string name="text_remove_club">Xoá câu lạc bộ</string>
+    <string name="text_report">Báo cáo</string>
+    <string name="text_leave_club">Rời câu lạc bộ</string>
+    <string name="text_connect_join_club">Tham gia ngay !</string>
+    <string name="text_connect_detail">Chi tiết</string>
+    <string name="text_information">Thông tin</string>
+    <string name="text_list_member">Ds thành viên</string>
+    <string name="text_popup_edit">Chỉnh sửa</string>
+    <string name="text_request_member">Yêu cầu tham gia</string>
+    <string name="text_manager_information">Quản lý</string>
+    <string-array name="array_popup_owner">
+        <item>@string/text_information</item>
+        <item>@string/text_popup_edit</item>
+        <item>@string/text_list_member</item>
+        <item>@string/text_remove_club</item>
+    </string-array>
+    <string-array name="array_popup_private_owner">
+        <item>@string/text_information</item>
+        <item>@string/text_popup_edit</item>
+        <item>@string/text_list_member</item>
+        <item>@string/text_request_member</item>
+        <item>@string/text_remove_club</item>
+    </string-array>
+    <string-array name="array_popup_not_owner">
+        <item>@string/text_information</item>
+        <item>@string/text_list_member</item>
+        <item>@string/text_leave_club</item>
+        <item>@string/text_report</item>
+    </string-array>
+    <string-array name="array_popup_not_owner_is_member">
+        <item>@string/text_information</item>
+        <item>@string/text_list_member</item>
+        <item>@string/text_report</item>
+    </string-array>
+    <string-array name="array_option_owner">
+        <item>@string/text_remove_club</item>
+    </string-array>
+    <string-array name="array_option_other">
+        <item>@string/text_report</item>
+    </string-array>
+    <string-array name="array_option_member">
+        <item>@string/text_leave_club</item>
+        <item>@string/text_report</item>
+    </string-array>
+    <string-array name="array_connect_menu">
+        <item>@string/text_menu_all</item>
+        <item>@string/text_menu_favorite_rating</item>
+        <item>@string/text_menu_favourite</item>
+    </string-array>
+    <integer-array name="array_connect_image">
+        <item>@drawable/ic_connect_all</item>
+        <item>@drawable/ic_connect_rating</item>
+        <item>@drawable/ic_connect_favorite</item>
+    </integer-array>
+</resources>

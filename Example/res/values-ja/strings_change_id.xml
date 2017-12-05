@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_change_id_title">ID</string>
+    <string name="text_btn_change_id_ok">確認</string>
+    <string name="text_message_account_change_id">CosyのユーザーはあなたをIDで検索できます。IDを設定した後で、自分のIDは変更できません。</string>
+    <string name="text_enter_id">IDを入力してください。</string>
+</resources>

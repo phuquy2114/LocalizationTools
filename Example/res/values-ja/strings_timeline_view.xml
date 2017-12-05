@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="title_timeline_change_profile_avatar">プロフィールを更新しました。</string>
+    <string name="text_profile_of_you">プロフィール</string>
+    <string name="text_profile_change_cover">ホーム</string>
+	<string name="text_status_profile_change_cover">画像を変更しました。</string>
+</resources>

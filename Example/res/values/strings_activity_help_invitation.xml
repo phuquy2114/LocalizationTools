@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_help_invitation">How do I use my received invitation? </string>
+    <string name="text_description_help">"Access rights are issued based on the invitation, so congratulation on receiving the Cosy invitation. \n\nTo join, click the link in the invitation that you have received to access the inviter’s personal page. Touch the “Join” button on that page. Next, you need to confirm your email address and username, and enter your new password. \n\nOnce you have created your account, please download the app to your mobile, tablet, or desktop computer. \n\nStill need help \n\n Do not hesitate to contact us .support @ Cosy.comCosy. "</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_edit_search_friend"><font size="12">Seach friends ...</font></string>
+    <string name="text_friend_hide">Hidden</string>
+    <string name="text_friend_delete">Delete</string>
+    <string name="text_friend_block">Block</string>
+    <string name="text_friend_add">Add</string>
+    <string name="text_friend_leave">Leave</string>
+    <string name="text_friend_id">Not installed</string>
+    <string name="text_friend_official_account">Official account</string>
+    <string name="text_friend_official_account_follow">Following</string>
+    <string name="text_friend_official_account_all">All</string>
+    <string name="text_friend_create_group">Create a group</string>
+    <string name="text_friend_profile">Profile</string>
+    <string name="text_friend_group_pending">The group that invited me</string>
+    <string name="text_friend_friend_new">New friend</string>
+    <string name="text_friend_recommend">Suggestion</string>
+    <string name="text_friend_favorite">Best friend</string>
+    <string name="text_friend_group">Group</string>
+    <string name="text_friend_friends">Friend</string>
+    <string name="text_hint_search_friend">Enter the name</string>
+    <string name="text_invite_friend_facebook">Choose app to invite</string>
+    <string name="text_install_message">Please install Facebook Messenger to invite</string>
+
+    <string name="text_official_account_bap">BAP</string>
+
+    <string-array name="array_friend">
+        <item>@string/text_friend_profile</item>
+        <item>@string/text_friend_group_pending</item>
+        <item>@string/text_friend_friend_new</item>
+        <item>@string/text_friend_recommend</item>
+        <item>@string/text_friend_favorite</item>
+        <item>@string/text_friend_official_account</item>
+        <item>@string/text_friend_friends</item>
+    </string-array>
+
+    <string-array name="array_group">
+        <item>@string/text_friend_create_group</item>
+        <item>@string/text_friend_group_pending</item>
+        <item>@string/text_friend_friend_new</item>
+        <item>@string/text_friend_recommend</item>
+        <item>@string/text_friend_favorite</item>
+        <item>@string/text_friend_group</item>
+        <item>@string/text_friend_friends</item>
+        <item>@string/text_friend_create_group</item>
+    </string-array>
+
+    <string-array name="array_official_account">
+        <item>@string/text_official_account_bap</item>
+    </string-array>
+</resources>

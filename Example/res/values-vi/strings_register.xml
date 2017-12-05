@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_register_add_friend_title">"Đăng ký Cosy"</string>
+    <string name="text_reason_register_my_app_question">Tại sao nên tham gia Cosy ?</string>
+    <string name="text_reason_register_my_app_answer">Cosy là ứng dụng hoàn toàn miễn phí và chia sẻ hơn 70% doanh thu/lợi nhuận cho bạn. Từ thu nhập kiếm được, bạn có thể quyên góp cho một trong số 2.000 tổ chức từ thiện ở 110 quốc gia hoặc rút tiền về cho mình. Lựa chọn nằm trong tay bạn!</string>
+    <string name="text_register_my_app_slogan">Tại sao nên tham gia Cosy?</string>
+    <string name="what_the_application_has_unique">Cosy  có gì độc đáo?</string>
+    <string name="text_unique_my_app_one">1. Kiếm tiền trong khi giao tiếp với xã hội: chúng tôi chia sẻ hơn 70% doanh thu của mình với cộng đồng.</string>
+    <string name="text_unique_my_app_two">2. Sử dụng thu nhập của bạn để làm việc tốt thông qua các Tổ chức Từ thiện.</string>
+    <string name="text_unique_my_app_three">3. Rút tiền về tài khoản ngân hàng, thẻ tín dụng hoặc tài khoản Paypal của chính bạn</string>
+    <string name="text_unique_my_app_four">4.Gọi điện quốc tế với cước phí thấp nhất; gọi điện thoại hình và tiếng miễn phí  giữa các số điện thoại</string>
+    <string name="text_unique_my_app_five">5.Chế độ Riêng tư: sử dụng tính năng bảo mật tốt nhất, trong đó, các tin nhắn sẽ được tự động xóa khi bạn kết thúc trò chuyện. /n Trân trọng.</string>
+    <string name="text_register_free_feature_content">Cosy là ứng dụng miễn phí và bạn có thể kiếm thêm thu nhập mà không phải chi một khoản tiền nào. Hơn nữa, cuộc gọi giữa các số Cosy cũng hoàn toàn miễn phí!</string>
+    <string name="text_register_free_feature_header">Hoàn toàn miễn phí</string>
+    <string name="text_register_make_money_feature_content">Nhận phần thưởng cho tất cả những gì bạn và mạng lưới tính đến cấp 8 của bạn làm được trên Cosy. Chúng tôi chia sẻ hơn 70% tổng doanh thu/lợi nhuận của chúng tôi!</string>
+    <string name="text_register_make_money_feature_header">Thu nhập</string>
+    <string name="text_register_contribute_feature_content">Chuyển Xu thành tiền thật khi bạn quyên góp cho một trong số 2.000 tổ chức từ thiện hoặc rút tiền về.</string>
+    <string name="text_register_contribute_feature_header">Quyên góp hoặc Rút tiền</string>
+    <string name="text_please_see_comment">Cosy　được yêu thích trên toàn thế giới! Xem đánh giá từ cộng đồng.</string>
+    <string name="text_register_my_app_description_one">Cosy  dựa trên \"Chủ nghĩa Cosy \"</string>
+    <string name="text_register_my_app_description_two">Cosy　là hệ thống kinh tế mới trong đó phần lớn lợi ích kinh tế được chia sẻ với cộng đồng. Và sau đó, cộng đồng lại tiếp tục chia sẻ để giúp đỡ thế giới.</string>
+    <string name="text_register_invite">Nhận lời mời tại Cosy</string>
+    <string name="text_register_invite_content">" Cách nhanh nhất để tham gia Cosy là từ trang cá nhân của một người bạn hoặc đơn giản chỉ cần đăng ký với sự giúp đỡ từ một trong các thành viên nổi bật của chúng tôi:"</string>
+    <string name="text_register_load_more_friend">Thêm người</string>
+    <string name="text_register_create_account_enter_mail"><font size="12">Địa chỉ email</font></string>
+    <string name="text_register_create_account_enter_login_name"><font size="12">Tên người dùng</font></string>
+    <string name="text_register_create_account_enter_password"><font size="12">Mật khẩu (Hơn 6 ký tự)</font></string>
+    <string name="text_register_create_account_confirm_password"><font size="12">Xác nhận mật khẩu</font></string>
+    <string name="text_register_create_account_button">Tạo tài khoản</string>
+    <string name="text_register_notify_for_policy">Bằng việc tiếp tục, bạn đồng ý với:</string>
+    <string name="text_register_notify_for_policy_link"><u>Điều khoản và điều kiện sử dụng của Ents</u></string>
+    <string name="text_register_please_enter_full_information">Nhập đầy đủ thông tin</string>
+    <string name="text_username_length">Tên phải lớn hơn 3 ký tự</string>
+    <string name="text_email_validate">Email không hợp lệ</string>
+    <string name="text_email_first_phone">Vui lòng chọn mã vùng điện thoại</string>
+    <string name="text_register_password_wrong">Xác nhận mật khẩu thất bại</string>
+    <string name="text_remind_user_enter_password_over_six_character">Nhập mật khẩu trên 6 kí tự </string>
+    <string name="text_create_account_title">Tạo tài khoản</string>
+    <string name="text_welcome_app_title">Hãy cùng tùy chỉnh Cosy  để có trải nghiệm tuyện vời hơn</string>
+    <string name="text_start_app">Bắt đầu</string>
+    <string name="text_select_friend_title">Đăng ký Cosy</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_passcode_tutor">Ghi nhớ mã PIN để xem lại trò chuyện\n Trò chuyện sẽ mất nếu bạn quên mã PIN.</string>
+    <string name="text_title_passcode">Nhập mã PIN</string>
+</resources>

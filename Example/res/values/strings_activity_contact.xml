@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_contact_request_send">Contact request sent.</string>
+    <string name="text_personal_information_contact">Personal information.</string>
+    <string name="text_award_contact">Award:</string>
+    <string name="text_network_contact">Network:</string>
+    <string name="text_gender_contact">Sex:</string>
+    <string name="text_city_contact">City/Nation:</string>
+    <string name="text_remove_contact">Delete contact</string>
+    <string name="text_cancel_remove_contact">Cancel</string>
+</resources>

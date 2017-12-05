@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_home_group">Tham gia</string>
+    <string name="text_username_group">Hoai Thuong</string>
+    <string name="text_block_group">Chặn</string>
+    <string name="text_empty">---</string>
+    <string name="text_first_phone">+84</string>
+</resources>

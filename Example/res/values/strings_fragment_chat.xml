@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_edit_talk_sort">Arrange chat</string>
+    <string name="text_reception_time">Receiving time</string>
+    <string name="text_message_unread">Unread message</string>
+    <string name="text_favorite">Best friend</string>
+    <string name="text_cancel_sheet">Cancel</string>
+</resources>

@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_screen_connect">Connect</string>
+	<string name="text_menu">Category</string>
+	<string name="text_join_menu">Participating</string>
+	<string name="text_menu_all">All</string>
+	<string name="text_menu_favorite_rating">Favorites of the week</string>
+	<string name="text_menu_favourite">The most favorite</string>
+	<string name="text_menu_game">Game</string>
+	<string name="text_menu_movie">Movie</string>
+	<string name="text_menu_fast_food">Snack</string>
+	<string name="text_menu_school">School</string>
+	<string name="text_menu_car">Vehicle</string>
+	<string name="text_menu_music">Music</string>
+	<string name="text_menu_sport">Sport</string>
+	<string name="text_menu_technology">Technology</string>
+	<string name="text_menu_shopping">Shopping</string>
+	<string name="text_menu_talk">Chat</string>
+	<string name="text_menu_love">Love</string>
+	<string name="text_menu_more">Others</string>
+	<string name="text_connect_find">Search</string>
+	<string name="text_connect_find_menu">Search in category</string>
+	<string name="text_number_member">Member</string>
+	<string name="text_number_post">Post</string>
+	<string name="text_create_post_find_cover">Image search</string>
+	<string name="text_create_post_upload_cover">Upload the image</string>
+	<string name="text_enter_club_name_hint">Enter Club name</string>
+	<string name="text_create">Create</string>
+	<string name="text_create_post_private_room">Closed group</string>
+	<string name="text_create_post_category">Type</string>
+	<string name="text_notify_user_dont_enter_title">You have not entered a group name yet</string>
+	<string name="text_create_connect_description">Description</string>
+	<string name="text_notify_user_dont_enter_description">You have not entered a group description yet</string>
+	<string name="text_notify_user_dont_choose_category">You have not entered a group type yet</string>
+	<string name="text_remove_club_confirm">Delete club %1$s</string>
+	<string name="text_cancel_request_join_club_description">You need the permission of the club\'s manager.</string>
+	<string name="text_send_request_join_club_description">You need the permission of the club\'s manager.</string>
+	<string name="text_cancel_request_join_club">Join request</string>
+	<string name="text_send_request_join_club">Delete join request</string>
+	<string name="text_leave_club_confirm">Do you want to leave the club %1$s</string>
+	<string name="text_leave_club_success">You have left the group successfully</string>
+    <string name="text_send_join_group_request_success">Send join group request successfully</string>
+    <string name="text_cancel_join_group_request_success">Cancel join group request successfully</string>
+	<string name="text_remove_club">Delete the club</string>
+	<string name="text_report">Report</string>
+	<string name="text_leave_club">Leave the club</string>
+	<string name="text_connect_join_club">Join now !</string>
+	<string name="text_connect_detail">Detail</string>
+	<string name="text_information">Information</string>
+	<string name="text_list_member">Members list</string>
+	<string name="text_popup_edit">Edit</string>
+	<string name="text_request_member">Request to join</string>
+	<string name="text_manager_information">Manage</string>
+	<string-array name="array_popup_owner">
+		<item>@string/text_information</item>
+		<item>@string/text_popup_edit</item>
+		<item>@string/text_list_member</item>
+		<item>@string/text_remove_club</item>
+	</string-array>
+	<string-array name="array_popup_private_owner">
+		<item>@string/text_information</item>
+		<item>@string/text_popup_edit</item>
+		<item>@string/text_list_member</item>
+		<item>@string/text_request_member</item>
+		<item>@string/text_remove_club</item>
+	</string-array>
+	<string-array name="array_popup_not_owner">
+		<item>@string/text_information</item>
+		<item>@string/text_list_member</item>
+		<item>@string/text_leave_club</item>
+		<item>@string/text_report</item>
+	</string-array>
+	<string-array name="array_popup_not_owner_is_member">
+		<item>@string/text_information</item>
+		<item>@string/text_list_member</item>
+		<item>@string/text_report</item>
+	</string-array>
+	<string-array name="array_option_owner">
+		<item>@string/text_remove_club</item>
+	</string-array>
+	<string-array name="array_option_other">
+		<item>@string/text_report</item>
+	</string-array>
+	<string-array name="array_option_member">
+		<item>@string/text_leave_club</item>
+		<item>@string/text_report</item>
+	</string-array>
+	<string-array name="array_connect_menu">
+		<item>@string/text_menu_all</item>
+		<item>@string/text_menu_favorite_rating</item>
+		<item>@string/text_menu_favourite</item>
+	</string-array>
+	<integer-array name="array_connect_image">
+		<item>@drawable/ic_connect_all</item>
+		<item>@drawable/ic_connect_rating</item>
+		<item>@drawable/ic_connect_favorite</item>
+	</integer-array>
+</resources>

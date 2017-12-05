@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_send_an_authentication_code">We will sent an SMS message with confirmation code to the phone number above.</string>
+    <string name="text_retransmit_SMS">Resend the code via SMS</string>
+    <string name="text_edit_phone_number">Edit  phone number</string>
+</resources>

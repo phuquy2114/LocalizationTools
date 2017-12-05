@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_edit_search_friend"><font size="12">Tìm kiếm bạn bè ...</font></string>
+    <string name="text_friend_hide">Ẩn</string>
+    <string name="text_friend_delete">Xóa</string>
+    <string name="text_friend_block">Chặn</string>
+    <string name="text_friend_add">Thêm</string>
+    <string name="text_friend_leave">Rời</string>
+    <string name="text_friend_id">Chưa cài đặt</string>
+    <string name="text_friend_official_account">Tài khoản chính thức</string>
+    <string name="text_friend_official_account_follow">Đang theo dõi</string>
+    <string name="text_friend_official_account_all">Tất cả</string>
+    <string name="text_friend_create_group">Tạo Nhóm </string>
+    <string name="text_friend_profile">Hồ sơ</string>
+    <string name="text_friend_group_pending">Nhóm đã mời tôi</string>
+    <string name="text_friend_friend_new">Bạn mới</string>
+    <string name="text_friend_recommend">Gợi ý</string>
+    <string name="text_friend_favorite">Bạn thân</string>
+    <string name="text_friend_group">Nhóm</string>
+    <string name="text_friend_friends">Bạn bè</string>
+    <string name="text_hint_search_friend">Nhập tên để tìm kiếm</string>
+    <string name="text_invite_friend_facebook">Chọn ứng dụng để mời</string>
+    <string name="text_install_message">Cài đặt facebook messenger để mời bạn bè</string>
+
+    <string-array name="array_friend">
+        <item>@string/text_friend_profile</item>
+        <item>@string/text_friend_group_pending</item>
+        <item>@string/text_friend_friend_new</item>
+        <item>@string/text_friend_recommend</item>
+        <item>@string/text_friend_favorite</item>
+        <item>@string/text_friend_official_account</item>
+        <item>@string/text_friend_friends</item>
+    </string-array>
+
+    <string-array name="array_group">
+        <item>@string/text_friend_create_group</item>
+        <item>@string/text_friend_group_pending</item>
+        <item>@string/text_friend_friend_new</item>
+        <item>@string/text_friend_recommend</item>
+        <item>@string/text_friend_favorite</item>
+        <item>@string/text_friend_group</item>
+        <item>@string/text_friend_friends</item>
+        <item>@string/text_friend_create_group</item>
+    </string-array>
+
+</resources>

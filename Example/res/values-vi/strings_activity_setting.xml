@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_profile_setting">Hồ sơ</string>
+    <string name="text_account_setting">Tài khoản</string>
+    <string name="text_timeline_setting">Timeline</string>
+    <string name="text_notification_setting">Cuộc gọi và tin nhắn</string>
+    <string name="text_send_feedback_setting">Quản lý bạn bè</string>
+    <string name="text_image_and_video_setting">Ảnh và video</string>
+    <string name="text_logout">Đăng xuất</string>
+    <string name="text_setting_notify_logout">Bạn có muốn đăng xuất không?</string>
+</resources>

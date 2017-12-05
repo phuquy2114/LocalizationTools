@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_chat_create_album">アルバム作成</string>
+    <string name="text_chat_tutorial">思い出の写真をグループのみんなとアルバムで共有しましょう。</string>
+    <string name="text_chat_tutorial_two">Albums</string>
+    <string name="text_chat_album_chat">Albums</string>
+    <string name="text_click_create_album"><u>Tạo album</u></string>
+    <string name="text_rename_album">アルバム名を変更</string>
+    <string name="text_delete_album">アルバムを削除</string>
+    <string name="text_save_image_in_album">保存</string>
+    <string name="text_save_image_in_album_success">保存しました。</string>
+    <string name="text_save_image_in_album_fail">保存できません。</string>
+    <string name="text_rename_album_description">アルバム</string>
+    <string name="text_rename_album_title">アルバム名を変更</string>
+    <string name="text_max_number_album_name">/20</string>
+    <string name="text_rename_album_save">保存</string>
+    <string name="text_confirm_remove_album">アルバムを削除しますか？</string>
+    <string name="text_album_name_empty_notify">Vui lòng nhập tên album</string>
+</resources>

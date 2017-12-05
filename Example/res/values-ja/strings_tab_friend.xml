@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="tab_bar_friend">友達</string>
+    <string name="tab_bar_group">グループ</string>
+    <string name="tab_bar_add_friend">友達追加</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_edit_chat">Edit list</string>
+    <string name="text_edit_save">Save</string>
+    <string name="text_edit_hide">Hidden</string>
+    <string name="text_edit_remove">Delete</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_call_start">完全に無料通話</string>
+    <string name="text_call_slogan">Cosy無料通話なら、友達と好きなだけ通話できます。</string>
+    <string name="text_call_call_to_contacts">連絡先検索</string>
+    <string name="text_call_search_contact">検索</string>
+    <string name="text_call_contact_title">連絡先</string>
+    <string name="text_permission_contacts">連絡先情報へのアクセス権限を許可してください。 続けるように[許可]をクリックしてください。</string>
+</resources>

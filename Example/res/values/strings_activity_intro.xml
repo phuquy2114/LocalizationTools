@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_intro_description_1">Free video call for friends and relatives.</string>
+    <string name="text_intro_description_2">Watching video together.
+Experiencing new features.</string>
+    <string name="text_intro_description_3">Sharing moments and updating news from your friends.</string>
+    <string name="text_intro_description_4">Connecting with your friends and sharing happiness.</string>
+    <string name="text_intro_register_now">Let\'s use it. </string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_current_location">Current location</string>
+    <string name="text_nearby_map">Location</string>
+    <string name="text_please_input_post">Please enter the information that need to be posted !</string>
+    <string name="text_title_choose_friend">Choose friends</string>
+    <string name="text_edit_text_hint">Please enter the content !!!</string>
+    <string name="text_public">Public</string>
+    <string name="text_status_friend">Friends</string>
+    <string name="text_status_only_one">Only me</string>
+    <string name="text_group_friend">Friend group</string>
+    <string name="text_commend">Comment</string>
+    <string name="text_context_on_timeline">Let your friends what\'s on your mind?</string>
+    <string name="text_timeline_gallery_exceeded_photos_message">You can attach up to 10 photos or videos</string>
+    <string name="text_post">Post</string>
+    <string name="text_button_add_sticker">Choose Sticker</string>
+    <string name="text_link_add">Add link</string>
+    <string name="insert_link">Enter link</string>
+    <string name="insert_link_hint">Please enter  URL . . .</string>
+    <string name="insert_link_hint_ok">Done</string>
+    <string name="insert_link_hint_cancel">Cancel</string>
+    <string name="text_link_not_exist">This URL does not exist.</string>
+    <string name="text_link_invalid">Invalid link</string>
+    <string name="text_video">Video</string>
+    <string name="text_photo">Take photos</string>
+    <string name="text_gallery">Camera roll</string>
+    <string name="text_video_gallery">Video</string>
+    <string name="text_album">Album</string>
+    <string name="text_information_time_5_minute">Video can be maximum up to 5 minutes</string>
+    <string name="text_choose_address_location">New location</string>
+    <string name="text_remove_location">Delete</string>
+</resources>

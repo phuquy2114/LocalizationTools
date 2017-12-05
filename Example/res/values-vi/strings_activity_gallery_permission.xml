@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="text_title_browse_picture">Duyệt hình ảnh</string>
+    <string name="text_access_photo">Cosy cần được truy cập hình ảnh</string>
+    <string name="text_not_allowed_p">Không cho phép</string>
+    <string name="text_ok_p">OK</string>
+</resources>
