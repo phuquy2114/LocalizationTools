@@ -21,9 +21,14 @@ Call:
     - Syn_SpreadColor : Syn (cell color) the output execl file to the google spread.
 
 Example:
-    - The example below will generate the excel file from iOS .string files in the folder ./Example/Laungues to the google spread: https://docs.google.com/spreadsheets/d/1xtuFQW3ZPLAtj4QUDbN_I789xSIfFAy1Rkjzfp065p0
+
+The example below will generate the excel file from iOS .string files in the folder ./Example/Laungues to the google spread: https://docs.google.com/spreadsheets/d/1xtuFQW3ZPLAtj4QUDbN_I789xSIfFAy1Rkjzfp065p0
 
     ./String2Excel.sh "ios" ./Example/Laungues "1xtuFQW3ZPLAtj4QUDbN_I789xSIfFAy1Rkjzfp065p0" "their" True True
+
+The example below will generate the excel file from android .xml files in the folder ./Example/res to the google spread: https://docs.google.com/spreadsheets/d/1SM_KQZChBDlGO01ek963jsMDUpqxSJ0z9wCvsmLdNxk (without syn the cells color)
+    
+    ./String2Excel.sh "android" ./Example/res "1SM_KQZChBDlGO01ek963jsMDUpqxSJ0z9wCvsmLdNxk" "their" True False
 
 Export .xlsx files to .string /.xml files
 ==================
@@ -33,5 +38,9 @@ Call:
 The example below will generate .string files from Ex_LocalizationIOS.merge.xlsx to folder ./Example/Export
 
     ./Excel2String.sh "ios" ./Ex_LocalizationIOS.merge.xlsx ./Example/Export
+    
+The example below will generate .xml files from Ex_LocalizationAndroid.merge.xlsx to folder ./Example/Export
+    
+    ./Excel2String.sh "android" ./Ex_LocalizationAndroid.merge.xlsx ./Example/Export
 
 
