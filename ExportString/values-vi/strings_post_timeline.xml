@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_current_location">Vị trí hiện tại</string>
+	<string name="text_nearby_map">Địa điểm</string>
+	<string name="text_please_input_post">Vui lòng nhập thông tin cần đăng !</string>
+	<string name="text_title_choose_friend">Chọn bạn</string>
+	<string name="text_edit_text_hint">Vui lòng nhập nội dung !!!</string>
+	<string name="text_public">Công Khai</string>
+	<string name="text_status_friend">Bạn bè</string>
+	<string name="text_status_only_one">Chỉ mình tôi</string>
+	<string name="text_group_friend">Nhom ban</string>
+	<string name="text_commend">Bình luận</string>
+	<string name="text_context_on_timeline">Hãy cho bạn bè biết bạn đang như thế nào ?</string>
+	<string name="text_timeline_gallery_exceeded_photos_message">Bạn có thể đính kèm lên đến 10 ảnh hoặc video　　　　　　　　　　　　　</string>
+	<string name="text_post">Đăng</string>
+	<string name="text_button_add_sticker">Chọn Sticker</string>
+	<string name="text_link_add">Thêm liên kết</string>
+	<string name="insert_link">Nhập link</string>
+	<string name="insert_link_hint">Hãy Nhập URL . . .</string>
+	<string name="insert_link_hint_ok">Xong</string>
+	<string name="insert_link_hint_cancel">Huỷ</string>
+	<string name="text_link_not_exist">URL này không tồn tại.</string>
+	<string name="text_link_invalid">Link không hợp lệ</string>
+	<string name="text_video">Quay video</string>
+	<string name="text_photo">Chụp ảnh</string>
+	<string name="text_gallery">Cuộn camera</string>
+	<string name="text_video_gallery">Video</string>
+	<string name="text_album">Album</string>
+	<string name="text_information_time_5_minute">Có thể quay video dài tối đa 5 phút.</string>
+	<string name="text_choose_address_location">Địa điểm mới</string>
+	<string name="text_remove_location">Xoá</string>
+</resources>

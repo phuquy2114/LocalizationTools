@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_username_and_password">登録時に使用したユーザー名とパスワードを使用して、スマートフォン、タブレット、デスクトップからCosy にサインインできます。</string>
+	<string name="text_reset_username_or_password">ユーザー名またはパスワードを忘れた場合はこちらをクリック。</string>
+	<string name="text_title_error">サインインできませんか？</string>
+</resources>

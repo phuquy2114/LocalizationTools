@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_browse_picture">Browse the photos</string>
+	<string name="text_access_photo">Cosy need to access your library</string>
+	<string name="text_not_allowed_p">Not allowed</string>
+	<string name="text_ok_p">OK</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_delete_account">Delete account</string>
+	<string name="text_delete_my_account_warning">Do you want to delete your account?</string>
+	<string name="text_delete_my_account_warning_unable_friend">After deleting your account, friends list, chat history, purchase history, and other information, you will not be able to recover. Do you want to delete the account?</string>
+	<string name="text_delete_my_account_ok">Delete account</string>
+</resources>

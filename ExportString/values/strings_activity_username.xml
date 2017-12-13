@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_add_friend">Auto add friend</string>
+	<string name="text_add_friend_ok">Add friend allowed</string>
+	<string name="text_register">Register</string>
+	<string name="text_enter_name">Username</string>
+	<string name="text_rino">Please enter your name and upload a photo that will help your friends recognize you. Your name and photo are visible to other Ents users. The following settings will use your phone number and your contacts. Click on those settings to see more details. \ "</string>
+</resources>

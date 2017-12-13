@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_help_invitation">受け取った招待状の使用方法は？</string>
+	<string name="text_description_help">" Cosyは招待制のみです。招待状の受信、おめでとうございます！ \n\n参加するには、招待者の個人ページを訪問する招待メールにあったリンクをクリックしてください。友達のページにある\"登録\"ボタンをクリックしてください。次にメールアドレスとユーザー名を確認して新規パスワードを入力します。 \n\n アカウントを作成したら、スマートフォン、タブレット、デスクトップのアプリを取得してください！ \n\nまだご不明な点がありますか？\n\n support@ Cosy.comCosy　まで、お気軽にお問い合わせ下さい。 "</string>
+</resources>

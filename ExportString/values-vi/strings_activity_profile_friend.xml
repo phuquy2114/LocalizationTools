@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_call_history">Gọi âm thanh</string>
+	<string name="text_voice_call_history">Gọi video</string>
+	<string name="text_message_friend">Tin nhắn</string>
+	<string name="text_setting_friend">Thêm</string>
+	<string name="text_personal_info_friend">Thông tin cá nhân</string>
+	<string name="text_award_friend">Phần thưởng:</string>
+	<string name="text_username_friend">Tên người dùng:</string>
+	<string name="text_network_friend">Mạng lưới:</string>
+	<string name="text_birthday_friend">Ngày sinh:</string>
+	<string name="text_city_friend">Thành phố/Quốc gia:</string>
+	<string name="text_language_friend">Ngôn ngữ:</string>
+	<string name="text_contact_info_friend">Thông tin liên hệ:</string>
+	<string name="text_phone_friend">Điện thoại:</string>
+	<string name="text_empty_friend">---</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_edit_avatar_profile">プロフィール画像を編集</string>
+	<string name="text_cancel_edit_avatar_profile">キャンセル</string>
+	<string name="text_done_edit_avatar_profile">完了</string>
+</resources>

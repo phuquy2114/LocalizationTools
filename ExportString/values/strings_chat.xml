@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_suggest">Recommend</string>
+	<string name="text_title_chat">Chat</string>
+	<string name="text_more_chat_invite">Invite</string>
+	<string name="text_more_chat_notification_off">Disable notifications</string>
+	<string name="text_more_chat_notification_on">Enable notifications</string>
+	<string name="text_more_chat_denine_friend">Block</string>
+	<string name="text_more_chat_unblock_friend">Unblock</string>
+	<string name="text_more_chat_member_list">Member</string>
+	<string name="text_line_pro_chat_edit_sticker_go_to_shop">Shop</string>
+	<string name="text_line_pro_chat_edit_sticker_open">Open</string>
+	<string name="text_more_chat_create_group">Creat group</string>
+	<string name="text_more_chat_leave_room">Leave the room</string>
+	<string name="text_more_chat_leave_group">Leave the group</string>
+	<string name="text_more_group_chat_dine">Refuse</string>
+	<string name="text_more_group_chat_join">Join</string>
+	<string name="text_more_chat_notes">Note</string>
+	<string name="text_more_chat_albums">Album</string>
+	<string name="text_more_chat_image">Photos</string>
+	<string name="text_more_chat_edit_message">Edit message</string>
+	<string name="text_more_chat_setting">Setting</string>
+	<string name="text_more_chat_edit_room_name">Rename</string>
+	<string name="text_setting_chat">Create  conversation</string>
+	<string name="text_setting_encode_message">Encryption key</string>
+	<string name="text_setting_background_title">Background setting</string>
+	<string name="text_setting_chat_album">Album</string>
+	<string name="text_setting_chat_remove_conversation">Delete all chat history </string>
+	<string name="text_setting_chat_description">Send conversation by file</string>
+	<string name="text_setting_chat_image">Take a photo</string>
+	<string name="text_setting_chat_image_quality">The quality of picture sent</string>
+	<string name="text_setting_chat_current_background">Apply the background image of the current theme</string>
+	<string name="text_setting_chat_current_background_content">Apply the current theme background to all chats that have no its own custom background yet.</string>
+	<string name="text_setting_chat_group_title">Chat settings</string>
+	<string name="text_setting_chat_group_member_list">Member-list</string>
+	<string name="text_setting_chat_group_post_timeline">Posts notification</string>
+	<string name="text_setting_chat_group_post_timeline_description">Change your notification settings for likes and comments on your notes.</string>
+	<string name="text_setting_chat_group_qr_line_invite">Invite by link /QR code</string>
+	<string name="text_setting_chat_group_qr_line_invite_description">Use group invitation link and QR code to allow users to join this group.</string>
+	<string name="text_setting_chat_group_chat_history">Conversation history</string>
+	<string name="text_setting_chat_group_chat_history_description">Send conversation history</string>
+	<string name="text_setting_chat_group_remove_chat_history">Delete conversation history</string>
+	<string name="text_setting_chat_group_report">Notification</string>
+	<string name="text_setting_chat_group_leave_group">Leave the group</string>
+	<string name="text_setting_chat_create_room_title">Create chat rooms</string>
+	<string name="text_map_address">Address</string>
+	<string name="text_edit_message_notify_accept_remove_room">If you delete your chat history, you will not be able to review it. Do you want to delete?</string>
+	<string name="text_edit_hide_conversation_confirm_notification">Do you want to hide this conversation?</string>
+	<string name="text_un_friend_room_notification">This user has not been added as a friend. Please note it when sending a message.</string>
+	<string name="text_chat_block_hint">Blocking</string>
+	<string name="text_confirm_leave_group">Do you want to leave this group?</string>
+	<string name="text_send_message_chat"><font size="12">Type your message</font></string>
+	<string name="text_cancel_audio_record">Release your hand to cancel</string>
+	<string name="text_record_audio">Hold to record. Slide left to cancel</string>
+	<string name="text_title_hide_friend">Turn on to show your friends !</string>
+	<string name="text_image_together_image">General picture</string>
+	<string name="text_media_youtube">Youtube</string>
+	<string name="text_media_sound_cloud">Sound Cloud</string>
+	<string name="text_notify_unblock_to_enable_feature">Unblock %1$s to use this feature</string>
+	<string name="text_notify_block_friend">Are you sure you want to block this user?</string>
+	<string name="text_notify_video_is_playing">This video are playing</string>
+	<string name="text_group_pending_member">Waiting for confirmation</string>
+	<string name="text_notify_user_is_kick_out_group">You have been removed from the group</string>
+	<string name="text_confirm_sync_request_video">Do you want to sent synchronize video request?</string>
+	<string name="text_confirm_send_image_message">Do you want to send the image message?</string>
+	<string name="text_group_setting_user_dont_edit_group_notify">Have no change to save.</string>
+	<string name="text_member_list_public_room">Members</string>
+	<string name="text_member_list_group_room">Members</string>
+	<string name="text_select_friend_to_create_room">Select friend</string>
+	<string name="a_joined_group">%1$s has joined the group。</string>
+	<string name="a_invite_b_into_group">%1$s has invited %2$s.</string>
+	<string name="a_leave_group">%1$s has left the group.</string>
+	<string name="a_change_group_avatar">%1$s has changed the group profile picture.</string>
+	<string name="a_change_group_name_to_b">%1$s has changed the group name to%2$s </string>
+	<string name="a_create_group">%1$s has created the group.</string>
+	<string name="a_remove_b_group">%1$s has removed %2$s from the group.</string>
+	<string name="a_add_b_into_group">%1$s has added %2$s into group.</string>
+	<string name="a_request_sync_video">%1$s has sent Sync video request</string>
+	<string name="a_accept_sync_video">%1$s has agreed to Sync video</string>
+	<string name="text_a_play_video">%1$s has played video</string>
+	<string name="text_a_pause_video">%1$s has paused video</string>
+	<string name="text_a_close_video">%1$s has disabled sync mode</string>
+	<string name="text_a_seek_video">%1$s has fringed video</string>
+	<string name="text_notify_receiver_sync_video_request">%1$s has sent Sync video request</string>
+	<string name="text_notify_receiver_sync_video_request_accpet">Agree</string>
+	<string name="text_notify_receiver_sync_video_request_reject">Refuse</string>
+	<string name="text_sync_video_off_sync_before_open_new_video">Do you want to disable video synchronized mode?</string>
+	<string name="text_confirm_off_sync_video">Do you want to disable Sync mode?</string>
+	<string name="call_missed">Miss call</string>
+	<string name="call_rejected">Refuse</string>
+	<string name="call_no_answer">No reply</string>
+	<string name="cancel_call">Cancel</string>
+	<string name="text_notify_video_over_one_minute">Video không được quá 1 phút</string>
+	<string name="text_notify_dont_select_over_ten_item">Đã vượt quá số lượng cho phép</string>
+	<string name="text_confirm_request_friend_contact">Bạn có muốn kết bạn với %1$s</string>
+	<string name="text_notify_contact_is_friend">Đã gởi yêu cầu kết bạn đến %1$s</string>
+	<string name="text_notify_contact_is_block_friend">bạn đang chặn %1$s</string>
+	<string-array name="more_chat_private_room">
+		<item>@string/text_more_chat_invite</item>
+		<item>@string/text_more_chat_notes</item>
+		<item>@string/text_more_chat_albums</item>
+		<item>@string/text_more_chat_image</item>
+		<item>@string/text_more_block</item>
+		<item>@string/text_more_chat_notification_off</item>
+	</string-array>
+	<string-array name="more_chat_public_room">
+		<item>@string/text_more_chat_invite</item>
+		<item>@string/text_more_chat_member_list</item>
+		<item>@string/text_more_chat_image</item>
+		<item>@string/text_more_chat_leave_room</item>
+		<item>@string/text_more_chat_notification_off</item>
+	</string-array>
+	<string-array name="more_chat_official_room">
+		<item>@string/text_more_chat_notification_off</item>
+	</string-array>
+	<string-array name="more_chat_group_room">
+		<item>@string/text_more_chat_invite</item>
+		<item>@string/text_more_chat_member_list</item>
+		<item>@string/text_more_chat_notes</item>
+		<item>@string/text_more_chat_albums</item>
+		<item>@string/text_more_chat_image</item>
+		<item>@string/text_more_chat_setting</item>
+		<item>@string/text_more_chat_leave_group</item>
+		<item>@string/text_more_chat_notification_off</item>
+	</string-array>
+</resources>

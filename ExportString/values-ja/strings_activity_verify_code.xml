@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_send_an_authentication_code">以下の電話番号にテキストメッセージで認証コードを送信しました。</string>
+	<string name="text_retransmit_SMS">分以内にSMSを再送</string>
+	<string name="text_edit_phone_number">分以内に電話番号を編集</string>
+</resources>

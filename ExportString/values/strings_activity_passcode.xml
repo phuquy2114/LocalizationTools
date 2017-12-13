@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_passcode_tutor">Ghi nhớ mã PIN để xem lại trò chuyện\n Trò chuyện sẽ mất nếu bạn quên mã PIN.</string>
+	<string name="text_title_passcode">Nhập mã PIN</string>
+	<string name="use_question_get_pass">Hãy sử dụng câu hỏi bảo mật để lấy lại mật khẩu</string>
+	<string name="select_question">Chọn câu hỏi:</string>
+	<string name="text_answer">Câu trả lời:</string>
+	<string name="text_use_question">Hãy sử dụng câu hỏi bảo mật để lấy lại mật khẩu. Bạn có muốn sử dụng câu hỏi bảo mật?</string>
+	<string name="enter_password">Nhập mật khẩu</string>
+	<string name="password_confirm">Xác nhận mật khẩu</string>
+	<string name="try_pass_again">Mật khẩu xác nhận không đúng. Vui lòng thử lại.</string>
+</resources>

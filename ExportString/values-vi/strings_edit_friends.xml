@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_screen_edit_friend">Chỉnh sửa bạn bè</string>
+	<string name="text_invitation_edit_friend">Mời</string>
+	<string name="text_edit_friend_block">Chặn</string>
+	<string name="text_edit_friend_hide">Ẩn</string>
+	<string name="text_edit_search" />
+	<string name="text_check_invite_friend">Vui lòng chọn ít nhất 1 người bạn</string>
+</resources>

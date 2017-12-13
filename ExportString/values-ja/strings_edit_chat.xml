@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_edit_chat">チャット一覧編集</string>
+	<string name="text_edit_save">保存</string>
+	<string name="text_edit_hide">非表示</string>
+	<string name="text_edit_remove">削除</string>
+</resources>

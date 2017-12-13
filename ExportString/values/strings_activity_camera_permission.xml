@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_take_picture_c">Take a photo</string>
+	<string name="text_description_c">Please allow Cosy to access to your camera.</string>
+	<string name="text_not_allowed_c">Not allowed</string>
+	<string name="text_ok_c">OK</string>
+</resources>

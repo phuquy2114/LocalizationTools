@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_setting_group_title">グループ設定</string>
+	<string name="text_edit_member_group">編集</string>
+</resources>

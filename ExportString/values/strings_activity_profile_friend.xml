@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_call_history">Sound call</string>
+	<string name="text_voice_call_history">Video call</string>
+	<string name="text_message_friend">Message</string>
+	<string name="text_setting_friend">Add</string>
+	<string name="text_personal_info_friend">Personal information</string>
+	<string name="text_award_friend">Award:</string>
+	<string name="text_username_friend">Username:</string>
+	<string name="text_network_friend">Network:</string>
+	<string name="text_birthday_friend">Date of birth:</string>
+	<string name="text_city_friend">City/Country:</string>
+	<string name="text_language_friend">Language:</string>
+	<string name="text_contact_info_friend">Contact information: </string>
+	<string name="text_phone_friend">Phone number</string>
+	<string name="text_empty_friend">---</string>
+</resources>

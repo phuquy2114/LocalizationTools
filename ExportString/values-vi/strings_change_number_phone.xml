@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_connect_click_change_phone">Thao tác này sẽ thay đổi số điện thoại mà bạn đã đăng ký trong Cosy. Chạm vào nút bên dưới để tiếp tục.</string>
+	<string name="text_confirm_number_phone">Xác nhận số điện thoại</string>
+	<string name="text_enter_phone_tv_dropdown">Vietnamese</string>
+	<string name="text_change_phone_number_rules"> Để thay đổi số điện thoại, bạn phải xác minh số mới. Bằng cách chạm vào "Xác minh số điện thoại", bạn đồng ý với Điều khoản và điều kiện sử dụng và Chính sách quyền riêng tư của Cosy.</string>
+	<string name="text_register_change_number_authentication">Mã xác nhận</string>
+	<string name="text_change_number_sms"> Hãy nhập mã xác nhận đã được nhận qua SMS.\n Nếu vẫn không nhận được mã xác nhận, bạn hãy thử các cách sau. Gửi lại Mã</string>
+	<string name="text_enter_phone_error_max">Số điện thoại không đúng.</string>
+	<string name="text_next">Tiếp</string>
+</resources>

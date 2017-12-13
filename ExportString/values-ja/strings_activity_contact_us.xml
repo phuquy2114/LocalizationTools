@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_description_contact">以下のメールにパルワードを再設定する案内メールを送信されました：
+ \n longtran22@yopmail.com.
+  \n あなたのアカウントのパスワードを再設定するために、メールをチェックしてください。</string>
+	<string name="text_need_help_contact">お困りですか？</string>
+	<string name="text_contact_us_c">お問い合わせ</string>
+</resources>

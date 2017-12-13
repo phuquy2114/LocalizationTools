@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_hint_verify_code">認証コード</string>
+	<string name="text_verify_title_change_email">メールアドレス変更</string>
+	<string name="text_description_verify">認証コードが届かない場合\n
+1. メールアドレスの確認\n
+2. 下書きフォルダの確認\n
+3. 下記の方法お試し</string>
+	<string name="text_re_verify_code">再送信</string>
+	<string name="text_re_email">送信</string>
+</resources>

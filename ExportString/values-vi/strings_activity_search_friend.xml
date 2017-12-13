@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_cancel_search">Hủy</string>
+	<string name="text_chat_search">Tìm kiếm</string>
+	<string name="text_friend_Search">Bạn bè</string>
+	<string name="text_featured_search">Tìm kiếm</string>
+	<string name="text_features_search">Tìm kiếm</string>
+	<string name="text_search_friend_location">Tìm bạn gần đây</string>
+</resources>

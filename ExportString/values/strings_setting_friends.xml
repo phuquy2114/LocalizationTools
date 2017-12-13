@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_setting_friend_title">Friend</string>
+	<string name="text_setting_friend_request">Friend request</string>
+	<string name="text_setting_friend_request_accept">Accept</string>
+	<string name="text_setting_friend_request_reject">Reject</string>
+	<string name="text_setting_friend_receive_request_tab">Received</string>
+	<string name="text_setting_friend_send_request_tab">Sent</string>
+	<string name="text_setting_friend_receive_request_no_data">You have not received any friend requests.</string>
+	<string name="text_setting_friend_send_request_no_data">You have not sent any friend requests yet.</string>
+	<string name="text_setting_friend_add_friend">Add friend</string>
+	<string name="text_setting_friend_allow_add_friend">Allow adding friends</string>
+	<string name="text_setting_friend_hidden_list">The list is hidden</string>
+	<string name="text_setting_friend_refresh_add_friend_more">The system will automatically add the people listed in the contacts to your friends list. If you want to add friend by yourself, press the Refresh button.</string>
+	<string name="text_setting_friend_search_addfriend_auto">Allow other use to search and make friends automatically with me  by my phone number.</string>
+	<string name="text_setting_friend_hidden_no_data">No hidden friends</string>
+	<string name="text_setting_friend_hidden_title">The list is hidden</string>
+	<string name="text_edit_hide_friend">Edit</string>
+	<string name="text_un_hide_friend">Display</string>
+	<string name="text_delete_friend">Delete</string>
+	<string name="text_setting_friend_block_list">Blocked list</string>
+	<string name="text_setting_friend_block_no_data">No blocked friends</string>
+	<string name="text_un_block_friend">Unblock</string>
+</resources>

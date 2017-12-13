@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_username_and_password">" You can login Cosy on your smartphone, tablet and PC by registered username or email address  and your password."</string>
+	<string name="text_reset_username_or_password">Click here if you forgot username or password. </string>
+	<string name="text_title_error">Login trouble. </string>
+</resources>

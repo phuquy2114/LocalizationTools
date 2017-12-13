@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_connect_click_change_phone">Cosyに登録されている電話番号を変更します。続行する場合は「次へ」をタップしてください。</string>
+	<string name="text_confirm_number_phone">番号認証</string>
+	<string name="text_enter_phone_tv_dropdown">ベトナム</string>
+	<string name="text_change_phone_number_rules">電話番号を変更するためには、電話番号の認証が必要です。Cosyの利用規約およびプライバシーポリシーにご同意の上、「番号認証」のボタンを押してください。</string>
+	<string name="text_register_change_number_authentication">認証コード</string>
+	<string name="text_change_number_sms">SMSで届いた認証番号を入力してください。\n SMSが届いない場合は、以下の方法を試してください。
+再送信</string>
+	<string name="text_enter_phone_error_max">不正な電話番号です。</string>
+	<string name="text_next">次へ</string>
+</resources>

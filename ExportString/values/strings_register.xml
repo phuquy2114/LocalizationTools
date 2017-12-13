@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_register_add_friend_title">"Ents registration "</string>
+	<string name="text_reason_register_my_app_question">Why you should join Ents ?</string>
+	<string name="text_reason_register_my_app_answer">Ents is an appliction that completely free and shares more than 70% revenue / profit for you. From earned income, you can donate to one of the 2,000 charities in 110 countries or withdraw money for yourself. The choice is in your hands!</string>
+	<string name="text_register_my_app_slogan">Why should you join Cosy ?</string>
+	<string name="what_the_application_has_unique">What\'s unique of Cosy?</string>
+	<string name="text_unique_my_app_one">1. Make money while communicating with society: We share more than 70% of our revenue with the community.</string>
+	<string name="text_unique_my_app_two">2. Use your income to work well through Charitable Organizations.</string>
+	<string name="text_unique_my_app_three">3. Withdraw money to your bank, credit card or PayPal account</string>
+	<string name="text_unique_my_app_four">4. International calls at the lowest rates; Free phone calls and video calls between phone numbers</string>
+	<string name="text_unique_my_app_five">Privacy Mode: Use the best security feature, in there, the messages will be automatically deleted when you end the chat. / n Sincerely.</string>
+	<string name="text_register_free_feature_content">Cosy is a free application and you can earn extra income without having to spend any amount of money. Moreover, calls among numbers in Cosy are also free!</string>
+	<string name="text_register_free_feature_header">Completely free</string>
+	<string name="text_register_make_money_feature_content">Get rewards for everything that you and your level 8 network do on Ents. We share more than 70% of our total revenue / profit!</string>
+	<string name="text_register_make_money_feature_header">Income</string>
+	<string name="text_register_contribute_feature_content">Transfer coins to real money when you donate to one of the 2,000 charities or withdraw money.</string>
+	<string name="text_register_contribute_feature_header">Donation or Withdrawal</string>
+	<string name="text_please_see_comment">Cosy is favorite in all over the world! See reviews from the community.</string>
+	<string name="text_register_my_app_description_one">Cosy based on \ "Cosysism \"</string>
+	<string name="text_register_my_app_description_two">Ents is a new economic system in which the majority of economic benefits are shared with the community. And then, the community continues to share to help the world.</string>
+	<string name="text_register_invite">Get an invitation at Ents</string>
+	<string name="text_register_invite_content">"The fastest way to join Ents is from a friend\'s personal page or simply sign up with help from one of our featured members:"</string>
+	<string name="text_register_load_more_friend">Add friends</string>
+	<string name="text_register_create_account_enter_mail"><font size="12">Email</font></string>
+	<string name="text_register_create_account_enter_login_name"><font size="12">username</font></string>
+	<string name="text_register_create_account_enter_password"><font size="12">Password (Hơn 6 ký tự)</font></string>
+	<string name="text_register_create_account_confirm_password"><font size="12">Re-type password</font></string>
+	<string name="text_register_create_account_button">Create an account</string>
+	<string name="text_register_notify_for_policy">By continuing, you agree to:</string>
+	<string name="text_register_notify_for_policy_link"><u>Terms and Conditions of use of Cosy</u></string>
+	<string name="text_register_please_enter_full_information">Enter information fully</string>
+	<string name="text_username_length">Name must be more than 3 characters</string>
+	<string name="text_email_validate">Invalid email</string>
+	<string name="text_email_first_phone">Please select the area phone number code</string>
+	<string name="text_register_password_wrong">Confirm password failed</string>
+	<string name="text_remind_user_enter_password_over_six_character">Enter a password that is more than 6 characters</string>
+	<string name="text_create_account_title">Create an account</string>
+	<string name="text_welcome_app_title">Let\'s customize Ents for a better experience</string>
+	<string name="text_start_app">Start</string>
+	<string name="text_select_friend_title">Cosy registration</string>
+</resources>

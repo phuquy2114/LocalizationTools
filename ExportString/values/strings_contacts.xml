@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_call_start">Free calls!</string>
+	<string name="text_call_slogan">Make voice calls, video calls freely with your friends with Free Calls Ents.</string>
+	<string name="text_call_call_to_contacts">Search contacts</string>
+	<string name="text_call_search_contact">Search</string>
+	<string name="text_call_contact_title">Contacts</string>
+	<string name="text_permission_contacts">Please accept access to your contacts. Click allow to continue</string>
+</resources>

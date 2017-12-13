@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_edit_search_friend" />
+	<string name="text_friend_hide">Ẩn</string>
+	<string name="text_friend_delete">Xóa</string>
+	<string name="text_friend_block">Chặn</string>
+	<string name="text_friend_add">Thêm</string>
+	<string name="text_friend_leave">Rời</string>
+	<string name="text_friend_id">Chưa cài đặt</string>
+	<string name="text_friend_official_account">Tài khoản chính thức</string>
+	<string name="text_friend_official_account_follow">Đang theo dõi</string>
+	<string name="text_friend_official_account_all">Tất cả</string>
+	<string name="text_friend_create_group">Tạo Nhóm </string>
+	<string name="text_friend_profile">Hồ sơ</string>
+	<string name="text_friend_group_pending">Nhóm đã mời tôi</string>
+	<string name="text_friend_friend_new">Bạn mới</string>
+	<string name="text_friend_recommend">Gợi ý</string>
+	<string name="text_friend_favorite">Bạn thân</string>
+	<string name="text_friend_group">Nhóm</string>
+	<string name="text_friend_friends">Bạn bè</string>
+	<string name="text_hint_search_friend">Nhập tên để tìm kiếm</string>
+	<string name="text_invite_friend_facebook">Chọn ứng dụng để mời</string>
+	<string name="text_install_message">Cài đặt facebook messenger để mời bạn bè</string>
+	<string name="text_official_account_bap" />
+	<string name="array_friend" />
+	<string name="array_group" />
+	<string name="array_official_account" />
+</resources>

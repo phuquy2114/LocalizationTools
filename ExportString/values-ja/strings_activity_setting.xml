@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_profile_setting">プロフィール</string>
+	<string name="text_account_setting">アカウント</string>
+	<string name="text_timeline_setting">タイムライン</string>
+	<string name="text_notification_setting">通話・メッセージ</string>
+	<string name="text_send_feedback_setting">友達管理</string>
+	<string name="text_image_and_video_setting">写真と動画</string>
+	<string name="text_logout">ログアウト</string>
+	<string name="text_setting_notify_logout">ログアウトしてもよろしいですか？</string>
+</resources>

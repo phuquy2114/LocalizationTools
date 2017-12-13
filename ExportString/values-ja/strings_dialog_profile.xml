@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_username">Hoai Thuong</string>
+	<string name="text_id">ID</string>
+	<string name="text_name_id">Hoaithuong1020</string>
+	<string name="text_setting_profile">プロファイル設定</string>
+	<string name="text_home_profile">ホーム</string>
+	<string name="text_husband_setting">未設定</string>
+	<string name="text_input_id">IDを更新するためにタッピング</string>
+</resources>

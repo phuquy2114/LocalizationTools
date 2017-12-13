@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_setting_friend_title">Bạn bè</string>
+	<string name="text_setting_friend_request">Yêu cầu bạn bè</string>
+	<string name="text_setting_friend_request_accept">Đồng ý</string>
+	<string name="text_setting_friend_request_reject">Từ chối</string>
+	<string name="text_setting_friend_receive_request_tab">Đã nhận</string>
+	<string name="text_setting_friend_send_request_tab">Đã gửi</string>
+	<string name="text_setting_friend_receive_request_no_data">Bạn chưa nhận được bất kỳ yêu cầu kết bạn nào.</string>
+	<string name="text_setting_friend_send_request_no_data">Bạn chưa gửi bất kỳ yêu cầu kết bạn nào.</string>
+	<string name="text_setting_friend_add_friend">Thêm bạn bè</string>
+	<string name="text_setting_friend_allow_add_friend">Cho phép thêm bạn bè</string>
+	<string name="text_setting_friend_hidden_list">Danh sách bị ẩn</string>
+	<string name="text_setting_friend_refresh_add_friend_more">Hệ thống sẽ tự động thêm những người có trong danh bạ vào danh sách bạn bè của bạn. Nếu muốn chủ động thêm bạn, hãy nhấn nút Làm mới.</string>
+	<string name="text_setting_friend_search_addfriend_auto">Cho phép người dùng khác tìm kiếm và kết bạn tự động với tôi bằng số điện thoại của tôi.</string>
+	<string name="text_setting_friend_hidden_no_data">Không có bạn bè ẩn</string>
+	<string name="text_setting_friend_hidden_title">Danh sách bị ẩn</string>
+	<string name="text_edit_hide_friend">Sửa</string>
+	<string name="text_un_hide_friend">Hiển thị</string>
+	<string name="text_delete_friend">Xóa</string>
+	<string name="text_setting_friend_block_list">Danh sách bị chặn</string>
+	<string name="text_setting_friend_block_no_data">Không có bạn bè chặn</string>
+	<string name="text_un_block_friend">Bỏ chặn</string>
+</resources>

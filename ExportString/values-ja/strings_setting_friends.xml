@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_setting_friend_title">友達</string>
+	<string name="text_setting_friend_request">友達リクエスト</string>
+	<string name="text_setting_friend_request_accept">承認</string>
+	<string name="text_setting_friend_request_reject">拒否</string>
+	<string name="text_setting_friend_receive_request_tab">受信済み</string>
+	<string name="text_setting_friend_send_request_tab">送信済み</string>
+	<string name="text_setting_friend_receive_request_no_data">友達リクエストがありません。</string>
+	<string name="text_setting_friend_send_request_no_data">友達申請中がありません</string>
+	<string name="text_setting_friend_add_friend">友達追加</string>
+	<string name="text_setting_friend_allow_add_friend">友達への追加を許可</string>
+	<string name="text_setting_friend_hidden_list">非表示リスト</string>
+	<string name="text_setting_friend_refresh_add_friend_more">システムは「友だち」リストに自動で追加してくれます。自分で友達追加したい場合は、「更新」をクリックしてください。</string>
+	<string name="text_setting_friend_search_addfriend_auto">Cho phếp người dùng khác tìm kiếm và kết bạn tự động với tôi bằng số điện thoại của tôi.</string>
+	<string name="text_setting_friend_hidden_no_data">非表示リストがありません。</string>
+	<string name="text_setting_friend_hidden_title">非表示リスト</string>
+	<string name="text_edit_hide_friend">編集</string>
+	<string name="text_un_hide_friend">表示</string>
+	<string name="text_delete_friend">削除</string>
+	<string name="text_setting_friend_block_list">ブロックしたユーザーの一覧</string>
+	<string name="text_setting_friend_block_no_data">ブロックしたユーザーの一覧がありません。</string>
+	<string name="text_un_block_friend">ブロック削除</string>
+</resources>

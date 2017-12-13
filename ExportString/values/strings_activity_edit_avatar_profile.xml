@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_edit_avatar_profile">Edit your avatar</string>
+	<string name="text_cancel_edit_avatar_profile">Cancel</string>
+	<string name="text_done_edit_avatar_profile">Done</string>
+</resources>

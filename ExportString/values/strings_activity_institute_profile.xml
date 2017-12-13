@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_institute_profile">Profile setting</string>
+	<string name="text_personal_information_institute_profile">Personal information</string>
+	<string name="text_name_institute_profile"><font size="12">First name</font></string>
+	<string name="text_last_name_institute_profile"><font size="12">Last name</font></string>
+	<string name="text_birthday_institute_profile">Date of birth</string>
+	<string name="text_select_birthday_institute_profile">Select date </string>
+	<string name="text_gender_institute_profile">Sex</string>
+	<string name="text_continue_institute_profile">Next</string>
+	<string name="text_done_institute_profile">Done</string>
+	<string name="text_cancel_institute_profile">Cancel</string>
+	<string name="text_male">Male</string>
+	<string name="text_female">Female</string>
+	<string name="text_select_institute">Select</string>
+	<string name="text_title_dialog_check_year">Please select a valid date. You must be at least 13 years old to continue.</string>
+	<string name="text_ok_check_year">OK</string>
+	<string name="text_first_name_validate">Please enter your first name</string>
+	<string name="text_last_name_validate">Please enter your last name</string>
+	<string name="text_birthday_validate">Please select your date of birth</string>
+	<string name="text_gender_validate">Please select your sex</string>
+</resources>

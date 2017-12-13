@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_screen_feedback">Feedback</string>
+	<string name="text_feedback_title_feedback">What do you want us know?</string>
+	<string name="text_feedback_title_two_feedback">The feedback you send us not include your personal information. </string>
+	<string name="text_please_input_content">Please enter your feedback. </string>
+</resources>

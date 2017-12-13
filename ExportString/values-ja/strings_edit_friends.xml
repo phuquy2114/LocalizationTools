@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_screen_edit_friend">友達編集</string>
+	<string name="text_invitation_edit_friend">招待</string>
+	<string name="text_edit_friend_block">ブロック</string>
+	<string name="text_edit_friend_hide">非表示</string>
+	<string name="text_edit_search" />
+	<string name="text_check_invite_friend">友達を選択してください。</string>
+</resources>

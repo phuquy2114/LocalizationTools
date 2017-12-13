@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_tutorial_friend_one">Touch to Create group</string>
+	<string name="text_tutorial_friend_two">Touch to Add friends</string>
+	<string name="text_tutorial_chat_one">Enable Chat with friends</string>
+	<string name="text_tutorial_chat_two">Touch to Create conversation</string>
+	<string name="text_tutorial_chat_three">Select to see features</string>
+	<string name="text_tutorial_chat_four">Select to make free video call</string>
+	<string name="text_tutorial_chat_five">Touch to send more</string>
+	<string name="text_tutorial_chat_six">Touch to enter the message</string>
+	<string name="text_tutorial_chat_seven">Touch to record</string>
+	<string name="text_tutorial_timeline_one">Enter to write status</string>
+	<string name="text_tutorial_timeline_two">Touch to see notifications</string>
+	<string name="text_tutorial_connect_one">Touch to Create club</string>
+</resources>

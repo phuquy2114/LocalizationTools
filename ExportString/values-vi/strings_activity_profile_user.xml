@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_email">Email:</string>
+	<string name="text_message_user">Tin nhắn</string>
+	<string name="text_setting_user">Cài đặt</string>
+	<string name="text_personal_info_user">Thông tin cá nhân</string>
+	<string name="text_award_user">Phần thưởng:</string>
+	<string name="text_username_user">Tên người dùng:</string>
+	<string name="text_number_phone_user">Số Điện thoại:</string>
+	<string name="text_status">Thông báo trạng thái</string>
+	<string name="text_empty_user">Chưa thiết lập </string>
+	<string name="text_id_user">ID</string>
+	<string name="text_qr_code">Mã QR</string>
+</resources>

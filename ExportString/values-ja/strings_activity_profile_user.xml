@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_email">メールアドレス：</string>
+	<string name="text_message_user">メッセージ</string>
+	<string name="text_setting_user">設定</string>
+	<string name="text_personal_info_user">個人情報</string>
+	<string name="text_award_user">賞：</string>
+	<string name="text_username_user">ユーザー名：</string>
+	<string name="text_number_phone_user">電話番号：</string>
+	<string name="text_status">ステータス通知</string>
+	<string name="text_empty_user">未設定</string>
+	<string name="text_id_user">ID</string>
+	<string name="text_qr_code">QRコ―ド</string>
+</resources>

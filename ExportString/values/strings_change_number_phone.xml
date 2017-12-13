@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_connect_click_change_phone">This click will change your registered phone number in Cosy. Click the button below to continue.</string>
+	<string name="text_confirm_number_phone">Confirm your phone number</string>
+	<string name="text_enter_phone_tv_dropdown">Vietnamese</string>
+	<string name="text_change_phone_number_rules">To change the phone number, you must verify the new phone number. By touching "Verify Phone Number", you agree to the Cosy Terms of Use and Privacy Policy.</string>
+	<string name="text_register_change_number_authentication">Confirmation code</string>
+	<string name="text_change_number_sms">Please enter the confirmation code received via SMS. \n If you still do not receive the confirmation code, try the following way. Resend code</string>
+	<string name="text_enter_phone_error_max">Invalid phone number</string>
+	<string name="text_next">Next </string>
+</resources>

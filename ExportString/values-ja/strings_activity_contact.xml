@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_contact_request_send">連絡先を送信しました</string>
+	<string name="text_personal_information_contact">個人情報</string>
+	<string name="text_award_contact">賞</string>
+	<string name="text_network_contact">ネットワーク</string>
+	<string name="text_gender_contact">性別</string>
+	<string name="text_city_contact">市・国</string>
+	<string name="text_remove_contact">連絡先から削除</string>
+	<string name="text_cancel_remove_contact">キャンセル</string>
+</resources>

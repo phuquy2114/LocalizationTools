@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_timeline">タイムライン</string>
+	<string name="text_time_line_hide_post">投稿を非表示</string>
+	<string name="text_timeline_report">投稿を報告</string>
+	<string name="text_edit_timeline_a_post">投稿を編集</string>
+	<string name="text_delete">削除</string>
+	<string name="text_report_send_message">送信しました。</string>
+	<string name="text_request_button_delete_post">この投稿は削除され、全てコメントを削除されます。本当に削除しますか？</string>
+	<string name="text_timeline_home_posts">投稿</string>
+	<string name="text_timeline_home_post">投稿</string>
+	<string name="arr_edit_timeline_friend_post" />
+	<string name="arr_edit_note_post" />
+	<string name="arr_edit_timeline_home" />
+	<string name="arr_edit_timeline_my_post" />
+	<string name="arr_edit_timeline_detail_friend_post" />
+	<string name="arr_edit_timeline_detail_my_post" />
+	<string name="text_my_timeline_edit_profile">プロフィール設定</string>
+	<string name="text_my_timeline_capture_home_image">写真を取る</string>
+	<string name="text_my_timeline_select_home_image">画像を選択</string>
+	<string name="string_report_title">報告</string>
+	<string name="string_remove_account">アカウントを停止しますか？</string>
+	<string name="text_test_timeline_user_name">Chi Nguyen</string>
+	<string name="text_test_timeline_time">ちょうど今</string>
+	<string name="text_test_timeline_status">Da nang toi yeu!!!!</string>
+	<string name="number_like">%1$sいいね</string>
+	<string name="number_comment">%1$sコメント</string>
+	<string name="text_timeline_and_number_member">。。。と%1$s他の人</string>
+	<string name="text_timeline_with_user_tag">と</string>
+	<string name="text_timeline_at_map">場所</string>
+	<string name="text_timeline_show_old_comment">過去のコメントを見る</string>
+	<string name="text_timeline_unknown_user">UnKnown</string>
+	<string name="text_add">+%1$s</string>
+	<string name="text_read_more">Read more</string>
+</resources>

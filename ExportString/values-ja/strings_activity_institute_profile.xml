@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_institute_profile">プロフィール設定</string>
+	<string name="text_personal_information_institute_profile">個人情報</string>
+	<string name="text_name_institute_profile" />
+	<string name="text_last_name_institute_profile" />
+	<string name="text_birthday_institute_profile">生年月日</string>
+	<string name="text_select_birthday_institute_profile">生年月日を選択</string>
+	<string name="text_gender_institute_profile">性別</string>
+	<string name="text_continue_institute_profile">続け</string>
+	<string name="text_done_institute_profile">完了</string>
+	<string name="text_cancel_institute_profile">キャンセル</string>
+	<string name="text_male">男性</string>
+	<string name="text_female">女性</string>
+	<string name="text_select_institute">選択</string>
+	<string name="text_title_dialog_check_year">生年月日に有効な日付を入力してください。続行するには満13歳以上でなければなりません。</string>
+	<string name="text_ok_check_year">OK</string>
+	<string name="text_first_name_validate">名前を入力してください</string>
+	<string name="text_last_name_validate">姓を入力してください</string>
+	<string name="text_birthday_validate">生年月日を選択してください。</string>
+	<string name="text_gender_validate">性別を選択してください。</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_help_invitation">Tôi sử dụng Lời mời nhận được như thế nào?</string>
+	<string name="text_description_help">"Quyền truy cập  được cấp dựa trên lời mời, vì vậy, xin chúc mừng bạn đã nhận được lời mời tham gia  Cosy. \n\nĐể tham gia, nhấp vào liên kết trong thư mời bạn nhận được để truy cập vào Trang cá nhân của người mời. Nhấp vào nút \"Tham gia\" trên trang đó. Tiếp theo, bạn sẽ cần phải xác nhận địa chỉ email và tên người dùng của bạn, và nhập mật khẩu mới. \n\n Khi đã tạo tài khoản, hãy tải ứng dụng về di động, máy tính bảng hoặc máy tính bàn. \n\nVẫn cần trợ giúp\n\n Đừng ngần ngại liên hệ với chúng tôi .support@ Cosy.comCosy "</string>
+</resources>

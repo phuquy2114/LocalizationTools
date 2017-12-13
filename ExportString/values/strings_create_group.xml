@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_tabs_add_friend_list">Member</string>
+	<string name="text_create_group_note">You can only invite up to 499 people in a chat room.\n
+       You can invite your friends to join the group and chat with all the members of the group. 
+    \n -Share your photos in the album.\n  -Save all types of important information into groups as notes. \n
+        -Albums and notes are not deleted when the chat room is deleted.</string>
+	<string name="length_number">0/20</string>
+	<string name="text_add_to_friends">Add</string>
+	<string name="text_save_group">Save </string>
+	<string name="text_title_create_group">Create group</string>
+	<string name="text_validate_create_group">Please enter a group name</string>
+	<string name="text_name_create_group"><font size="12">Group name</font></string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_cancel_search">キャンセル</string>
+	<string name="text_chat_search">検索</string>
+	<string name="text_friend_Search">友達</string>
+	<string name="text_featured_search">検索</string>
+	<string name="text_features_search">検索</string>
+	<string name="text_search_friend_location">最近の検索</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_contact_request_send">Đã gửi yêu cầu liên lạc</string>
+	<string name="text_personal_information_contact">Thông tin cá nhân</string>
+	<string name="text_award_contact">Phần thưởng:</string>
+	<string name="text_network_contact">Mạng lưới:</string>
+	<string name="text_gender_contact">Giới tính:</string>
+	<string name="text_city_contact">Thành phố/Quốc gia:</string>
+	<string name="text_remove_contact">Xóa khỏi Danh bạ</string>
+	<string name="text_cancel_remove_contact">Hủy</string>
+</resources>

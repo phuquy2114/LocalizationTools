@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_current_location">現在位置</string>
+	<string name="text_nearby_map">位置情報</string>
+	<string name="text_please_input_post">内容を入力してください。</string>
+	<string name="text_title_choose_friend">友達を選択</string>
+	<string name="text_edit_text_hint">内容を入力してください。</string>
+	<string name="text_public">公開</string>
+	<string name="text_status_friend">友達</string>
+	<string name="text_status_only_one">自分のみ</string>
+	<string name="text_group_friend">グループ</string>
+	<string name="text_commend">コメント</string>
+	<string name="text_context_on_timeline">今なにしてる？</string>
+	<string name="text_timeline_gallery_exceeded_photos_message">10ステッカー、画像、動画を添付できます</string>
+	<string name="text_post">登録</string>
+	<string name="text_button_add_sticker">ステッカーをを選択</string>
+	<string name="text_link_add">リンクを追加</string>
+	<string name="insert_link">リンクを入力</string>
+	<string name="insert_link_hint"> . . .URL を入力してください。</string>
+	<string name="insert_link_hint_ok">閉じる</string>
+	<string name="insert_link_hint_cancel">キャンセル</string>
+	<string name="text_link_not_exist">指定されたURL は存在しません。</string>
+	<string name="text_link_invalid">リンクは無効です。</string>
+	<string name="text_video">動画を取る</string>
+	<string name="text_photo">写真を取る</string>
+	<string name="text_gallery">カメラロール</string>
+	<string name="text_video_gallery">動画</string>
+	<string name="text_album">アルバム</string>
+	<string name="text_information_time_5_minute">5分間動画を取ることができます。</string>
+	<string name="text_choose_address_location">Địa điểm mới</string>
+	<string name="text_remove_location">Xoá</string>
+</resources>

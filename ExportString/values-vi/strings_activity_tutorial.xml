@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_tutorial">Cho phép thông báo</string>
+	<string name="text_description_tutorial">Điều này có nghĩa bạn sẽ không bỏ lỡ những tin nhắn quan trọng từ bạn bè.</string>
+	<string name="text_not_allowed_tutorial">Không cho phép</string>
+	<string name="text_ok_tutorial">Cho phép</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_telephone_authentication">Confirm phone number</string>
+	<string name="text_done_phone_country">Done</string>
+	<string name="text_check_country">Please confirm your country code and enter your phone number. </string>
+	<string name="text_phone_number_country">Phone number</string>
+	<string name="text_number_confirmation">Confirm phone number</string>
+	<string name="text_phone_number_correct">Is it exact your phone number ? </string>
+	<string name="text_edit_phone">Edit</string>
+	<string name="text_yes">Yes</string>
+	<string name="text_no">No</string>
+</resources>

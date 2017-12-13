@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_institute_profile">Cài đặt hồ sơ</string>
+	<string name="text_personal_information_institute_profile">Thông tin cá nhân</string>
+	<string name="text_name_institute_profile" />
+	<string name="text_last_name_institute_profile" />
+	<string name="text_birthday_institute_profile">Ngày sinh</string>
+	<string name="text_select_birthday_institute_profile">Chọn ngày sinh</string>
+	<string name="text_gender_institute_profile">Giới tính</string>
+	<string name="text_continue_institute_profile">Tiếp</string>
+	<string name="text_done_institute_profile">Xong</string>
+	<string name="text_cancel_institute_profile">Hủy</string>
+	<string name="text_male">Nam</string>
+	<string name="text_female">Nữ</string>
+	<string name="text_select_institute">Chọn</string>
+	<string name="text_title_dialog_check_year">Vui lòng chọn một ngày sinh hợp lệ. Bạn phải đủ 13 tuổi để tiếp tục.</string>
+	<string name="text_ok_check_year">OK</string>
+	<string name="text_first_name_validate">Vui lòng nhập Tên của bạn</string>
+	<string name="text_last_name_validate">Vui lòng nhập Họ của bạn</string>
+	<string name="text_birthday_validate">Vui lòng chọn ngày sinh của bạn</string>
+	<string name="text_gender_validate">Vui lòng chọn giới tính của bạn</string>
+</resources>

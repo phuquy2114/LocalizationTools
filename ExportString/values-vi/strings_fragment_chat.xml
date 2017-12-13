@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_edit_talk_sort">Sắp xếp trò chuyện</string>
+	<string name="text_reception_time">Thời gian nhận</string>
+	<string name="text_message_unread">Tin nhắn chưa đọc</string>
+	<string name="text_favorite">Bạn thân</string>
+	<string name="text_cancel_sheet">Hủy</string>
+</resources>

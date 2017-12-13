@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_timeline">TimeLine</string>
+	<string name="text_time_line_hide_post">Ẩn bài viết này</string>
+	<string name="text_timeline_report">Báo cáo</string>
+	<string name="text_edit_timeline_a_post">Chỉnh sửa</string>
+	<string name="text_delete">Xoá</string>
+	<string name="text_report_send_message">Đã gửi thông báo</string>
+	<string name="text_request_button_delete_post">Nếu xóa bài viết, tất cả bình luận cũng sẽ bị xóa. Bạn có muốn xóa không?</string>
+	<string name="text_timeline_home_posts">Posts</string>
+	<string name="text_timeline_home_post">Post</string>
+	<string name="arr_edit_timeline_friend_post" />
+	<string name="arr_edit_note_post" />
+	<string name="arr_edit_timeline_home" />
+	<string name="arr_edit_timeline_my_post" />
+	<string name="arr_edit_timeline_detail_friend_post" />
+	<string name="arr_edit_timeline_detail_my_post" />
+	<string name="text_my_timeline_edit_profile">Cài đặt hồ sơ</string>
+	<string name="text_my_timeline_capture_home_image">Chụp ảnh Home</string>
+	<string name="text_my_timeline_select_home_image">Chọn ảnh Home</string>
+	<string name="string_report_title">Báo cáo</string>
+	<string name="string_remove_account">Khoá tài khoản này</string>
+	<string name="text_test_timeline_user_name">Chi Nguyen</string>
+	<string name="text_test_timeline_time">Vua xong</string>
+	<string name="text_test_timeline_status">Da nang toi yeu!!!!</string>
+	<string name="number_like">%1$s lượt thích</string>
+	<string name="number_comment">%1$s bình luận</string>
+	<string name="text_timeline_and_number_member">và %1$s người khác</string>
+	<string name="text_timeline_with_user_tag">Với</string>
+	<string name="text_timeline_at_map">tại</string>
+	<string name="text_timeline_show_old_comment">Xem các bình luận cũ hơn</string>
+	<string name="text_timeline_unknown_user">UnKnown</string>
+	<string name="text_add">+%1$s</string>
+	<string name="text_read_more">Xem thêm</string>
+</resources>

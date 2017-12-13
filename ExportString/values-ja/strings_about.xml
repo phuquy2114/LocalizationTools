@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_name_app" />
+	<string name="text_sub_name" />
+	<string name="text_version_name" />
+	<string name="text_copyright" />
+</resources>

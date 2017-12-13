@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="string_base_url" />
+	<string name="string_base_url_platform" />
+	<string name="string_base_url_chat" />
+	<string name="url_web_view_join" />
+	<string name="url_base_download_sticker" />
+	<string name="url_image_default" />
+	<string name="login_address_endpoint" />
+	<string name="url_youtube_" />
+</resources>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_select">日本</string>
+	<string name="text_phone_number" />
+	<string name="text_guide">
+\"アカウントを作成するためには、電話番号またはFacebookでの認証が必要です。Cosyの利用規約およびプライバシーポリシーにご同意の上、 \"番号認証\"いずれかのボタンをタップしてください。</string>
+	<string name="text_confirm">コードを確認</string>
+</resources>

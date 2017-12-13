@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_edit_friend">Edit friends</string>
+	<string name="text_contact">Contact</string>
+	<string name="text_friend">Friend</string>
+	<string name="text_edit">Edit friends</string>
+	<string name="text_choose_all">Choose all</string>
+	<string name="text_un_choose_all">Unchoose all</string>
+	<string name="tab_bar_tab_title_contact">Invite</string>
+	<string name="tab_bar_tab_title_qrcode">Code</string>
+	<string name="tab_bar_tab_title_search">ID/Phone number</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_description_contact">The instructions for new password setting have been sent to this email address: 
+     \n longtran22@yopmail.com.
+Please check mail and reset your password. </string>
+	<string name="text_need_help_contact">Need help?</string>
+	<string name="text_contact_us_c">Contact us.</string>
+</resources>

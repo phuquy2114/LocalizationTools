@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_name_app">COSY</string>
+	<string name="text_sub_name">Connect happiness</string>
+	<string name="text_version_name">Phiên bản : 1.0.0</string>
+	<string name="text_copyright"><b>@ BAP CO.,LTD</b></string>
+</resources>

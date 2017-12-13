@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_hint_verify_code">Verify code</string>
+	<string name="text_verify_title_change_email">Change email</string>
+	<string name="text_description_verify">You didn\'t get the verify code? \n
+        1. Check again your email. \n
+        2. Check if the email is in the spam or trash folder. \n
+        3. Try again with the way below.
+    </string>
+	<string name="text_re_verify_code">Sen verify code again</string>
+	<string name="text_re_email">Send</string>
+</resources>

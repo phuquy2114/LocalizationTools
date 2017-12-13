@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_tutorial_friend_one">Bấm để tạo nhóm</string>
+	<string name="text_tutorial_friend_two">Bấm để thêm bạn</string>
+	<string name="text_tutorial_chat_one">Bật tính năng cho phép chat với những bạn bè khắp nơi</string>
+	<string name="text_tutorial_chat_two">Bấm để tạo cuộc trò chuyện mới</string>
+	<string name="text_tutorial_chat_three">Chọn để xem thêm tính năng</string>
+	<string name="text_tutorial_chat_four">Chọn để gọi miễn phí</string>
+	<string name="text_tutorial_chat_five">Chạm để gửi nhiều hơn</string>
+	<string name="text_tutorial_chat_six">Chọn để nhập tin nhắn</string>
+	<string name="text_tutorial_chat_seven">Chọn để ghi âm</string>
+	<string name="text_tutorial_timeline_one">Bấm để viết bài</string>
+	<string name="text_tutorial_timeline_two">Bấm để xem thông báo mới</string>
+	<string name="text_tutorial_connect_one">Bấm để tạo club</string>
+</resources>

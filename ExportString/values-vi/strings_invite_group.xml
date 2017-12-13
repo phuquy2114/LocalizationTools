@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_groups_friend">Bạn bè</string>
+	<string name="text_friend_pending">Đang đợi</string>
+	<string name="text_complete">Xong</string>
+</resources>

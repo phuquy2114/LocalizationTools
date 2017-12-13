@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_delete_account">アカウントを削除</string>
+	<string name="text_delete_my_account_warning">アカウントを削除してもよろしいですか？</string>
+	<string name="text_delete_my_account_warning_unable_friend">アカウントを削除すると、そのアカウントにログインできなくなります。アカウントを削除しますか？</string>
+	<string name="text_delete_my_account_ok">削除</string>
+</resources>

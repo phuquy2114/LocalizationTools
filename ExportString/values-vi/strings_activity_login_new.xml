@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_name_or_email_hind" />
+	<string name="text_password_hind" />
+	<string name="text_display_password">Hiển thị mật khẩu</string>
+	<string name="text_no_display_password">Ẩn mật khẩu</string>
+	<string name="text_sign_in">Đăng nhập</string>
+	<string name="text_password_login">Quên mật khẩu</string>
+	<string name="text_no_account">Bạn chưa có tài khoản?</string>
+	<string name="text_join_now">Tham gia Cosy ngay bây giờ</string>
+	<string name="text_you_need_help">Cần giúp đỡ?</string>
+	<string name="text_no_login_help">Sự cố khi đăng nhập?</string>
+	<string name="text_invitation_you_received">Làm thế nào để sử dụng Lời mời tôi nhận được?</string>
+	<string name="text_how_can_register">Làm thế nào để tham gia Cosy?</string>
+	<string name="text_cancel_help">Hủy</string>
+	<string name="text_permission_location">Vui lòng chấp nhận quyền truy cập vị trí của bạn. Nhấn cho phép để tiếp tục</string>
+</resources>

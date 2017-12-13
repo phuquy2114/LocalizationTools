@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_country">Quốc gia của bạn</string>
+	<string name="text_phone_validation">Quay lại</string>
+	<string name="text_search_by_name" />
+</resources>

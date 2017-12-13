@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_notification_n">Notifications</string>
+	<string name="text_describe_n">Disable suddent application can make notification delayed or not received</string>
+	<string name="text_pause_n">Disable in 1 hour</string>
+	<string name="text_on_n">Disable</string>
+	<string name="text_notification_sound_n">Sound</string>
+	<string name="text_tri_tone_n">Ringtone</string>
+	<string name="text_new_message_n">New message</string>
+	<string name="text_message_content_display_n">Display message </string>
+	<string name="text_push_notification_n">See message by notification </string>
+	<string name="text_invitation_group_n">Invite to group</string>
+	<string name="text_pay">Cosy pay</string>
+	<string name="text_timeline_notification">Timeline Notification</string>
+	<string name="text_in_app_notification">Start Signal </string>
+	<string name="text_in_app_sound">Sound start signal</string>
+	<string name="text_vib_ration">Ring when start</string>
+	<string name="text_on_off">Installing notification, music or vibration mode when starting Cosy.</string>
+	<string name="text_interlocking">Connect application</string>
+	<string name="text_not_linked">illegal application</string>
+	<string name="text_off_n">"If this setting is turned off, the notifications from app which are unlicensed  will not be accepted."</string>
+	<string name="text_setting_notify_vibrate">Ring</string>
+	<string name="text_setting_notify_vibrate_ring_description">When a call or a new message comes</string>
+	<string name="text_setting_notify_ring">Ring </string>
+	<string name="text_setting_notify_auto_send">Auto play voice message</string>
+	<string name="text_setting_notify_auto_send_description">Enable auto play voice message</string>
+	<string name="text_setting_notify_timeline_all">All notifications</string>
+	<string name="text_setting_notify_timeline_like_post">Like status</string>
+	<string name="text_setting_notify_timeline_comment_post">Comment status</string>
+	<string name="text_setting_notify_timeline_like_comment">Like comment</string>
+	<string name="text_setting_timeline_quality_image">high quality photo</string>
+	<string name="text_setting_timeline_quality_image_description">Enable to upload high quality photo</string>
+	<string name="text_setting_timeline_auto_video">Auto play video</string>
+	<string name="text_setting_timeline_auto_video_description">Video will automatically play when there is Internet connect. </string>
+</resources>

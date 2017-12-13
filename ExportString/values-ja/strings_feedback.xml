@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_screen_feedback">Ý kiến phản hồi</string>
+	<string name="text_feedback_title_feedback">Bạn muốn cho chúng tôi biết về những gì?</string>
+	<string name="text_feedback_title_two_feedback">Phản hồi mà bạn gửi cho chúng tôi không bao gồm thông tin cá nhân của bạn.</string>
+	<string name="text_please_input_content">Vui lòng nhập nội dùng góp ý.</string>
+</resources>

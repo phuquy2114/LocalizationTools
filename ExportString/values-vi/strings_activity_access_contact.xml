@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_access_contact">Hãy cùng tùy chỉnh Cosy  để có trải nghiệm tuyện vời hơn</string>
+	<string name="text_description_access_contact">Điều này có nghĩa bạn sẽ không bỏ lỡ những tin nhắn quan trọng từ bạn bè.</string>
+	<string name="text_not_allowed_access_contact">Không cho phép</string>
+	<string name="text_ok_access_contact">OK</string>
+	<string name="texxt_access_contact_permission">Hãy để Cosy  truy cập danh bạ</string>
+	<string name="text_description_contact_permission">Điều này cho phép bạn gọi và nhắn tin cho bạn bè khi họ đang ở trên Cosy</string>
+	<string name="text_not_allowed_permission">Không cho phép</string>
+</resources>

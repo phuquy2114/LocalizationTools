@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="title_dialog_chat">ようこそ！</string>
+	<string name="text_description_dialog_chat">Cosyに友達を追加できるように友達申請しよう</string>
+	<string name="text_later_dialog_chat">後で</string>
+	<string name="text_invitation_dialog_chat">招待する</string>
+</resources>

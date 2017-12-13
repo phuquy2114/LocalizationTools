@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_search_all_message">Message </string>
+	<string name="text_not_data">No result found</string>
+	<string name="text_remove_all">Delete all</string>
+	<string name="text_search_all_on_off_auto_save">Disable autosave </string>
+	<string name="text_search_all_remove_title_recently">Do you want to delete all search history? </string>
+	<string name="text_search_all_title_on_search_recently">Do you want to enable search history feature? </string>
+	<string name="action_back_login">Back to log in</string>
+	<string name="text_search">Recent searches </string>
+	<string name="text_search_all">All</string>
+	<string name="text_search_cancel">Cancel</string>
+	<string name="text_search_chat">Chat</string>
+	<string name="text_search_feature">Feature </string>
+	<string name="text_search_friend">Friend</string>
+	<string name="text_search_group">Group</string>
+	<string name="text_search_group_invitation">Group invited me</string>
+	<string name="text_search_message">Message </string>
+	<string name="text_title_change_email">Change your email address</string>
+	<string name="text_title_friend">Friend</string>
+	<string name="text_title_off_search_recently">Disable recent search feature</string>
+	<string name="text_title_on_search_recently">Enable recent search feature</string>
+	<string name="text_title_profile">Profile</string>
+	<string name="text_title_search_by_id">Search by ID </string>
+</resources>

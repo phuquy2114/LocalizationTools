@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="tab_bar_friend">Bạn Bè</string>
+	<string name="tab_bar_group">Nhóm</string>
+	<string name="tab_bar_add_friend">Thêm Bạn</string>
+</resources>

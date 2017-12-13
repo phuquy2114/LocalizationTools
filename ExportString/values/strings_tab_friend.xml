@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="tab_bar_friend">Friends</string>
+	<string name="tab_bar_group">Groups</string>
+	<string name="tab_bar_add_friend">Add friend</string>
+</resources>

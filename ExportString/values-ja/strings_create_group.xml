@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_tabs_add_friend_list">メンバー</string>
+	<string name="text_create_group_note">1つのトークに招待できるメンバーは499人までです。\n
+友達をグループに招待し相手が参加をするとグループメンバーになります。グループメンバー同士はいつでも同じトークルームでメッセージを送受信します。
+\n -写真を共有できるアルバム機能　\n  -グループで残しておきたい大事な情報を投稿できるノート機能
+ｰトークを削除しても、アルバムやノートはいつでも見ることができます。</string>
+	<string name="length_number">0/20</string>
+	<string name="text_add_to_friends">追加</string>
+	<string name="text_save_group">保存</string>
+	<string name="text_title_create_group">グループを作成</string>
+	<string name="text_validate_create_group">グループ名を入力してください。</string>
+	<string name="text_name_create_group" />
+</resources>

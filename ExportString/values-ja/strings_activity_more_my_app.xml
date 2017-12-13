@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_my_app">アカウント情報</string>
+	<string name="text_one">Test Bapはあなたの第一レベルのネットワーク接続です。</string>
+	<string name="text_two">連絡先に追加しました</string>
+</resources>

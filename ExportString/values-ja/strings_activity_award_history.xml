@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_arward">賞リスト</string>
+	<string name="text_group_information_award">賞情報</string>
+	<string name="text_note_award">注意：あなたの個人ページCosyからに
+登録したコネクジョンのみ番号に含まれています。</string>
+</resources>

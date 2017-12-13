@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_edit_friend">友達編集</string>
+	<string name="text_contact">連絡先</string>
+	<string name="text_friend">友達</string>
+	<string name="text_edit">編集</string>
+	<string name="text_choose_all">全選択</string>
+	<string name="text_un_choose_all">全解除</string>
+	<string name="tab_bar_tab_title_contact">招待する</string>
+	<string name="tab_bar_tab_title_qrcode">認証コード</string>
+	<string name="tab_bar_tab_title_search">ID/電話番号</string>
+</resources>

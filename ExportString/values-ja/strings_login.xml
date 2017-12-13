@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_sync_data">データの同期化中</string>
+	<string name="text_line_pro_login_tv_not_register">登録しない場合</string>
+	<string name="text_line_pro_login_tv_login">OK</string>
+	<string name="text_title_screen_re_register">登録</string>
+	<string name="text_re_register_change_device">端末の変更</string>
+	<string name="text_re_register_change_device_rules">端末を変更する場合、以前の情報を取るようにメールアドレスまたはFacebook でログインしてください。</string>
+	<string name="text_re_register_new">新規登録</string>
+	<string name="text_re_register_current">ログイン</string>
+	<string name="text_login_username">メール</string>
+	<string name="text_login_password">パスワード（6文字～20文字）</string>
+	<string name="text_login_forgot" />
+</resources>

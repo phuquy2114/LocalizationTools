@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="string_base_url">http://192.168.0.253/linepro-mlm/api/v1/</string>
+	<string name="string_base_url_platform">http://192.168.0.253/platform-mlm/</string>
+	<string name="string_base_url_chat">http://192.168.0.253:3001</string>
+	<string name="url_web_view_join">http://192.168.0.253/platform-mlm/join</string>
+	<string name="url_base_download_sticker">https://chat-app.bap.jp</string>
+	<string name="url_image_default">http://192.168.0.253/linepro-mlm/</string>
+	<string name="login_address_endpoint">https://chatapp-vn.bap.jp/api/v1/users/register</string>
+	<string name="url_youtube_">https://www.googleapis.com/youtube/v3</string>
+</resources>

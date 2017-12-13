@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_timeline">TimeLine</string>
+	<string name="text_time_line_hide_post">Hide this post</string>
+	<string name="text_timeline_report">Report</string>
+	<string name="text_edit_timeline_a_post">Edit</string>
+	<string name="text_delete">Delete</string>
+	<string name="text_report_send_message">Notification was sent</string>
+	<string name="text_request_button_delete_post">If you delete posts, all comments will also be deleted. Do you want to delete?</string>
+	<string name="text_timeline_home_posts">Posts</string>
+	<string name="text_timeline_home_post">Post</string>
+	<string-array name="arr_edit_timeline_friend_post">
+		<item>@string/text_time_line_hide_post</item>
+		<item>@string/text_timeline_report</item>
+	</string-array>
+	<string-array name="arr_edit_note_post">
+		<item>@string/text_time_line_hide_post</item>
+	</string-array>
+	<string-array name="arr_edit_timeline_home">
+		<item>@string/text_timeline_report</item>
+	</string-array>
+	<string-array name="arr_edit_timeline_my_post">
+		<item>@string/text_edit_timeline_a_post</item>
+		<item>@string/text_delete</item>
+	</string-array>
+	<string-array name="arr_edit_timeline_detail_friend_post">
+		<item>@string/text_timeline_report</item>
+	</string-array>
+	<string-array name="arr_edit_timeline_detail_my_post">
+		<item>@string/text_delete</item>
+	</string-array>
+	<string name="text_my_timeline_edit_profile">Profile settings</string>
+	<string name="text_my_timeline_capture_home_image">Take a Home image</string>
+	<string name="text_my_timeline_select_home_image">Select Home image</string>
+	<string name="string_report_title">Report</string>
+	<string name="string_remove_account">Lock this account</string>
+	<string name="text_test_timeline_user_name">Chi Nguyen</string>
+	<string name="text_test_timeline_time">Just finished</string>
+	<string name="text_test_timeline_status">I love Da nang !!!!</string>
+	<string name="number_like">%1$s likes</string>
+	<string name="number_comment">%1$s comments</string>
+	<string name="text_timeline_and_number_member">và %1$s others</string>
+	<string name="text_timeline_with_user_tag">With</string>
+	<string name="text_timeline_at_map">At</string>
+	<string name="text_timeline_show_old_comment">See older comments</string>
+	<string name="text_timeline_unknown_user">UnKnown</string>
+	<string name="text_add">+%1$s</string>
+	<string name="text_read_more">Read more</string>
+</resources>

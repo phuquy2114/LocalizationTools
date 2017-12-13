@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_hint_email_change">Type new email</string>
+	<string name="text_hint_password_change">Type new password</string>
+	<string name="text_hint_repassword_change">Re-type the new password</string>
+	<string name="text_description_change">You can retain before information by registering email or changing your phone number in your device. </string>
+</resources>

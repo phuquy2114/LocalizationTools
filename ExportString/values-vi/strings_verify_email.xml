@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_hint_verify_code">Mã xác nhận</string>
+	<string name="text_verify_title_change_email">Thay đổi Email</string>
+	<string name="text_description_verify">Bạn không nhận được mã xác nhận? \n
+        1. Kiểm tra lại địa chỉ email của mình. \n
+        2. Kiểm tra thư mục thư rác. \n
+        3. Thử lại bằng cách sau đây.
+    </string>
+	<string name="text_re_verify_code">Gửi lại mã xác nhận</string>
+	<string name="text_re_email">Gửi</string>
+</resources>

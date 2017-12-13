@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_bing">Bing</string>
+	<string name="text_talk">Trò chuyện</string>
+	<string name="text_free_communication">Gọi miễn phí</string>
+	<string name="text_video_communication">Gọi video</string>
+</resources>

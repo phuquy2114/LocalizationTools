@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_groups_friend">Friends</string>
+	<string name="text_friend_pending">Waiting for confirmation</string>
+	<string name="text_complete">Done</string>
+</resources>

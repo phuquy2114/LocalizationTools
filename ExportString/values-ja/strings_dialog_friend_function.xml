@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_message_func">チャット</string>
+	<string name="text_note_func">ノート</string>
+	<string name="text_album_func">アルバム</string>
+</resources>

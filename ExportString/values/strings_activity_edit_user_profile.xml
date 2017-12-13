@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_avatar_edit">Avatar</string>
+	<string name="text_birthday_edit">Date of birth</string>
+	<string name="text_gender_edit">Sex</string>
+	<string name="text_city_edit">City/Nation</string>
+	<string name="text_city_hind"><font size="12">Enter your city </font></string>
+	<string name="text_phone_lowercase_edit">Phone number</string>
+	<string name="text_phone_edit">Mobile</string>
+	<string name="text_Add_phone_edit">Add phone number</string>
+</resources>

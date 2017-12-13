@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_cancel_toolbar_avatar">Hủy</string>
+	<string name="text_done_toolbar_avatar">Xong</string>
+	<string name="text_create_account_toolbar_avatar">Tạo tài khoản </string>
+	<string name="text_register_toolbar_avatar">Đăng ký Cosy</string>
+</resources>

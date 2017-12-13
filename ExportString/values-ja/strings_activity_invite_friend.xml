@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="text_title_invite">友達を招待</string>
+	<string name="text_title_right_invite">招待</string>
+	<string name="text_invite_friends">友達を招待</string>
+</resources>
